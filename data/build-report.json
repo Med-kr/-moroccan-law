@@ -1,0 +1,1193 @@
+[
+ {
+  "skill": "maroc-droit",
+  "slug": "dustur-2011",
+  "n_articles": 180,
+  "article_keyword": "الفصل",
+  "consolidated_on": null,
+  "n_footnotes": 1,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 45
+ },
+ {
+  "skill": "maroc-droit",
+  "slug": "dustur-2011-fr",
+  "n_articles": 180,
+  "article_keyword": "Article",
+  "consolidated_on": null,
+  "n_footnotes": 1,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 58
+ },
+ {
+  "skill": "maroc-civil",
+  "slug": "doc",
+  "n_articles": 1316,
+  "article_keyword": "الفصل",
+  "consolidated_on": "16 يوليو 2026",
+  "n_footnotes": 408,
+  "other_parts": [],
+  "anomalies": [
+   "numbering gap: 324 -> 335 (page 78); usually a repealed range, check the footnote",
+   "article 726 has no text (page 166); usually repealed, check the footnote"
+  ],
+  "pdf_pages": 282
+ },
+ {
+  "skill": "maroc-civil",
+  "slug": "tahkim-95-17",
+  "n_articles": 105,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 1,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 37
+ },
+ {
+  "skill": "maroc-civil",
+  "slug": "doc-fr",
+  "n_articles": 1316,
+  "article_keyword": "Article",
+  "consolidated_on": "18 mars 2021",
+  "n_footnotes": 300,
+  "other_parts": [],
+  "anomalies": [
+   "numbering gap: 324 -> 335 (page 85); usually a repealed range, check the footnote",
+   "article 726 has no text (page 182); usually repealed, check the footnote",
+   "article 1180 has no text (page 286); usually repealed, check the footnote",
+   "article 1185 has no text (page 287); usually repealed, check the footnote"
+  ],
+  "pdf_pages": 312
+ },
+ {
+  "skill": "maroc-civil",
+  "slug": "tahkim-95-17-fr",
+  "n_articles": 105,
+  "article_keyword": "Article",
+  "consolidated_on": null,
+  "n_footnotes": 1,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 49
+ },
+ {
+  "skill": "maroc-procedure-civile",
+  "slug": "msm-58-25",
+  "n_articles": 644,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 1,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 175
+ },
+ {
+  "skill": "maroc-procedure-civile",
+  "slug": "tandim-qadai-38-15",
+  "n_articles": 111,
+  "article_keyword": "المادة",
+  "consolidated_on": "3 مارس 2025",
+  "n_footnotes": 10,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 36
+ },
+ {
+  "skill": "maroc-procedure-civile",
+  "slug": "qada-qorb-42-10",
+  "n_articles": 22,
+  "article_keyword": "المادة",
+  "consolidated_on": "23 فبراير 2026",
+  "n_footnotes": 13,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 12
+ },
+ {
+  "skill": "maroc-procedure-civile",
+  "slug": "msm-1974-mansukh",
+  "n_articles": 471,
+  "article_keyword": "الفصل",
+  "consolidated_on": null,
+  "n_footnotes": 189,
+  "other_parts": [
+   6
+  ],
+  "anomalies": [
+   "article 183 has no text (page 56); usually repealed, check the footnote",
+   "numbering gap: 184 -> 201 (page 56); usually a repealed range, check the footnote",
+   "numbering gap: 214 -> 217 (page 60); usually a repealed range, check the footnote",
+   "numbering gap: 242 -> 258 (page 66); usually a repealed range, check the footnote",
+   "numbering gap: 263 -> 267 (page 67); usually a repealed range, check the footnote",
+   "numbering gap: 305 -> 328 (page 76); usually a repealed range, check the footnote",
+   "article 368 has no text (page 88); usually repealed, check the footnote"
+  ],
+  "pdf_pages": 124
+ },
+ {
+  "skill": "maroc-procedure-civile",
+  "slug": "mahakim-idariya-41-90-mansukh",
+  "n_articles": 47,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 54,
+  "other_parts": [],
+  "anomalies": [
+   "numbering gap: 44 -> 49 (page 21); usually a repealed range, check the footnote"
+  ],
+  "pdf_pages": 21
+ },
+ {
+  "skill": "maroc-procedure-civile",
+  "slug": "mahakim-tijariya-53-95-mansukh",
+  "n_articles": 25,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 13,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 13
+ },
+ {
+  "skill": "maroc-procedure-civile",
+  "slug": "ayam-al-ayad-2-77-169",
+  "n_articles": 3,
+  "article_keyword": "الفصل",
+  "consolidated_on": "5 فبراير 2026",
+  "n_footnotes": 2,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 6
+ },
+ {
+  "skill": "maroc-procedure-civile",
+  "slug": "ikrah-badani-1961",
+  "n_articles": 3,
+  "article_keyword": "الفصل",
+  "consolidated_on": "27 نوفمبر 2006",
+  "n_footnotes": 3,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 3
+ },
+ {
+  "skill": "maroc-penal",
+  "slug": "qanun-jinai",
+  "n_articles": 731,
+  "article_keyword": "الفصل",
+  "consolidated_on": "22 غشت 2024",
+  "n_footnotes": 236,
+  "other_parts": [
+   9
+  ],
+  "anomalies": [
+   "numbering gap: 18 -> 24 (page 14); usually a repealed range, check the footnote",
+   "numbering gap: 288 -> 292 (page 95); usually a repealed range, check the footnote",
+   "numbering gap: 493 -> 497 (page 164); usually a repealed range, check the footnote"
+  ],
+  "pdf_pages": 207
+ },
+ {
+  "skill": "maroc-penal",
+  "slug": "oqubat-badila",
+  "n_articles": 4,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 1,
+  "other_parts": [],
+  "anomalies": [
+   "heading-like line kept as text: 'المادة 647-1. - تختص الإدارة المكلفة بال' (page 7)",
+   "heading-like line kept as text: 'المادة 647-2. - تقوم النيابة العامة بإحا' (page 8)",
+   "heading-like line kept as text: 'المادة 647-3. - يختص قاضي تطبيق العقوبات' (page 8)",
+   "heading-like line kept as text: 'المادة 647-4. - يستفيد المحكوم عليه الذي' (page 8)",
+   "heading-like line kept as text: 'المادة 647-5. - تحيل النيابة العامة داخل' (page 9)",
+   "heading-like line kept as text: 'المادة 647-6. - يأمر قاضي تطبيق العقوبات' (page 9)",
+   "heading-like line kept as text: 'المادة 647-7. - في حالة عدم تنفيذ أو إخل' (page 10)",
+   "heading-like line kept as text: 'المادة 647-8. - تمسك المؤسسات التي يؤدي ' (page 10)",
+   "heading-like line kept as text: 'المادة 647-9. - يمكن لقاضي تطبيق العقوبا' (page 11)",
+   "heading-like line kept as text: 'المادة 647-10. - تتولى الإدارة المكلفة ب' (page 11)",
+   "heading-like line kept as text: 'المادة 647-11. - تتم المراقبة الإلكتروني' (page 11)",
+   "heading-like line kept as text: 'المادة 647-12. - تلتزم الجهات المشار إلي' (page 11)",
+   "heading-like line kept as text: 'المادة 647-13. - تحدد بنص تنظيمي كيفيات ' (page 12)",
+   "heading-like line kept as text: 'المادة 647-14. - يمكن لقاضي تطبيق العقوب' (page 12)",
+   "heading-like line kept as text: 'المادة 647-15. - يأمر قاضي تطبيق العقوبا' (page 13)",
+   "heading-like line kept as text: 'المادة 647-16. - تتولى الإدارة المكلفة ب' (page 13)",
+   "heading-like line kept as text: 'المادة 647-17. - يلتزم المحكوم عليه بالإ' (page 13)",
+   "heading-like line kept as text: 'المادة 647-18. - يؤدى مجموع الغرامة اليو' (page 13)",
+   "heading-like line kept as text: 'المادة 647-19. - يأمر قاضي تطبيق العقوبا' (page 14)",
+   "heading-like line kept as text: 'المادة 647-20. - يلتزم المحكوم عليه بالإ' (page 14)",
+   "heading-like line kept as text: 'المادة 647-21. - تتولى الإدارة المكلفة ب' (page 14)",
+   "heading-like line kept as text: 'المادة 647-22. - يمكن لقاضي تطبيق العقوب' (page 14)"
+  ],
+  "pdf_pages": 14
+ },
+ {
+  "skill": "maroc-penal",
+  "slug": "onf-nisa-103-13",
+  "n_articles": 18,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 3,
+  "other_parts": [],
+  "anomalies": [
+   "heading-like line kept as text: 'المادة 7. - يرجع الحق في إقامة.الجريمة م' (page 9)"
+  ],
+  "pdf_pages": 14
+ },
+ {
+  "skill": "maroc-penal",
+  "slug": "ghasl-amwal-43-05",
+  "n_articles": 43,
+  "article_keyword": "المادة",
+  "consolidated_on": "14 يونيو 2021",
+  "n_footnotes": 40,
+  "other_parts": [
+   10
+  ],
+  "anomalies": [],
+  "pdf_pages": 27
+ },
+ {
+  "skill": "maroc-penal",
+  "slug": "mukhaddirat",
+  "n_articles": 16,
+  "article_keyword": "الفصل",
+  "consolidated_on": null,
+  "n_footnotes": 1,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 7
+ },
+ {
+  "skill": "maroc-penal",
+  "slug": "qanun-jinai-fr",
+  "n_articles": 718,
+  "article_keyword": "Article",
+  "consolidated_on": "20 avril 2023",
+  "n_footnotes": 295,
+  "other_parts": [
+   9
+  ],
+  "anomalies": [
+   "numbering gap: 18 -> 24 (page 15); usually a repealed range, check the footnote",
+   "numbering gap: 288 -> 292 (page 110); usually a repealed range, check the footnote"
+  ],
+  "pdf_pages": 249
+ },
+ {
+  "skill": "maroc-penal",
+  "slug": "ajanib-02-03",
+  "n_articles": 58,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 11,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 21
+ },
+ {
+  "skill": "maroc-procedure-penale",
+  "slug": "msj",
+  "n_articles": 917,
+  "article_keyword": "المادة",
+  "consolidated_on": "8 سبتمبر 2025",
+  "n_footnotes": 392,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 296
+ },
+ {
+  "skill": "maroc-famille",
+  "slug": "mudawwanat-usra",
+  "n_articles": 400,
+  "article_keyword": "المادة",
+  "consolidated_on": "29 يوليو 2021",
+  "n_footnotes": 14,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 107
+ },
+ {
+  "skill": "maroc-famille",
+  "slug": "hala-madaniya-36-21",
+  "n_articles": 59,
+  "article_keyword": "المادة",
+  "consolidated_on": "29 يناير 2026",
+  "n_footnotes": 2,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 24
+ },
+ {
+  "skill": "maroc-famille",
+  "slug": "kafala-15-01",
+  "n_articles": 32,
+  "article_keyword": "المادة",
+  "consolidated_on": "16 يوليو 2026",
+  "n_footnotes": 28,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 19
+ },
+ {
+  "skill": "maroc-famille",
+  "slug": "jinsiya",
+  "n_articles": 46,
+  "article_keyword": "الفصل",
+  "consolidated_on": "27 فبراير 2023",
+  "n_footnotes": 29,
+  "other_parts": [],
+  "anomalies": [
+   "heading-like line kept as text: 'الفصل الثاني عشر:' (page 8)"
+  ],
+  "pdf_pages": 25
+ },
+ {
+  "skill": "maroc-famille",
+  "slug": "mudawwanat-usra-fr",
+  "n_articles": 400,
+  "article_keyword": "Article",
+  "consolidated_on": "4 février 2016",
+  "n_footnotes": 13,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 112
+ },
+ {
+  "skill": "maroc-famille",
+  "slug": "jinsiya-fr",
+  "n_articles": 46,
+  "article_keyword": "Article",
+  "consolidated_on": "16 mai 2024",
+  "n_footnotes": 33,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 26
+ },
+ {
+  "skill": "maroc-travail",
+  "slug": "mudawwanat-shughl",
+  "n_articles": 589,
+  "article_keyword": "المادة",
+  "consolidated_on": "16 يوليو 2026",
+  "n_footnotes": 38,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 171
+ },
+ {
+  "skill": "maroc-travail",
+  "slug": "hawadith-shughl-18-12",
+  "n_articles": 197,
+  "article_keyword": "المادة",
+  "consolidated_on": "3 مارس 2025",
+  "n_footnotes": 19,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 52
+ },
+ {
+  "skill": "maroc-travail",
+  "slug": "daman-ijtimai",
+  "n_articles": 92,
+  "article_keyword": "الفصل",
+  "consolidated_on": "3 مارس 2025",
+  "n_footnotes": 67,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 45
+ },
+ {
+  "skill": "maroc-travail",
+  "slug": "mudawwanat-shughl-fr",
+  "n_articles": 589,
+  "article_keyword": "Article",
+  "consolidated_on": "26 octobre 2011",
+  "n_footnotes": 102,
+  "other_parts": [],
+  "anomalies": [
+   "article 256 has no text (page 94); usually repealed, check the footnote"
+  ],
+  "pdf_pages": 201
+ },
+ {
+  "skill": "maroc-travail",
+  "slug": "amo-65-00",
+  "n_articles": 154,
+  "article_keyword": "المادة",
+  "consolidated_on": "29 يناير 2026",
+  "n_footnotes": 106,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 56
+ },
+ {
+  "skill": "maroc-travail",
+  "slug": "idrab-97-15",
+  "n_articles": 33,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 1,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 35
+ },
+ {
+  "skill": "maroc-travail",
+  "slug": "naqabat-1957",
+  "n_articles": 27,
+  "article_keyword": "الفصل",
+  "consolidated_on": "13 مارس 2000",
+  "n_footnotes": 5,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 8
+ },
+ {
+  "skill": "maroc-commerce",
+  "slug": "mudawwanat-tijara",
+  "n_articles": 849,
+  "article_keyword": "المادة",
+  "consolidated_on": "29 يناير 2026",
+  "n_footnotes": 104,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 221
+ },
+ {
+  "skill": "maroc-commerce",
+  "slug": "sharikat-musahama-17-95",
+  "n_articles": 461,
+  "article_keyword": "المادة",
+  "consolidated_on": "27 فبراير 2023",
+  "n_footnotes": 173,
+  "other_parts": [],
+  "anomalies": [
+   "article 376 has no text (page 127); usually repealed, check the footnote",
+   "article 380 has no text (page 128); usually repealed, check the footnote",
+   "numbering gap: 424 -> 441 (page 141); usually a repealed range, check the footnote"
+  ],
+  "pdf_pages": 145
+ },
+ {
+  "skill": "maroc-commerce",
+  "slug": "sharikat-5-96",
+  "n_articles": 147,
+  "article_keyword": "المادة",
+  "consolidated_on": "22 أغسطس 2024",
+  "n_footnotes": 25,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 47
+ },
+ {
+  "skill": "maroc-commerce",
+  "slug": "munafasa-104-12",
+  "n_articles": 114,
+  "article_keyword": "المادة",
+  "consolidated_on": "15 ديسمبر 2022",
+  "n_footnotes": 66,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 49
+ },
+ {
+  "skill": "maroc-commerce",
+  "slug": "himayat-mustahlik-31-08",
+  "n_articles": 206,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 29,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 62
+ },
+ {
+  "skill": "maroc-commerce",
+  "slug": "mudawwanat-tijara-fr",
+  "n_articles": 839,
+  "article_keyword": "Article",
+  "consolidated_on": "19 décembre 2019",
+  "n_footnotes": 75,
+  "other_parts": [],
+  "anomalies": [
+   "article 112 has no text (page 44); usually repealed, check the footnote",
+   "article 132 has no text (page 52); usually repealed, check the footnote",
+   "article 133 has no text (page 52); usually repealed, check the footnote",
+   "article 134 has no text (page 52); usually repealed, check the footnote",
+   "article 135 has no text (page 52); usually repealed, check the footnote",
+   "article 138 has no text (page 52); usually repealed, check the footnote",
+   "article 139 has no text (page 52); usually repealed, check the footnote",
+   "article 140 has no text (page 52); usually repealed, check the footnote",
+   "article 141 has no text (page 52); usually repealed, check the footnote",
+   "article 142 has no text (page 52); usually repealed, check the footnote",
+   "article 358 has no text (page 120); usually repealed, check the footnote",
+   "article 359 has no text (page 120); usually repealed, check the footnote",
+   "article 360 has no text (page 120); usually repealed, check the footnote",
+   "article 368 has no text (page 122); usually repealed, check the footnote",
+   "article 374 has no text (page 125); usually repealed, check the footnote",
+   "article 375 has no text (page 125); usually repealed, check the footnote",
+   "article 380 has no text (page 126); usually repealed, check the footnote",
+   "article 381 has no text (page 126); usually repealed, check the footnote",
+   "article 382 has no text (page 126); usually repealed, check the footnote",
+   "article 383 has no text (page 126); usually repealed, check the footnote",
+   "article 384 has no text (page 126); usually repealed, check the footnote",
+   "article 387 has no text (page 127); usually repealed, check the footnote",
+   "article 437 has no text (page 146); usually repealed, check the footnote",
+   "article 438 has no text (page 146); usually repealed, check the footnote",
+   "article 439 has no text (page 146); usually repealed, check the footnote"
+  ],
+  "pdf_pages": 262
+ },
+ {
+  "skill": "maroc-commerce",
+  "slug": "sharikat-musahama-fr",
+  "n_articles": 465,
+  "article_keyword": "Article",
+  "consolidated_on": null,
+  "n_footnotes": 145,
+  "other_parts": [],
+  "anomalies": [
+   "article 30 has no text (page 13); usually repealed, check the footnote",
+   "article 46 has no text (page 21); usually repealed, check the footnote",
+   "article 153 has no text (page 69); usually repealed, check the footnote",
+   "article 154 has no text (page 69); usually repealed, check the footnote",
+   "article 156 has no text (page 70); usually repealed, check the footnote",
+   "article 376 has no text (page 145); usually repealed, check the footnote",
+   "article 380 has no text (page 146); usually repealed, check the footnote",
+   "numbering gap: 424 -> 441 (page 163); usually a repealed range, check the footnote"
+  ],
+  "pdf_pages": 167
+ },
+ {
+  "skill": "maroc-commerce",
+  "slug": "himayat-mustahlik-fr",
+  "n_articles": 206,
+  "article_keyword": "Article",
+  "consolidated_on": null,
+  "n_footnotes": 28,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 75
+ },
+ {
+  "skill": "maroc-commerce",
+  "slug": "munafasa-fr",
+  "n_articles": 111,
+  "article_keyword": "Article",
+  "consolidated_on": null,
+  "n_footnotes": 44,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 55
+ },
+ {
+  "skill": "maroc-commerce",
+  "slug": "taawuniyat-112-12",
+  "n_articles": 108,
+  "article_keyword": "المادة",
+  "consolidated_on": "21 أغسطس 2017",
+  "n_footnotes": 12,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 49
+ },
+ {
+  "skill": "maroc-immobilier",
+  "slug": "huquq-ayniya-39-08",
+  "n_articles": 334,
+  "article_keyword": "المادة",
+  "consolidated_on": "16 يوليو 2026",
+  "n_footnotes": 13,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 60
+ },
+ {
+  "skill": "maroc-immobilier",
+  "slug": "tahfid-aqari",
+  "n_articles": 134,
+  "article_keyword": "الفصل",
+  "consolidated_on": "23 يناير 2014",
+  "n_footnotes": 93,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 52
+ },
+ {
+  "skill": "maroc-immobilier",
+  "slug": "milkiya-mushtaraka-18-00",
+  "n_articles": 101,
+  "article_keyword": "المادة",
+  "consolidated_on": "16 يوليو 2026",
+  "n_footnotes": 102,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 42
+ },
+ {
+  "skill": "maroc-immobilier",
+  "slug": "kira-sakani-67-12",
+  "n_articles": 75,
+  "article_keyword": "المادة",
+  "consolidated_on": "21 فبراير 2019",
+  "n_footnotes": 7,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 27
+ },
+ {
+  "skill": "maroc-immobilier",
+  "slug": "kira-tijari-49-16",
+  "n_articles": 38,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 7,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 18
+ },
+ {
+  "skill": "maroc-immobilier",
+  "slug": "murajaat-kira",
+  "n_articles": 10,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 2,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 5
+ },
+ {
+  "skill": "maroc-immobilier",
+  "slug": "naz-milkiya-7-81",
+  "n_articles": 70,
+  "article_keyword": "الفصل",
+  "consolidated_on": "23 فبراير 2026",
+  "n_footnotes": 50,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 28
+ },
+ {
+  "skill": "maroc-immobilier",
+  "slug": "huquq-ayniya-fr",
+  "n_articles": 334,
+  "article_keyword": "Article",
+  "consolidated_on": null,
+  "n_footnotes": 4,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 69
+ },
+ {
+  "skill": "maroc-immobilier",
+  "slug": "tahfid-aqari-fr",
+  "n_articles": 123,
+  "article_keyword": "Article",
+  "consolidated_on": null,
+  "n_footnotes": 51,
+  "other_parts": [],
+  "anomalies": [
+   "numbering gap: 1 -> 6 (page 5); usually a repealed range, check the footnote",
+   "article 28 has no text (page 16); usually repealed, check the footnote",
+   "article 33 has no text (page 18); usually repealed, check the footnote",
+   "article 36 has no text (page 19); usually repealed, check the footnote",
+   "article 39 has no text (page 20); usually repealed, check the footnote",
+   "article 46 has no text (page 22); usually repealed, check the footnote",
+   "article 49 has no text (page 22); usually repealed, check the footnote",
+   "article 53 has no text (page 28); usually repealed, check the footnote",
+   "numbering gap: 55 -> 58 (page 28); usually a repealed range, check the footnote",
+   "article 59 has no text (page 29); usually repealed, check the footnote",
+   "numbering gap: 78 -> 82 (page 34); usually a repealed range, check the footnote",
+   "article 92 has no text (page 38); usually repealed, check the footnote",
+   "numbering gap: 97 -> 100 (page 40); usually a repealed range, check the footnote"
+  ],
+  "pdf_pages": 43
+ },
+ {
+  "skill": "maroc-immobilier",
+  "slug": "milkiya-mushtaraka-fr",
+  "n_articles": 93,
+  "article_keyword": "Article",
+  "consolidated_on": "3 novembre 2016",
+  "n_footnotes": 72,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 39
+ },
+ {
+  "skill": "maroc-immobilier",
+  "slug": "taamir-12-90",
+  "n_articles": 97,
+  "article_keyword": "المادة",
+  "consolidated_on": "19 سبتمبر 2016",
+  "n_footnotes": 43,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 39
+ },
+ {
+  "skill": "maroc-immobilier",
+  "slug": "tajziat-25-90",
+  "n_articles": 96,
+  "article_keyword": "المادة",
+  "consolidated_on": "10 أغسطس 2026",
+  "n_footnotes": 68,
+  "other_parts": [],
+  "anomalies": [
+   "numbering gap: 23 -> 25 (page 18); usually a repealed range, check the footnote",
+   "article 74 المكررة has no text (page 38); usually repealed, check the footnote"
+  ],
+  "pdf_pages": 39
+ },
+ {
+  "skill": "maroc-immobilier",
+  "slug": "ijar-mufdi-51-00",
+  "n_articles": 23,
+  "article_keyword": "المادة",
+  "consolidated_on": "16 يوليو 2026",
+  "n_footnotes": 7,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 9
+ },
+ {
+  "skill": "maroc-immobilier",
+  "slug": "awqaf",
+  "n_articles": 177,
+  "article_keyword": "المادة",
+  "consolidated_on": "11 مارس 2019",
+  "n_footnotes": 36,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 44
+ },
+ {
+  "skill": "maroc-professions-judiciaires",
+  "slug": "muhamat-66-23",
+  "n_articles": 147,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 1,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 50
+ },
+ {
+  "skill": "maroc-professions-judiciaires",
+  "slug": "tawthiq-32-09",
+  "n_articles": 134,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 13,
+  "other_parts": [
+   14
+  ],
+  "anomalies": [],
+  "pdf_pages": 43
+ },
+ {
+  "skill": "maroc-professions-judiciaires",
+  "slug": "udul-51-26",
+  "n_articles": 204,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 1,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 57
+ },
+ {
+  "skill": "maroc-professions-judiciaires",
+  "slug": "mufawwadin-46-21",
+  "n_articles": 175,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 23,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 51
+ },
+ {
+  "skill": "maroc-professions-judiciaires",
+  "slug": "khubara-01-24",
+  "n_articles": 77,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 1,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 20
+ },
+ {
+  "skill": "maroc-professions-judiciaires",
+  "slug": "cspj-100-13",
+  "n_articles": 121,
+  "article_keyword": "المادة",
+  "consolidated_on": "23 مارس 2023",
+  "n_footnotes": 47,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 60
+ },
+ {
+  "skill": "maroc-professions-judiciaires",
+  "slug": "qudat-106-13",
+  "n_articles": 118,
+  "article_keyword": "المادة",
+  "consolidated_on": "11 سبتمبر 2025",
+  "n_footnotes": 22,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 59
+ },
+ {
+  "skill": "maroc-administratif",
+  "slug": "taalil-03-01",
+  "n_articles": 7,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 1,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 4
+ },
+ {
+  "skill": "maroc-administratif",
+  "slug": "isti2naf-idari-80-03",
+  "n_articles": 21,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 13,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 9
+ },
+ {
+  "skill": "maroc-administratif",
+  "slug": "tabsit-55-19",
+  "n_articles": 33,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 1,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 14
+ },
+ {
+  "skill": "maroc-administratif",
+  "slug": "marafiq-54-19",
+  "n_articles": 38,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 1,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 13
+ },
+ {
+  "skill": "maroc-administratif",
+  "slug": "safaqat-2-22-431",
+  "n_articles": 170,
+  "article_keyword": "المادة",
+  "consolidated_on": "05 نوفمبر 2026",
+  "n_footnotes": 6,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 197
+ },
+ {
+  "skill": "maroc-administratif",
+  "slug": "jamaat-113-14",
+  "n_articles": 283,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 29,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 88
+ },
+ {
+  "skill": "maroc-administratif",
+  "slug": "mahakim-maliya-62-99",
+  "n_articles": 252,
+  "article_keyword": "المادة",
+  "consolidated_on": "3 مارس 2025",
+  "n_footnotes": 65,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 93
+ },
+ {
+  "skill": "maroc-administratif",
+  "slug": "bia-11-03",
+  "n_articles": 80,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 8,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 22
+ },
+ {
+  "skill": "maroc-administratif",
+  "slug": "maa-36-15",
+  "n_articles": 164,
+  "article_keyword": "المادة",
+  "consolidated_on": "27 فبراير 2023",
+  "n_footnotes": 3,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 56
+ },
+ {
+  "skill": "maroc-administratif",
+  "slug": "rahn-safaqat",
+  "n_articles": 15,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 1,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 8
+ },
+ {
+  "skill": "maroc-fiscal-douane",
+  "slug": "jamarik",
+  "n_articles": 312,
+  "article_keyword": "الفصل",
+  "consolidated_on": "25 ديسمبر 2023",
+  "n_footnotes": 313,
+  "other_parts": [],
+  "anomalies": [
+   "numbering gap: 9 -> 13 (page 9); usually a repealed range, check the footnote",
+   "numbering gap: 24 -> 27 (page 24); usually a repealed range, check the footnote",
+   "numbering gap: 166 -> 181 (page 101); usually a repealed range, check the footnote",
+   "numbering gap: 194 -> 203 المكرر (page 106); usually a repealed range, check the footnote",
+   "article 207 has no text (page 107); usually repealed, check the footnote",
+   "numbering gap: 288 -> 293 (page 134); usually a repealed range, check the footnote"
+  ],
+  "pdf_pages": 140
+ },
+ {
+  "skill": "maroc-fiscal-douane",
+  "slug": "tahsil-15-97",
+  "n_articles": 152,
+  "article_keyword": "المادة",
+  "consolidated_on": "25 ديسمبر 2023",
+  "n_footnotes": 29,
+  "other_parts": [],
+  "anomalies": [
+   "numbering gap: 145 -> 159 (page 43); usually a repealed range, check the footnote"
+  ],
+  "pdf_pages": 48
+ },
+ {
+  "skill": "maroc-fiscal-douane",
+  "slug": "islah-jibai-69-19",
+  "n_articles": 19,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 1,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 9
+ },
+ {
+  "skill": "maroc-numerique",
+  "slug": "muatayat-09-08",
+  "n_articles": 67,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 38,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 36
+ },
+ {
+  "skill": "maroc-numerique",
+  "slug": "tabadul-53-05",
+  "n_articles": 4,
+  "article_keyword": "المادة",
+  "consolidated_on": "11 يناير 2021",
+  "n_footnotes": 11,
+  "other_parts": [],
+  "anomalies": [
+   "numbering gap: 0 -> 2 (page 4); usually a repealed range, check the footnote"
+  ],
+  "pdf_pages": 9
+ },
+ {
+  "skill": "maroc-numerique",
+  "slug": "thiqa-43-20",
+  "n_articles": 84,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 1,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 24
+ },
+ {
+  "skill": "maroc-numerique",
+  "slug": "amn-sibrani-05-20",
+  "n_articles": 53,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 1,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 18
+ },
+ {
+  "skill": "maroc-numerique",
+  "slug": "muatayat-09-08-fr",
+  "n_articles": 67,
+  "article_keyword": "Article",
+  "consolidated_on": null,
+  "n_footnotes": 38,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 46
+ },
+ {
+  "skill": "maroc-assurances-banques",
+  "slug": "taminat-17-99",
+  "n_articles": 408,
+  "article_keyword": "المادة",
+  "consolidated_on": "22 أغسطس 2024",
+  "n_footnotes": 177,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 147
+ },
+ {
+  "skill": "maroc-assurances-banques",
+  "slug": "hawadith-sayr-1984",
+  "n_articles": 32,
+  "article_keyword": "المادة",
+  "consolidated_on": "29 يناير 2026",
+  "n_footnotes": 26,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 28
+ },
+ {
+  "skill": "maroc-assurances-banques",
+  "slug": "itiman-103-12",
+  "n_articles": 233,
+  "article_keyword": "المادة",
+  "consolidated_on": "10 أغسطس 2026",
+  "n_footnotes": 60,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 85
+ },
+ {
+  "skill": "maroc-assurances-banques",
+  "slug": "bank-al-maghrib-40-17",
+  "n_articles": 81,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 1,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 25
+ },
+ {
+  "skill": "maroc-assurances-banques",
+  "slug": "sayr-52-05",
+  "n_articles": 329,
+  "article_keyword": "المادة",
+  "consolidated_on": "11 أغسطس 2016",
+  "n_footnotes": 247,
+  "other_parts": [],
+  "anomalies": [
+   "article 25 has no text (page 18); usually repealed, check the footnote"
+  ],
+  "pdf_pages": 161
+ },
+ {
+  "skill": "maroc-propriete-intellectuelle",
+  "slug": "milkiya-sinaiya-17-97",
+  "n_articles": 293,
+  "article_keyword": "المادة",
+  "consolidated_on": "18 ديسمبر 2014",
+  "n_footnotes": 208,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 106
+ },
+ {
+  "skill": "maroc-propriete-intellectuelle",
+  "slug": "huquq-muallif-2-00",
+  "n_articles": 124,
+  "article_keyword": "المادة",
+  "consolidated_on": "10 أغسطس 2026",
+  "n_footnotes": 51,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 57
+ },
+ {
+  "skill": "maroc-libertes-publiques",
+  "slug": "jamiyat-1958",
+  "n_articles": 36,
+  "article_keyword": "الفصل",
+  "consolidated_on": "24 أكتوبر 2011",
+  "n_footnotes": 31,
+  "other_parts": [],
+  "anomalies": [
+   "numbering gap: 14 -> 21 (page 10); usually a repealed range, check the footnote"
+  ],
+  "pdf_pages": 15
+ },
+ {
+  "skill": "maroc-libertes-publiques",
+  "slug": "tajammuat-1958",
+  "n_articles": 26,
+  "article_keyword": "الفصل",
+  "consolidated_on": "10 اكتوبر 2002",
+  "n_footnotes": 21,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 10
+ },
+ {
+  "skill": "maroc-libertes-publiques",
+  "slug": "sahafa-88-13",
+  "n_articles": 126,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 1,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 52
+ },
+ {
+  "skill": "maroc-libertes-publiques",
+  "slug": "maalumat-31-13",
+  "n_articles": 30,
+  "article_keyword": "المادة",
+  "consolidated_on": null,
+  "n_footnotes": 1,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 12
+ },
+ {
+  "skill": "maroc-corpus",
+  "slug": "adala-8368",
+  "n_articles": 3,
+  "article_keyword": "الفصل",
+  "consolidated_on": null,
+  "n_footnotes": 2,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 6
+ }
+]

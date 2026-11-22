@@ -1,0 +1,35 @@
+{
+ "slug": "adala-8334",
+ "title": "ظهير شريف بإحداث «صندوق مساندة المغرب للشعب الفلسطيني» وكذا الموارد المرصودة له",
+ "title_fr": "ظهير شريف بإحداث «صندوق مساندة المغرب للشعب الفلسطيني» وكذا الموارد المرصودة له",
+ "source_title": "ظهير شريف بإحداث «صندوق مساندة المغرب للشعب الفلسطيني» وكذا الموارد المرصودة له",
+ "source_id": 8334,
+ "source_name": "Adala",
+ "source_url": "https://adala.justice.gov.ma/api/uploads/2025/07/23/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.70.16%20%D8%A8%D8%A5%D8%AD%D8%AF%D8%A7%D8%AB%20%C2%AB%20%D8%B5%D9%86%D8%AF%D9%88%D9%82%20%D9%85%D8%B3%D8%A7%D9%86%D8%AF%D8%A9%20%D8%A7%20%D9%84%D9%87-1753278841268.pdf",
+ "source_path": "uploads/2025/07/23/ظهير شريف رقم 1.70.16 بإحداث « صندوق مساندة ا له-1753278841268.pdf",
+ "source_updated_at": "2026-08-27T09:10:38.750Z",
+ "consolidated_on": null,
+ "pdf_sha256": "71a6eef2ac3cd276a08969465e42d4637dc0f1e40dcf52f014c422351918f68f",
+ "pdf_pages": 3,
+ "extracted_at": "2026-11-22T15:38:02+00:00",
+ "article_keyword": "الفصل",
+ "n_articles": 7,
+ "n_footnotes": 1,
+ "n_footnotes_unplaced": 0,
+ "footnote_numbers_missing": [],
+ "glyph_fixes": [
+  {
+   "font": "TimesNewRomanPSMT",
+   "glyph": "03F9",
+   "was": "ل",
+   "now": "إل"
+  }
+ ],
+ "source_numbers_reordered": 0,
+ "source_corrections": [],
+ "source_spaces_restored": 0,
+ "article_notes": {},
+ "other_parts": [],
+ "anomalies": [],
+ "language": "ar"
+}

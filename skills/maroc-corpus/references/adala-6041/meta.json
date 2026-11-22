@@ -1,0 +1,30 @@
+{
+ "slug": "adala-6041",
+ "title": "ظهيـر شريـف بشأن التحفيظ الجماعي للأملاك القروية",
+ "title_fr": "ظهيـر شريـف بشأن التحفيظ الجماعي للأملاك القروية",
+ "source_title": "ظهيـر شريـف بشأن التحفيظ الجماعي للأملاك القروية",
+ "source_id": 6041,
+ "source_name": "Adala",
+ "source_url": "https://adala.justice.gov.ma/api/uploads/2024/11/28/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%201.69.174%20%D8%A8%D8%B4%D8%A3%D9%86%20%D8%A7%D9%84%D8%AA%D8%AD%D9%81%D9%8A%D8%B8%20%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D8%B9%D9%8A%20%D9%84%D9%84%D8%A3%D9%85%D9%84%D8%A7%D9%83%20%D8%A7%D9%84%D9%82%D8%B1%D9%88%D9%8A%D8%A9-1732801126543.pdf",
+ "source_path": "uploads/2024/11/28/ظهير شريف 1.69.174 بشأن التحفيظ الجماعي للأملاك القروية-1732801126543.pdf",
+ "source_updated_at": "2026-07-29T09:53:08.068Z",
+ "consolidated_on": null,
+ "pdf_sha256": "8e47144adac51d914ec4c1e455449f2ba8793e1d0913a5c11b29a8ace1a2b461",
+ "pdf_pages": 5,
+ "extracted_at": "2026-11-22T15:37:33+00:00",
+ "article_keyword": "الفصل",
+ "n_articles": 14,
+ "n_footnotes": 1,
+ "n_footnotes_unplaced": 0,
+ "footnote_numbers_missing": [],
+ "glyph_fixes": [],
+ "source_numbers_reordered": 0,
+ "source_corrections": [],
+ "source_spaces_restored": 0,
+ "article_notes": {},
+ "other_parts": [],
+ "anomalies": [
+  "numbering gap: 0 -> 2 (page 2); usually a repealed range, check the footnote"
+ ],
+ "language": "ar"
+}

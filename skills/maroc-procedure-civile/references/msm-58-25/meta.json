@@ -1,0 +1,35 @@
+{
+ "slug": "msm-58-25",
+ "title": "القانون رقم 58.25 المتعلق بالمسطرة المدنية",
+ "title_fr": "Loi 58-25 relative à la procédure civile",
+ "source_title": "القانون  رقم 58.25 المتعلق بالمسطرة المدنية ( صادر بتاريخ 11 فبراير 2026 )",
+ "source_id": 32,
+ "source_name": "Adala",
+ "source_url": "https://adala.justice.gov.ma/api/uploads/2026/09/09/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.26.07%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2058.25%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D8%A7%D9%84%D9%85%D8%B3%D8%B7%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D8%A9-1788960927552.pdf",
+ "source_path": "uploads/2026/09/09/ظهير شريف رقم 1.26.07 بتنفيذ القانون رقم 58.25 المتعلق بالمسطرة المدنية-1788960927552.pdf",
+ "source_updated_at": "2026-09-09T13:36:35.567Z",
+ "consolidated_on": null,
+ "pdf_sha256": "e2bfa1a22de556d3c8a6fa68379edb76e864af4ae20a1f2d2e2888cbce61867e",
+ "pdf_pages": 175,
+ "extracted_at": "2026-11-22T15:18:25+00:00",
+ "article_keyword": "المادة",
+ "n_articles": 644,
+ "n_footnotes": 1,
+ "n_footnotes_unplaced": 0,
+ "footnote_numbers_missing": [],
+ "glyph_fixes": [
+  {
+   "font": "TimesNewRomanPSMT",
+   "glyph": "0382",
+   "was": "ا",
+   "now": "آ"
+  }
+ ],
+ "source_numbers_reordered": 0,
+ "source_corrections": [],
+ "source_spaces_restored": 4,
+ "article_notes": {},
+ "other_parts": [],
+ "anomalies": [],
+ "language": "ar"
+}

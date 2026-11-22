@@ -1,0 +1,31 @@
+{
+ "slug": "adala-7192",
+ "title": "ظهير شريف معتبر بمثابة قانون يتعلق بمجلس القيم المنقولة وبالمعلومات المطلوبة إلى الأشخاص المعنوية التي تدعو الجمهور إلى الاكتتاب في أسهمها أو سنداتها",
+ "title_fr": "ظهير شريف معتبر بمثابة قانون يتعلق بمجلس القيم المنقولة وبالمعلومات المطلوبة إلى الأشخاص المعنوية التي تدعو الجمهور إلى الاكتتاب في أسهمها أو سنداتها",
+ "source_title": "ظهير شريف معتبر بمثابة قانون يتعلق بمجلس القيم المنقولة وبالمعلومات المطلوبة إلى الأشخاص المعنوية التي تدعو الجمهور إلى الاكتتاب في أسهمها أو سنداتها",
+ "source_id": 7192,
+ "source_name": "Adala",
+ "source_url": "https://adala.justice.gov.ma/api/uploads/2025/04/09/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D9%85%D8%B9%D8%AA%D8%A8%D8%B1%20%D8%A8%D9%85%D8%AB%D8%A7%D8%A8%D8%A9%20%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%201.93.212%20%D9%8A%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D9%85%D8%AC%D9%84%D8%B3%20%D8%A7%D9%84%D9%82%D9%8A%D9%85%20%D8%A7%D9%84%D9%85%D9%86%D9%82%D9%88%D9%84%D8%A9-1744197877661.pdf",
+ "source_path": "uploads/2025/04/09/ظهير شريف معتبر بمثابة قانون رقم 1.93.212 يتعلق بمجلس القيم المنقولة-1744197877661.pdf",
+ "source_updated_at": "2026-10-05T14:15:17.637Z",
+ "consolidated_on": "23 أبريل 2007",
+ "pdf_sha256": "31b8190f6278de2ffff5c779aa1382e6dd6f5b80d956787b7600f70971cefff7",
+ "pdf_pages": 27,
+ "extracted_at": "2026-11-22T15:39:50+00:00",
+ "article_keyword": "المادة",
+ "n_articles": 43,
+ "n_footnotes": 37,
+ "n_footnotes_unplaced": 0,
+ "footnote_numbers_missing": [],
+ "glyph_fixes": [],
+ "source_numbers_reordered": 0,
+ "source_corrections": [],
+ "source_spaces_restored": 0,
+ "article_notes": {},
+ "other_parts": [],
+ "anomalies": [
+  "numbering gap: 11 -> 24 (page 15); usually a repealed range, check the footnote",
+  "numbering gap: 35 -> 41 (page 27); usually a repealed range, check the footnote"
+ ],
+ "language": "ar"
+}

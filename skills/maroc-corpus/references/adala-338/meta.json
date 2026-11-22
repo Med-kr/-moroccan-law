@@ -1,0 +1,35 @@
+{
+ "slug": "adala-338",
+ "title": "ظهير شريف بتنفيذ القانون التنظيمي رقم 02.12 المتعلق بالتعيين في المناصب العليا تطبيقا لأحكام الفصلين 49 و92 من الدستور",
+ "title_fr": "ظهير شريف بتنفيذ القانون التنظيمي رقم 02.12 المتعلق بالتعيين في المناصب العليا تطبيقا لأحكام الفصلين 49 و92 من الدستور",
+ "source_title": "ظهير شريف بتنفيذ القانون التنظيمي رقم 02.12 المتعلق بالتعيين في المناصب العليا تطبيقا لأحكام الفصلين 49 و92 من الدستور",
+ "source_id": 338,
+ "source_name": "Adala",
+ "source_url": "https://adala.justice.gov.ma/api/uploads/2026/09/04/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.12.20%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%A7%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85%D9%8A%20%D8%B1%D9%82%D9%85%2002.12-1788513167673.pdf",
+ "source_path": "uploads/2026/09/04/ظهير شريف رقم 1.12.20 بتنفيذ القانون التنظيمي رقم 02.12-1788513167673.pdf",
+ "source_updated_at": "2026-10-23T11:36:11.120Z",
+ "consolidated_on": "20 أغسطس 2026",
+ "pdf_sha256": "79a955ce59772c257b286bf895e3c3acb19ff64f8a9465d8eea2ae3d5960da16",
+ "pdf_pages": 17,
+ "extracted_at": "2026-11-22T15:27:05+00:00",
+ "article_keyword": "المادة",
+ "n_articles": 6,
+ "n_footnotes": 5,
+ "n_footnotes_unplaced": 0,
+ "footnote_numbers_missing": [],
+ "glyph_fixes": [
+  {
+   "font": "TimesNewRomanPSMT",
+   "glyph": "03F5",
+   "was": "ل",
+   "now": "آل"
+  }
+ ],
+ "source_numbers_reordered": 0,
+ "source_corrections": [],
+ "source_spaces_restored": 0,
+ "article_notes": {},
+ "other_parts": [],
+ "anomalies": [],
+ "language": "ar"
+}

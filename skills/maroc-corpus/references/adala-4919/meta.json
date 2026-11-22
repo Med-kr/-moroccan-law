@@ -1,0 +1,30 @@
+{
+ "slug": "adala-4919",
+ "title": "ظهیر شریف في شأن تنظيم مهام القيمين الدينيين وتحديد وضعياتهم",
+ "title_fr": "ظهیر شریف في شأن تنظيم مهام القيمين الدينيين وتحديد وضعياتهم",
+ "source_title": "ظهیر شریف في شأن تنظيم مهام القيمين الدينيين وتحديد وضعياتهم",
+ "source_id": 4919,
+ "source_name": "Adala",
+ "source_url": "https://adala.justice.gov.ma/api/uploads/2024/06/10/%D8%B8%D9%87%DB%8C%D8%B1%20%D8%B4%D8%B1%DB%8C%D9%81%20%D9%81%D9%8A%20%D8%B4%D8%A3%D9%86%20%D8%AA%D9%86%D8%B8%D9%8A%D9%85%20%D9%85%D9%87%D8%A7%D9%85%20%D8%A7%D9%84%D9%82%D9%8A%D9%85%D9%8A%D9%86%20%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D9%8A%D9%8A%D9%86%20%D9%88%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF%20%D9%88%D8%B6%D8%B9%D9%8A%D8%A7%D8%AA%D9%87%D9%85-1718027083002.pdf",
+ "source_path": "uploads/2024/06/10/ظهیر شریف في شأن تنظيم مهام القيمين الدينيين وتحديد وضعياتهم-1718027083002.pdf",
+ "source_updated_at": "2026-10-09T10:50:31.479Z",
+ "consolidated_on": null,
+ "pdf_sha256": "a183f84291521e257d38d23edb0c5e41da360ff5e731f0ca601b5b9dacd508bb",
+ "pdf_pages": 12,
+ "extracted_at": "2026-11-22T15:36:42+00:00",
+ "article_keyword": "المادة",
+ "n_articles": 45,
+ "n_footnotes": 1,
+ "n_footnotes_unplaced": 0,
+ "footnote_numbers_missing": [],
+ "glyph_fixes": [],
+ "source_numbers_reordered": 0,
+ "source_corrections": [],
+ "source_spaces_restored": 0,
+ "article_notes": {},
+ "other_parts": [],
+ "anomalies": [
+  "numbering gap: 38 -> 40 (page 11); usually a repealed range, check the footnote"
+ ],
+ "language": "ar"
+}

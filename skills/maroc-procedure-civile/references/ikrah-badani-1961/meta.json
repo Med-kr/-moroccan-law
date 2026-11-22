@@ -1,0 +1,35 @@
+{
+ "slug": "ikrah-badani-1961",
+ "title": "الظهير الشريف بشأن استعمال الإكراه البدني في القضايا المدنية",
+ "title_fr": "Dahir relatif à l'exercice de la contrainte par corps en matière civile",
+ "source_title": "ظهير شريف بشأن استعمال الإكراه البدني في القضايا المدنية",
+ "source_id": 3444,
+ "source_name": "Adala",
+ "source_url": "https://adala.justice.gov.ma/api/uploads/2024/11/25/%D8%A7%D9%84%D8%A7%D9%83%D8%B1%D8%A7%D9%87%20%D8%A7%D9%84%D8%A8%D8%AF%D9%86%D9%8A%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D9%8A%D8%A7%20%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D8%A9-1732524572382.pdf",
+ "source_path": "uploads/2024/11/25/الاكراه البدني في القضايا المدنية-1732524572382.pdf",
+ "source_updated_at": "2025-12-15T10:36:29.911Z",
+ "consolidated_on": "27 نوفمبر 2006",
+ "pdf_sha256": "f19108472fbb976af81760ae59ec8de40db70b31106acbccbdd79f793a021e9c",
+ "pdf_pages": 3,
+ "extracted_at": "2026-11-22T15:18:35+00:00",
+ "article_keyword": "الفصل",
+ "n_articles": 3,
+ "n_footnotes": 3,
+ "n_footnotes_unplaced": 0,
+ "footnote_numbers_missing": [],
+ "glyph_fixes": [
+  {
+   "font": "TimesNewRomanPSMT",
+   "glyph": "0BCC",
+   "was": "للا",
+   "now": "هللا"
+  }
+ ],
+ "source_numbers_reordered": 0,
+ "source_corrections": [],
+ "source_spaces_restored": 0,
+ "article_notes": {},
+ "other_parts": [],
+ "anomalies": [],
+ "language": "ar"
+}

@@ -1,0 +1,22 @@
+# Sommaire — [Version française — peut ne pas être à jour] Loi 09-08 relative à la protection des données à caractère personnel
+
+- CHAPITRE PREMIER: DISPOSITIONS GÉNÉRALES
+  - Section première: Définitions et champ d’application (Article 1 – 2)
+  - Section 2: Qualité des données et consentement préalable de la personne concernée (Article 3 – 4)
+    - partie ou à l’exécution de mesures précontractuelles prises à la (Article )
+- CHAPITRE II: DES DROITS DE LA PERSONNE CONCERNEE (Article 5 – 11)
+- CHAPITRE III: DES OBLIGATIONS DES RESPONSABLES DU TRAITEMENT (Article 12)
+  - Section première: Déclaration préalable (Article 13 – 20)
+  - Section 2: Autorisation préalable (Article 21 – 22)
+  - Section 3: Des obligations de confidentialité et de sécurité des traitements et de secret professionnel (Article 23 – 26)
+- CHAPITRE IV: DE LA COMMISSION NATIONALE DE (Article )
+  - Section première: Institution, pouvoirs et attributions (Article 27 – 31)
+  - Section 2: Composition de la Commission nationale (Article 32)
+  - Section 3: Organisation et fonctionnement de la Commission nationale (Article 33 – 34)
+  - Section 4: Statut des membres (Article 35 – 39)
+  - Section 5: Administration (Article 40 – 42)
+- CHAPITRE V: DU TRANSFERT DE DONNEES VERS UN PAYS ETRANGER (Article 43 – 44)
+- CHAPITRE VI: DU REGISTRE NATIONAL DE LA PROTECTION DES DONNEES A CARACTERE (Article 45 – 50)
+- CHAPITRE VII: DES SANCTIONS (Article 51 – 66)
+- CHAPITRE VIII: DISPOSITIONS TRANSITOIRES (Article 67)
+  - titre principal ou accessoire, des traitements de données à caractère (Article )

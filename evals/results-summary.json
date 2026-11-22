@@ -1,0 +1,95 @@
+{
+ "model": "Claude Sonnet 5.5",
+ "claude_code": [
+  "2.1.328"
+ ],
+ "dates": [
+  "2026-11-19"
+ ],
+ "cases": 100,
+ "of": 100,
+ "runs_per_case": 1,
+ "cost_usd": 13.94,
+ "with_plugin": {
+  "both": 95,
+  "article": 95,
+  "value": 100
+ },
+ "without_plugin": {
+  "both": 7,
+  "article": 9,
+  "value": 48
+ },
+ "by_skill": {
+  "maroc-administratif": {
+   "cases": 14,
+   "with": 13,
+   "without": 0
+  },
+  "maroc-assurances-banques": {
+   "cases": 8,
+   "with": 8,
+   "without": 2
+  },
+  "maroc-civil": {
+   "cases": 8,
+   "with": 8,
+   "without": 1
+  },
+  "maroc-commerce": {
+   "cases": 11,
+   "with": 10,
+   "without": 1
+  },
+  "maroc-fiscal-douane": {
+   "cases": 6,
+   "with": 5,
+   "without": 0
+  },
+  "maroc-immobilier": {
+   "cases": 4,
+   "with": 4,
+   "without": 1
+  },
+  "maroc-libertes-publiques": {
+   "cases": 7,
+   "with": 6,
+   "without": 1
+  },
+  "maroc-numerique": {
+   "cases": 6,
+   "with": 6,
+   "without": 1
+  },
+  "maroc-penal": {
+   "cases": 2,
+   "with": 2,
+   "without": 0
+  },
+  "maroc-procedure-civile": {
+   "cases": 4,
+   "with": 4,
+   "without": 0
+  },
+  "maroc-procedure-penale": {
+   "cases": 4,
+   "with": 4,
+   "without": 0
+  },
+  "maroc-professions-judiciaires": {
+   "cases": 15,
+   "with": 15,
+   "without": 0
+  },
+  "maroc-propriete-intellectuelle": {
+   "cases": 4,
+   "with": 3,
+   "without": 0
+  },
+  "maroc-travail": {
+   "cases": 7,
+   "with": 7,
+   "without": 0
+  }
+ }
+}

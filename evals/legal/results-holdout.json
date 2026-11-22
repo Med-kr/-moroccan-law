@@ -1,0 +1,246 @@
+{
+ "summary": {
+  "questions": 20,
+  "gold_ok": 20,
+  "retrieved_top": 17,
+  "top": 5
+ },
+ "rows": [
+  {
+   "id": "H01",
+   "gold": true,
+   "retrieved": true,
+   "hits": [
+    "43",
+    "13",
+    "34",
+    "51",
+    "82"
+   ]
+  },
+  {
+   "id": "H02",
+   "gold": true,
+   "retrieved": false,
+   "hits": [
+    "154",
+    "269",
+    "278",
+    "156",
+    "586"
+   ]
+  },
+  {
+   "id": "H03",
+   "gold": true,
+   "retrieved": true,
+   "hits": [
+    "143",
+    "172",
+    "586",
+    "526",
+    "214"
+   ]
+  },
+  {
+   "id": "H04",
+   "gold": true,
+   "retrieved": true,
+   "hits": [
+    "194",
+    "32",
+    "102",
+    "84",
+    "262"
+   ]
+  },
+  {
+   "id": "H05",
+   "gold": true,
+   "retrieved": true,
+   "hits": [
+    "115",
+    "71",
+    "118",
+    "123",
+    "116"
+   ]
+  },
+  {
+   "id": "H06",
+   "gold": true,
+   "retrieved": true,
+   "hits": [
+    "277",
+    "301",
+    "300",
+    "370",
+    "302"
+   ]
+  },
+  {
+   "id": "H07",
+   "gold": true,
+   "retrieved": true,
+   "hits": [
+    "52",
+    "39",
+    "55",
+    "56",
+    "1091"
+   ]
+  },
+  {
+   "id": "H08",
+   "gold": true,
+   "retrieved": true,
+   "hits": [
+    "86",
+    "523",
+    "88",
+    "85",
+    "85"
+   ]
+  },
+  {
+   "id": "H09",
+   "gold": true,
+   "retrieved": true,
+   "hits": [
+    "200",
+    "62",
+    "28"
+   ]
+  },
+  {
+   "id": "H10",
+   "gold": true,
+   "retrieved": true,
+   "hits": [
+    "540",
+    "542",
+    "158",
+    "544",
+    "545"
+   ]
+  },
+  {
+   "id": "H11",
+   "gold": true,
+   "retrieved": false,
+   "hits": [
+    "158",
+    "548",
+    "550",
+    "549",
+    "66"
+   ]
+  },
+  {
+   "id": "H12",
+   "gold": true,
+   "retrieved": false,
+   "hits": [
+    "175",
+    "160",
+    "462-1",
+    "175-1",
+    "172"
+   ]
+  },
+  {
+   "id": "H13",
+   "gold": true,
+   "retrieved": true,
+   "hits": [
+    "228",
+    "295",
+    "5",
+    "741",
+    "213"
+   ]
+  },
+  {
+   "id": "H14",
+   "gold": true,
+   "retrieved": true,
+   "hits": [
+    "87",
+    "45",
+    "47",
+    "43",
+    "85"
+   ]
+  },
+  {
+   "id": "H15",
+   "gold": true,
+   "retrieved": true,
+   "hits": [
+    "56",
+    "50",
+    "47",
+    "45",
+    "46"
+   ]
+  },
+  {
+   "id": "H16",
+   "gold": true,
+   "retrieved": true,
+   "hits": [
+    "4",
+    "8",
+    "6",
+    "7",
+    "13"
+   ]
+  },
+  {
+   "id": "H17",
+   "gold": true,
+   "retrieved": true,
+   "hits": [
+    "6",
+    "42",
+    "7"
+   ]
+  },
+  {
+   "id": "H18",
+   "gold": true,
+   "retrieved": true,
+   "hits": [
+    "13",
+    "20",
+    "12",
+    "21",
+    "15"
+   ]
+  },
+  {
+   "id": "H19",
+   "gold": true,
+   "retrieved": true,
+   "hits": [
+    "15",
+    "2",
+    "7",
+    "16",
+    "17"
+   ]
+  },
+  {
+   "id": "H20",
+   "gold": true,
+   "retrieved": true,
+   "hits": [
+    "31",
+    "57",
+    "20",
+    "30",
+    "35"
+   ]
+  }
+ ]
+}

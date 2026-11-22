@@ -1,0 +1,41 @@
+{
+ "prompt": "ch7al mn youm 3ndi bach nsta2nef 7okm madani tballeght bih nhar 3 novembre 2026? 3tini akhir youm",
+ "model": "claude-sonnet-5-5",
+ "turns": 6,
+ "seconds": 23,
+ "recorded_on": "2026-11-19",
+ "steps": [
+  {
+   "kind": "text",
+   "text": "Nchouf nass l9anoun l jdid (9anoun 58.25) bach nت2akkad mn lآjal."
+  },
+  {
+   "kind": "tool",
+   "name": "Skill",
+   "command": "moroccan-law:maroc-procedure-civile",
+   "result": "Launching skill: moroccan-law:maroc-procedure-civile"
+  },
+  {
+   "kind": "tool",
+   "name": "Bash",
+   "command": "S=skills/maroc-procedure-civile/scripts; python3 $S/delais.py list الاستئناف --text msm-58-25; python3 $S/law.py article msm-58-25 204 602; python3 $S/delais.py calc --from 2026-11-03 --days 30",
+   "result": "A variable set in this command can't be checked before it runs"
+  },
+  {
+   "kind": "tool",
+   "name": "Bash",
+   "command": "python3 skills/maroc-procedure-civile/scripts/law.py article msm-58-25 204 602; python3 skills/maroc-procedure-civile/scripts/delais.py list الاستئناف --text msm-58-25",
+   "result": "## المادة 204\n(القسم الثالث: المسطرة أمام محاكم الدرجة الأولى › الباب السابع: الاستئناف)\n\nيجوز الطعن بالاستئناف في جميع الأحوال في الأحكام الصادرة عن محاكم الدرجة الأولى، مع مراعاة مقتضيات المادة 93 من مدونة الأوقاف، وباقي الحالات التي ينص فيها القانون على خلاف ذلك.\n\nتستأنف الأحكام الصادرة عن محاكم الدرجة الأولى داخل أجل ثلاثين (30) يوما يبتدئ من تاريخ التبليغ.\n\nيبتدئ أجل الاستئناف من تاريخ التبليغ المنجز وفق مقتضيات المواد 83 و84 و86 و115 أعلاه.\n\nيوقف أجل الاستئناف والاستئناف نفسه داخل الأجل القانوني التنفيذ، عدا إذا كان الحكم أو الأمر مشمولا بالتنفيذ المعجل.\n\n## المادة 602\n(القسم العاشر: مقتضيات مشتركة بين جميع المحاكم)\n\nتكون جميع الآجال المنصوص عليها في هذا القانون كاملة، فلا يحسب اليوم الذي يتم فيه تسليم الاستدعاء أو التبليغ أو الإنذار، أو أي إجراء آخر للشخص نفسه أوفي موطنه، ولا اليوم الأخير الذي تنتهي فيه.\n\nإذا كان اليوم الأخير يوم عطلة امتد الأجل إلى أول يوم عمل بعده.\n\nإذا تمت الإجراءات المذكورة أعلاه بطريقة إلكترونية، فإن احتساب الأجل يتم بصورة مستمرة إلى غاية منتصف ليل اليوم الأخير من الأجل المحدد قانونا.\n\n— القانون رقم 58.25 المتعلق بالمسطرة المدنية | صيغة محينة بتاريخ: غير مذكور في النص | Adala: 2026-09-09 | استخراج: 2026-11-19\n— المصدر الرسمي: https://adala.justice.gov.ma/api/uploads/2026/09/09/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.26.07%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2058.25%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D8%A7%D9%84%D9%85%D8%B3%D8%B7%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D8%A9-1788960927552.pdf\n# msm-58-25 — 23 مادة تتضمن أجلا\n- المادة 27: داخل أجل ثمانية (8) أيام | خلال أجل عشرة (10) أيام | داخل أجل عشرة (10) أيام\n- المادة 28: داخل أجل ثمانية (8) أيام\n- المادة 43: داخل أجل خمسة عشر (15) يوما | داخل أجل ثمانية (8) أيام\n- المادة 141: أجل إلى خمسة عشر (15) يوما\n- المادة 197: خلال عشرة (10) أيام\n- المادة 199: داخل أجل عشرة (10) أيام\n- المادة 204: داخل أجل ثلاثين (30) يوما\n- المادة 205: داخل أجل ثلاثين (30) يوما\n- المادة 212: أجل، ولا يبتدئ سريانه من جديد إلا بعد خمسة عشر (15) يوما\n- المادة 214: داخل أجل لا يتعدى خمسة عشر (15) يوما | أجل في عشرة (10) أيام\n- المادة 216: داخل أجل عشرة (10) أيام | أجل شهر\n- المادة 223: داخل أجل أقصاه ثلاثون (30) يوما\n- المادة 225: داخل سبعة (7) أيام | داخل أجل ثلاثة (3) أيام | داخل أجل سبعة (7) أيام | خلال ثلاثين (30) يوما\n- المادة 230: داخل أجل خمسة عشر (15) يوما | داخل أجل أقصاه سبعة (7) أيام\n- المادة 242: داخل أجل خمسة عشر (15) يوما | داخل أجل أقصاه ثلاثة (3) أشهر\n- المادة 279: داخل أجل خمسة عشر (15) يوما\n- المادة 323: داخل أجل ثلاثين (30) يوما\n- المادة 356: داخل أجل لا يتعدى تسعين (90) يوما\n- المادة 454: أجل شهر\n- المادة 465: مدة خمسة عشرة (15) يوما | أجل الاستئناف أو النقض، إلا بعد مرور خمسة عشرة (15) يوما\n- المادة 495: داخل أجل عشرة (10) أيام\n- المادة 581: خلال أجل الثمانية (8) أيام\n- المادة 586: داخل أجل ثمانية (8) أيام\n\n— القائمة مستخرجة آليا بالبحث عن صيغ الآجال في النص؛ اقرأ المادة كاملة بـ law.py قبل الاعتماد عليها."
+  },
+  {
+   "kind": "tool",
+   "name": "Bash",
+   "command": "python3 skills/maroc-procedure-civile/scripts/delais.py calc --from 2026-11-03 --days 30",
+   "result": "تاريخ التبليغ أو الإجراء (لا يحسب): الثلاثاء 3 نونبر 2026\nالأجل: 30 يوما\nاليوم الأخير من الأجل: الخميس 3 دجنبر 2026\nالأجل كامل، فلا يحسب اليوم الأخير (المادة 602، الفقرة 1): الجمعة 4 دجنبر 2026\n\n==> آخر يوم يمكن فيه القيام بالإجراء: الجمعة 4 دجنبر 2026\n    للاحتياط: القيام بالإجراء في أجل أقصاه الخميس 3 دجنبر 2026.\n\n— الأعياد الدينية غير محسوبة لأنها مرتبطة بالتقويم الهجري: رأس السنة الهجرية (فاتح محرم)، المولد النبوي (12 و13 ربيع الأول)، عيد الفطر (1 و2 شوال)، عيد الأضحى (10 و11 ذي الحجة). تحقق منها وأعد الحساب بـ --holidays إذا صادفت نهاية الأجل.\n— هذا حساب آلي على أساس المادة 602 من القانون رقم 58.25. تحقق من الأجل المطبق ومن بداية سريانه وحالات الوقف والتمديد في النص.\n— Calcul arithmétique selon l'article 602 de la loi 58-25 ; fêtes religieuses non prises en compte."
+  },
+  {
+   "kind": "text",
+   "text": "**Akhir youm: nhar l-Jem3a 4 décembre 2026.** Ihtiyat, 5ddem l-istinaf qbel nhar l-Jem3a, wla 7ta qbel l-Khamis 3 décembre.\n\n**L-ajal**\n- L-mada 204 mn qanoun 58.25 katgol: «تستأنف الأحكام الصادرة عن محاكم الدرجة الأولى داخل أجل ثلاثين (30) يوما يبتدئ من تاريخ التبليغ».\n- Ya3ni 30 youm men nhar t-tabligh, ila kan t-tabligh tsra 3la 7asab l-mawad 83 w 84 w 86 w 115.\n- L-mada 602 katgol l-ajal kamil: nhar t-tabligh w nhar lakhir ma kaytsebou-ch.\n- Ila kan lakhir nhar 3otla, l-ajal kaymtad l awwal nhar 3mal ba3dou.\n\n**L-7sab**\n- T-tabligh: 3 novembre (t-tlata), ma kaytsseb-ch.\n- 30 youm tsali nhar l-Khamis 3 décembre.\n- Hit l-ajal kamil, nhar lakhir ma kaytsseb-ch, w kaywsal l-Jem3a 4 décembre.\n\n**Ch7al b9a lik:** lyoum 19 novembre, b9a lik 15 youm tal 4 décembre (14 youm ila bghiti t7seb l-Khamis 3 décembre).\n\n**Mlahaadat**\n- Had l7sab dert-ou b outil, w ma 7sabt-ch l-a3yad dinia (talqwim hijri). Hta wa7da ma kat9a3 f had l-ajal, walakin t2akkad.\n- Ila tbligh l7okm be tariqa elektronia, l-ajal kay7seb be shkl mostamer tal noss lil dyal nhar lakhir (l-mada 602, l-fa9ra 3).\n- Ila t-tabligh ma kanch f 3 novembre, wla kan 3ndek 7ala khassa (7okm m3ajjal t-tanfid, ila t-tabligh tkarrar, etc.), t7sab ajal jdid.\n- L-istinaf khssou ykoun m9bol chakliyan (l-mada 204 mn 58.25, w l-mada 216 f chroutou).\n- Had l-ma3louma 3ama w machi istichara qanounia. L-afdal tchouf avocat qbel ma d9ou l-ajal.\n\n**Source:** qanoun 58.25 (Adala, 9 septembre 2026), l-mada 204 w 602. L-7sab b outil `delais.py` dyal skill maroc-procedure-civile."
+  }
+ ]
+}

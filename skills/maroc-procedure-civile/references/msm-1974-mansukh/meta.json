@@ -1,0 +1,38 @@
+{
+ "slug": "msm-1974-mansukh",
+ "title": "[منسوخ — للمقارنة فقط] قانون المسطرة المدنية القديم (الظهير الشريف بمثابة قانون رقم 1.74.447)",
+ "title_fr": "[ABROGÉ — pour comparaison uniquement] Ancien code de procédure civile (dahir portant loi 1-74-447)",
+ "source_title": "تم نسخ مقتضيات الظهير الشريف بمثابة قانون رقم 1.74.447 بتاريخ  11 من رمضان 1394 (28 شتنبر 1974) بالمصادقة على نص  قانون المسطرة المدنية، كما تم تغييره وتتميمه بمقتضى  المادة 644 من الظهير الشريف رقم 1.26.07 الصادر في  22 من شعبان 1447 (11 فبراير 2026) بتنفيذ القانون  رقم 58.25 المتعلق بالمسطرة المدنية، الجريدة الرسمية عدد 7485 بتاريخ 5 رمضان 1447 ( 23فبراير2026)، ص 1220",
+ "source_id": 9390,
+ "source_name": "Adala",
+ "source_url": "https://adala.justice.gov.ma/api/uploads/2026/08/27/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%A8%D9%85%D8%AB%D8%A7%D8%A8%D8%A9%20%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%201.74.447%20%D8%A8%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%AF%D9%82%D8%A9%20%D8%B9%D9%84%D9%89-1787838360852.pdf",
+ "source_path": "uploads/2026/08/27/ظهير شريف بمثابة قانون رقم 1.74.447 بالمصادقة على-1787838360852.pdf",
+ "source_updated_at": "2026-09-17T13:30:09.358Z",
+ "consolidated_on": null,
+ "pdf_sha256": "55ce02d53f9919a393b731a4de4dbcbd68514dc17a1f6ee1268e8960ae52c816",
+ "pdf_pages": 124,
+ "extracted_at": "2026-11-22T15:18:31+00:00",
+ "article_keyword": "الفصل",
+ "n_articles": 471,
+ "n_footnotes": 189,
+ "n_footnotes_unplaced": 1,
+ "footnote_numbers_missing": [],
+ "glyph_fixes": [],
+ "source_numbers_reordered": 1,
+ "source_corrections": [],
+ "source_spaces_restored": 0,
+ "article_notes": {},
+ "other_parts": [
+  6
+ ],
+ "anomalies": [
+  "article 183 has no text (page 56); usually repealed, check the footnote",
+  "numbering gap: 184 -> 201 (page 56); usually a repealed range, check the footnote",
+  "numbering gap: 214 -> 217 (page 60); usually a repealed range, check the footnote",
+  "numbering gap: 242 -> 258 (page 66); usually a repealed range, check the footnote",
+  "numbering gap: 263 -> 267 (page 67); usually a repealed range, check the footnote",
+  "numbering gap: 305 -> 328 (page 76); usually a repealed range, check the footnote",
+  "article 368 has no text (page 88); usually repealed, check the footnote"
+ ],
+ "language": "ar"
+}

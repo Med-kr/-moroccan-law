@@ -1,0 +1,33 @@
+{
+ "slug": "doc",
+ "title": "قانون الالتزامات والعقود",
+ "title_fr": "Dahir formant code des obligations et des contrats (DOC)",
+ "source_title": "ظهير بمثابة قانون الالتزامات والعقود",
+ "source_id": 31,
+ "source_name": "Adala",
+ "source_url": "https://adala.justice.gov.ma/api/uploads/2026/07/29/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%A8%D9%85%D8%AB%D8%A7%D8%A8%D8%A9%20%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%A7%D9%84%D8%A7%D9%84%D8%AA%D8%B2%D8%A7%D9%85%D8%A7%D8%AA%20%D9%88%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%AF%20%D8%B5%D9%8A%D8%BA%D8%A9%20%D9%85%D8%AD%D9%8A%D9%86%D8%A9-1785316295256.pdf",
+ "source_path": "uploads/2026/07/29/ظهير بمثابة قانون الالتزامات والعقود صيغة محينة-1785316295256.pdf",
+ "source_updated_at": "2026-08-12T08:51:22.211Z",
+ "consolidated_on": "16 يوليو 2026",
+ "pdf_sha256": "22ad53b6b5d45c94250080b2469536ec24822484569d885d8b40a2673999d503",
+ "pdf_pages": 282,
+ "extracted_at": "2026-11-22T15:18:13+00:00",
+ "article_keyword": "الفصل",
+ "n_articles": 1316,
+ "n_footnotes": 408,
+ "n_footnotes_unplaced": 1,
+ "footnote_numbers_missing": [
+  152
+ ],
+ "glyph_fixes": [],
+ "source_numbers_reordered": 2,
+ "source_corrections": [],
+ "source_spaces_restored": 0,
+ "article_notes": {},
+ "other_parts": [],
+ "anomalies": [
+  "numbering gap: 324 -> 335 (page 78); usually a repealed range, check the footnote",
+  "article 726 has no text (page 166); usually repealed, check the footnote"
+ ],
+ "language": "ar"
+}

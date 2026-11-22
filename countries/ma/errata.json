@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "sharikat-musahama-fr",
+    "page": 137,
+    "line": "Article 353 bis[^118]",
+    "replace": "Article 353[^118]",
+    "why": "Labels of articles 353 and 353 bis are swapped in the official French PDF: footnote 118 (\"article 353 modifié\") is on the heading printed 353 bis, footnote 119 (\"article 353 bis ajouté\") on the heading printed 353; the Arabic version (المادة 353 / 353 المكررة) confirms the order."
+  },
+  {
+    "slug": "sharikat-musahama-fr",
+    "page": 137,
+    "line": "Article 353[^119]",
+    "replace": "Article 353 bis[^119]",
+    "why": "See the previous correction (labels 353 / 353 bis swapped in the source)."
+  },
+  {
+    "slug": "taawuniyat-112-12",
+    "page": 31,
+    "line": "الفصل 68",
+    "replace": "المادة 68",
+    "why": "The consolidated PDF heads article 68 « الفصل 68 » while the law numbers its articles « المادة » (67 before, 69 after, and article 68 is cited as « المادة 68 من هذا القانون » in the text): read as a chapter title otherwise."
+  }
+]

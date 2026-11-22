@@ -1,0 +1,45 @@
+# Every Monday: re-read the Adala catalog, publish the refreshed catalog with the
+# general skill, and open an issue if a bundled text has been replaced by a newer
+# file on the portal (a maintainer then rebuilds and reviews that text).
+name: check-updates
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Refresh catalog
+        run: python sources/adala.py --out data/catalog.json --quiet --roots ar:1 fr:338 ar:148 ar:280 ar:681 ar:1078
+      - name: Compare with bundled texts
+        id: check
+        run: |
+          set +e
+          python scripts/build.py --check > updates.txt
+          a=$?
+          python scripts/freshness.py >> updates.txt
+          b=$?
+          echo "changed=$((a + b))" >> "$GITHUB_OUTPUT"
+          cat updates.txt
+      - name: Publish the refreshed catalog
+        run: |
+          python scripts/build.py --render-only
+          python -W ignore -m unittest discover -s tests
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/catalog.json skills
+          git diff --cached --quiet || git commit -m "Weekly catalog refresh ($(date +%F))"
+          git push
+      - name: Open an issue
+        if: steps.check.outputs.changed != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue create --title "Texts updated on Adala ($(date +%F))" --body-file updates.txt

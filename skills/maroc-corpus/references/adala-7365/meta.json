@@ -1,0 +1,35 @@
+{
+ "slug": "adala-7365",
+ "title": "ظهير شریف بمثابة قانون يخول بمقتضاه صندوق القدس صبغة مؤسسة ذات منفعة عامة بالمملكة المغربية",
+ "title_fr": "ظهير شریف بمثابة قانون يخول بمقتضاه صندوق القدس صبغة مؤسسة ذات منفعة عامة بالمملكة المغربية",
+ "source_title": "ظهير شریف بمثابة قانون يخول بمقتضاه صندوق القدس صبغة مؤسسة ذات منفعة عامة بالمملكة المغربية",
+ "source_id": 7365,
+ "source_name": "Adala",
+ "source_url": "https://adala.justice.gov.ma/api/uploads/2025/04/28/%D8%BA%D8%A9%20%D9%85%D8%A4%D8%B3%D8%B3%D8%A9%20%D8%B0%D8%A7%D8%AA%20%D9%85%D9%86%D9%81%D8%B9%D8%A9%20%D8%B9%D8%A7%D9%85%D8%A9%20%D8%A8%D8%A7%D9%84%D9%85%D9%85%D9%84%D9%83%D8%A9%20%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-1745828067031.pdf",
+ "source_path": "uploads/2025/04/28/غة مؤسسة ذات منفعة عامة بالمملكة المغربية-1745828067031.pdf",
+ "source_updated_at": "2026-10-05T14:15:17.658Z",
+ "consolidated_on": null,
+ "pdf_sha256": "ae70e56a6c54c250a4d2b42bf4745d652c0a7df67aba1dcf8f92c53b1fe7d8f5",
+ "pdf_pages": 2,
+ "extracted_at": "2026-11-22T15:38:54+00:00",
+ "article_keyword": "الفصل",
+ "n_articles": 3,
+ "n_footnotes": 1,
+ "n_footnotes_unplaced": 0,
+ "footnote_numbers_missing": [],
+ "glyph_fixes": [
+  {
+   "font": "TimesNewRomanPS-BoldMT",
+   "glyph": "03F3",
+   "was": "ی",
+   "now": "ي"
+  }
+ ],
+ "source_numbers_reordered": 0,
+ "source_corrections": [],
+ "source_spaces_restored": 0,
+ "article_notes": {},
+ "other_parts": [],
+ "anomalies": [],
+ "language": "ar"
+}

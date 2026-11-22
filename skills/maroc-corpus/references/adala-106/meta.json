@@ -1,0 +1,35 @@
+{
+ "slug": "adala-106",
+ "title": "القانون المتعلق بزجر الغش في الامتحانات المدرسية",
+ "title_fr": "القانون المتعلق بزجر الغش في الامتحانات المدرسية",
+ "source_title": "القانون المتعلق بزجر الغش في الامتحانات المدرسية",
+ "source_id": 106,
+ "source_name": "Adala",
+ "source_url": "https://adala.justice.gov.ma/api/uploads/2024/02/07/%D8%B2%D8%AC%D8%B1%20%D8%A7%D9%84%D8%BA%D8%B4%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9-1707300350329.pdf",
+ "source_path": "uploads/2024/02/07/زجر الغش في الامتحانات المدرسية-1707300350329.pdf",
+ "source_updated_at": "2026-10-02T10:57:59.333Z",
+ "consolidated_on": null,
+ "pdf_sha256": "374b4f60a3fb1f57f91e9e842863417f45f5dd4bceac63b6f8d907d9ae199903",
+ "pdf_pages": 5,
+ "extracted_at": "2026-11-22T15:37:52+00:00",
+ "article_keyword": "المادة",
+ "n_articles": 10,
+ "n_footnotes": 1,
+ "n_footnotes_unplaced": 0,
+ "footnote_numbers_missing": [],
+ "glyph_fixes": [
+  {
+   "font": "TimesNewRomanPSMT",
+   "glyph": "0BCC",
+   "was": "للا",
+   "now": "هللا"
+  }
+ ],
+ "source_numbers_reordered": 0,
+ "source_corrections": [],
+ "source_spaces_restored": 0,
+ "article_notes": {},
+ "other_parts": [],
+ "anomalies": [],
+ "language": "ar"
+}

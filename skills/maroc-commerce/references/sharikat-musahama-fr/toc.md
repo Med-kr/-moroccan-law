@@ -1,0 +1,61 @@
+# Sommaire — [Version française — peut ne pas être à jour] Loi relative aux sociétés anonymes
+
+- TITRE PREMIER: DISPOSITIONS GENERALES (Article 1 – 16)
+- TITRE II: DE LA CONSTITUTION ET DE (Article 17 – 38)
+- TITRE III: DE L’ADMINISTRATION ET DE LA DIRECTION (Article )
+  - Chapitre Premier: De La Société A Conseil d’Administration
+    - Section I: Des Organes d’Administration Et De Direction (Article 39 – 68)
+    - Section II: Des fonctions et des pouvoirs des organes d’administration et de direction (Article 69 – 76)
+  - Chapitre II: De La Société A Directoire Et A Conseil De Surveillance
+    - Section I: Des Organes De Direction Et De Surveillance De La Société (Article 77 – 101)
+    - Section II: Des Fonctions Et Pouvoirs Des Organes De Direction Et De Surveillance De La Société (Article 102 – 105)
+  - Chapitre II bis: Dispositions particulières relatives à la (Article 105-1 – 105-5)
+  - Chapitre III: Dispositions Communes (Article 106 – 106 bis)
+- TITRE IV: DES ASSEMBLEES D’ACTIONNAIRES (Article 107 – 139)
+- TITRE V: DE L’INFORMATION DES ACTIONNAIRES
+  - Chapitre Premier: Des Sociétés Anonymes Ne Faisant Pas Appel Public A l’Epargne (Article 140 – 152)
+  - Chapitre II: Des Sociétés Anonymes Faisant Appel Public A l’Epargne (Article 153 – 156)
+  - Chapitre III: Dispositions Communes (Article 157 – 158)
+- TITRE VI: DU CONTROLE DES SOCIETES ANONYMES (Article 159 – 181)
+- TITRE VII: DES MODIFICATIONS DU CAPITAL SOCIAL
+  - Chapitre Premier: De l’Augmentation Du Capital (Article 182 – 190)
+- titre irréductible, les actions ainsi rendues disponibles sont attribuées aux (Article 191 – 201)
+  - Chapitre II: De l’Amortissement de la Valeur Nominale des Actions du Capital (Article 202 – 207)
+  - Chapitre III: De La Réduction Du Capital (Article 208 – 215)
+- TITRE VIII: DES TRANSFORMATIONS ET DES EXTENSIONS (Article )
+  - Chapitre Premier: Des Transformations (Article 216 – 221)
+  - Chapitre II: Des Fusions Et Des Scissions
+    - Section I: Dispositions Générales (Article 222 – 229)
+    - Section II: Dispositions Propres Aux Sociétés Anonymes (Article 230 – 242)
+- TITRE IX: DES VALEURS MOBILIERES EMISES PAR LES SOCIETES ANONYMES (Article 243 – 245)
+  - Chapitre Premier: Des Actions (Article 246 – 281)
+  - Chapitre II: Des Certificats d’Investissement (Article 282 – 291)
+  - Chapitre III: Des Obligations
+    - Section I: Dispositions Générales (Article 292 – 315)
+    - Section II: Des Obligations Convertibles En Actions (Article 316 – 325)
+- TITRE X: DE L’EXERCICE SOCIAL, DU RESULTAT ET DES DIVIDENDES (Article 326 – 331)
+- titre d’un exercice déterminé peut être prélevé par priorité sur le bénéfice (Article 332 – 336)
+- TITRE XI: DES NULLITES ET DE LA RESPONSABILITE CIVILE
+  - Chapitre Premier: Des Nullités (Article 337 – 348)
+  - Chapitre II: De La Responsabilité Civile (Article 349 – 355 bis)
+- TITRE XII: DE LA DISSOLUTION DES SOCIETES ANONYMES (Article 356 – 360)
+- TITRE XIII: DE LA LIQUIDATION DES SOCIETES ANONYMES (Article 361 – 365)
+  - partie de l’actif de la société en liquidation à une personne ayant eu dans (Article 366 – 372)
+- TITRE XIV: DES SANCTIONS PENALES
+  - Chapitre Premier: Dispositions Générales (Article 373 – 377)
+  - Chapitre II: Des Infractions Relatives A La Constitution (Article 378 – 383)
+  - Chapitre III: Des Infractions Relatives A La Direction Et A l’Administration (Article 384 – 386)
+  - Chapitre IV: Des Infractions Relatives Aux Assemblées d’Actionnaires (Article 387 – 394)
+  - Chapitre V: Des Infractions Relatives Aux Modifications Du Capital Social
+    - Section I: De l’augmentation Du Capital (Article 395 – 399)
+    - Section II: De l’Amortissement De La Valeur Nominale Des Actions Du Capital (Article 400)
+    - Section III: De La Réduction Du Capital (Article 401 – 402)
+  - CHAPITRE VI: DES INFRACTIONS RELATIVES AU CONTROLE (Article 403 – 406)
+  - Chapitre VII: Des Infractions Relatives A la Dissolution (Article 407)
+  - Chapitre VIII: Des Infractions Relatives Aux Valeurs Mobilières Emises Par La Société Anonyme
+    - Section I: Des Infractions Relatives Aux Actions (Article 408 – 410)
+    - Section Il: Des Infractions Relatives Aux Parts De Fondateurs (Article 411)
+    - Section III: Des Infractions Relatives Aux Obligations (Article 412 – 418)
+  - Chapitre IX: Des infractions relatives à la publicité (Article 419 – 420)
+  - Chapitre X: Des infractions relatives à la liquidation (Article 421 – 424)
+- TITRE XVI: DISPOSITIONS DIVERSES ET TRANSITOIRES (Article 441 – 454)

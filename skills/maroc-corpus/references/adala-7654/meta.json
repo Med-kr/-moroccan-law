@@ -1,0 +1,35 @@
+{
+ "slug": "adala-7654",
+ "title": "ظهير شريف بمثابة قانون ترفع بموجبه مبالغ بعض المعاشات والإيرادات والمكافآت",
+ "title_fr": "ظهير شريف بمثابة قانون ترفع بموجبه مبالغ بعض المعاشات والإيرادات والمكافآت",
+ "source_title": "ظهير شريف بمثابة قانون ترفع بموجبه مبالغ بعض المعاشات والإيرادات والمكافآت",
+ "source_id": 7654,
+ "source_name": "Adala",
+ "source_url": "https://adala.justice.gov.ma/api/uploads/2025/05/22/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%A8%D9%85%D8%AB%D8%A7%D8%A8%D8%A9%20%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%201.77.319%20%D8%AA%D8%B1%D9%81%D8%A2%D9%81%D8%A7%D8%AA-1747908973238.pdf",
+ "source_path": "uploads/2025/05/22/ظهير شريف بمثابة قانون رقم 1.77.319 ترفآفات-1747908973238.pdf",
+ "source_updated_at": "2026-09-14T13:31:26.550Z",
+ "consolidated_on": null,
+ "pdf_sha256": "047d37861e85822fa213960f2abcdaa18189e12aa125c90d3cbd691303ef54b8",
+ "pdf_pages": 3,
+ "extracted_at": "2026-11-22T15:29:44+00:00",
+ "article_keyword": "الفصل",
+ "n_articles": 3,
+ "n_footnotes": 1,
+ "n_footnotes_unplaced": 0,
+ "footnote_numbers_missing": [],
+ "glyph_fixes": [
+  {
+   "font": "TimesNewRomanPSMT",
+   "glyph": "03F9",
+   "was": "ل",
+   "now": "إل"
+  }
+ ],
+ "source_numbers_reordered": 0,
+ "source_corrections": [],
+ "source_spaces_restored": 0,
+ "article_notes": {},
+ "other_parts": [],
+ "anomalies": [],
+ "language": "ar"
+}

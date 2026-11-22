@@ -1,0 +1,11 @@
+{
+  "name": "moroccan-law",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Claude skills for Moroccan law, built from the official texts published by the Ministry of Justice (Adala).",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "pdfjs-dist": "4.10.38"
+  }
+}

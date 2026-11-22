@@ -1,0 +1,19 @@
+{
+  "code": "ma",
+  "name": "Morocco",
+  "name_local": "المملكة المغربية",
+  "languages": ["ar", "fr"],
+  "authoritative_language": "ar",
+  "source": {
+    "adapter": "sources/adala.py",
+    "name": "Adala",
+    "publisher": "Ministry of Justice of Morocco",
+    "url": "https://adala.justice.gov.ma",
+    "notice_ar": "نص مستخرج آليا من ملف PDF المنشور على بوابة عدالة (وزارة العدل). المرجع عند الاختلاف هو الجريدة الرسمية.",
+    "notice_fr": "Texte extrait automatiquement du PDF publié sur le portail Adala (ministère de la Justice). Version française : elle peut être antérieure à la version arabe, qui seule fait foi avec le Bulletin officiel."
+  },
+  "catalog": "data/catalog.json",
+  "skills": "countries/ma/skills.json",
+  "templates": "countries/ma/templates",
+  "skill_prefix": "maroc-"
+}

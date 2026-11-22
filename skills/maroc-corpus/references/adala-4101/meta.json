@@ -1,0 +1,44 @@
+{
+ "slug": "adala-4101",
+ "title": "ظهير شريف في حفظ الغابات واستغلالها",
+ "title_fr": "ظهير شريف في حفظ الغابات واستغلالها",
+ "source_title": "ظهير شريف في حفظ الغابات واستغلالها",
+ "source_id": 4101,
+ "source_name": "Adala",
+ "source_url": "https://adala.justice.gov.ma/api/uploads/2024/10/31/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D9%81%D9%8A%20%D8%AD%D9%81%D8%B8%20%D8%A7%D9%84%D8%BA%D8%A7%D8%A8%D8%A7%D8%AA%20%D9%88%D8%A7%D8%B3%D8%AA%D8%BA%D9%84%D8%A7%D9%84%D9%87%D8%A7-1730370211015.pdf",
+ "source_path": "uploads/2024/10/31/ظهير شريف في حفظ الغابات واستغلالها-1730370211015.pdf",
+ "source_updated_at": "2026-05-26T10:41:53.721Z",
+ "consolidated_on": "2 يناير 1991",
+ "pdf_sha256": "f894e721a560a7347943c9cc661b2600a88a6c95cdebf7419d976a884e78fc02",
+ "pdf_pages": 33,
+ "extracted_at": "2026-11-22T15:33:33+00:00",
+ "article_keyword": "الفصل",
+ "n_articles": 78,
+ "n_footnotes": 52,
+ "n_footnotes_unplaced": 0,
+ "footnote_numbers_missing": [
+  23,
+  24,
+  26,
+  41,
+  42,
+  43
+ ],
+ "glyph_fixes": [
+  {
+   "font": "TimesNewRomanPSMT",
+   "glyph": "0BCC",
+   "was": "للا",
+   "now": "هللا"
+  }
+ ],
+ "source_numbers_reordered": 0,
+ "source_corrections": [],
+ "source_spaces_restored": 0,
+ "article_notes": {},
+ "other_parts": [],
+ "anomalies": [
+  "numbering gap: 39 -> 50 (page 24); usually a repealed range, check the footnote"
+ ],
+ "language": "ar"
+}

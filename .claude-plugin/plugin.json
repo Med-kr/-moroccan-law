@@ -1,0 +1,15 @@
+{
+  "name": "moroccan-law",
+  "version": "0.3.0",
+  "description": "Moroccan law for Claude: 95 reviewed official texts plus 718 more laws (813 texts, 41,000+ articles; Arabic, with French versions) searchable article by article with version dates and official sources, time-limit calculator, old/new civil procedure comparison, and a catalog of 7,000+ official documents from the Ministry of Justice portal.",
+  "license": "MIT",
+  "keywords": [
+    "law",
+    "legal",
+    "morocco",
+    "maroc",
+    "droit",
+    "arabic",
+    "lawyers"
+  ]
+}

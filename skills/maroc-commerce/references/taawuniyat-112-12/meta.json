@@ -1,0 +1,42 @@
+{
+ "slug": "taawuniyat-112-12",
+ "title": "القانون رقم 112.12 المتعلق بالتعاونيات",
+ "title_fr": "Loi 112-12 relative aux coopératives",
+ "source_title": "ظهير شريف بتنفيذ القانون رقم 112.12 المتعلق بالتعاونيات",
+ "source_id": 227,
+ "source_name": "Adala",
+ "source_url": "https://adala.justice.gov.ma/api/uploads/2024/09/11/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%20112.12%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86%D9%8A%D8%A7%D8%AA-1726063647781.pdf",
+ "source_path": "uploads/2024/09/11/ظهير شريف بتنفيذ القانون رقم 112.12 المتعلق بالتعاونيات-1726063647781.pdf",
+ "source_updated_at": "2026-10-30T11:16:51.917Z",
+ "consolidated_on": "21 أغسطس 2017",
+ "pdf_sha256": "bd2b1d93669340085d1f99169a13d8b8662b8311ebc6e990203369996bef6458",
+ "pdf_pages": 49,
+ "extracted_at": "2026-11-22T15:20:06+00:00",
+ "article_keyword": "المادة",
+ "n_articles": 108,
+ "n_footnotes": 12,
+ "n_footnotes_unplaced": 0,
+ "footnote_numbers_missing": [],
+ "glyph_fixes": [
+  {
+   "font": "TimesNewRomanPSMT",
+   "glyph": "02F1",
+   "was": " ",
+   "now": "ً"
+  }
+ ],
+ "source_numbers_reordered": 0,
+ "source_corrections": [
+  {
+   "page": 31,
+   "line": "الفصل 68",
+   "replace": "المادة 68",
+   "why": "The consolidated PDF heads article 68 « الفصل 68 » while the law numbers its articles « المادة » (67 before, 69 after, and article 68 is cited as « المادة 68 من هذا القانون » in the text): read as a chapter title otherwise."
+  }
+ ],
+ "source_spaces_restored": 0,
+ "article_notes": {},
+ "other_parts": [],
+ "anomalies": [],
+ "language": "ar"
+}

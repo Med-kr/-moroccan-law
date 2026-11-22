@@ -1,0 +1,27 @@
+name: ci
+on:
+  push:
+  pull_request:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python: ["3.10", "3.12", "3.13"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - name: Parser dependency (PDF tests)
+        run: pip install pymupdf
+      - name: Tests (parser, built skills, lookup tools, legal review set)
+        run: python -W ignore -m unittest discover -s tests -v
+      - name: Every parser note reviewed, every amending law cited
+        run: |
+          python scripts/review_anomalies.py
+          python scripts/freshness.py
+      - name: Install script
+        run: |
+          HOME="$(mktemp -d)" ./install.sh
+          ./install.sh --list

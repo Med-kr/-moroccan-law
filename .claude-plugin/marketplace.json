@@ -1,0 +1,16 @@
+{
+  "name": "moroccan-law",
+  "description": "Moroccan law for Claude and any AI: official texts article by article, from the Ministry of Justice portal.",
+  "owner": {
+    "name": "Med-kr",
+    "url": "https://github.com/Med-kr"
+  },
+  "plugins": [
+    {
+      "name": "moroccan-law",
+      "source": "./",
+      "description": "Moroccan law for Claude: official texts article by article (Arabic), version dates, official sources.",
+      "category": "legal"
+    }
+  ]
+}

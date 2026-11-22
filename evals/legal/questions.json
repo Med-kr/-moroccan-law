@@ -1,0 +1,632 @@
+[
+ {
+  "id": "T01",
+  "skill": "maroc-travail",
+  "text": "mudawwanat-shughl",
+  "q": "Ch7al howa t-ta3wid 3la l-fasl (indemnité de licenciement) l 5 snin l-oulin?",
+  "art": [
+   "53"
+  ],
+  "must": [
+   "96 ساعة"
+  ],
+  "search": [
+   "مبلغ التعويض عن الفصل"
+  ]
+ },
+ {
+  "id": "T02",
+  "skill": "maroc-travail",
+  "text": "mudawwanat-shughl",
+  "q": "Ch7al mn nhar d l-3otla s-sanawiya l kol chhar?",
+  "art": [
+   "231"
+  ],
+  "must": [
+   "يوم ونصف"
+  ],
+  "search": [
+   "العطلة السنوية المؤدى عنها",
+   "شهر"
+  ]
+ },
+ {
+  "id": "T03",
+  "skill": "maroc-travail",
+  "text": "mudawwanat-shughl",
+  "q": "Période d'essai d'un cadre en CDI ?",
+  "art": [
+   "14"
+  ],
+  "must": [
+   "ثلاثة أشهر",
+   "للأطر"
+  ],
+  "search": [
+   "فترة الاختبار",
+   "الأطر"
+  ]
+ },
+ {
+  "id": "T04",
+  "skill": "maroc-travail",
+  "text": "mudawwanat-shughl",
+  "q": "Ch7al mn sa3a d l-khedma f l-3am f l-qita3 ghir l-fila7i?",
+  "art": [
+   "184"
+  ],
+  "must": [
+   "2288"
+  ],
+  "search": [
+   "مدة الشغل العادية",
+   "النشاطات غير الفلاحية"
+  ]
+ },
+ {
+  "id": "T05",
+  "skill": "maroc-travail",
+  "text": "mudawwanat-shughl",
+  "q": "Chno homa l-akhta2 l-jasima li katbarrer l-fasl bla i5tar?",
+  "art": [
+   "39"
+  ],
+  "must": [
+   "أخطاء جسيمة"
+  ],
+  "search": [
+   "الأخطاء الجسيمة",
+   "الفصل"
+  ]
+ },
+ {
+  "id": "T06",
+  "skill": "maroc-travail",
+  "text": "mudawwanat-shughl",
+  "q": "Délai de prescription des actions du salarié ?",
+  "art": [
+   "395"
+  ],
+  "must": [
+   "سنتين"
+  ],
+  "search": [
+   "تتقادم",
+   "سنتين"
+  ]
+ },
+ {
+  "id": "F01",
+  "skill": "maroc-famille",
+  "text": "mudawwanat-usra",
+  "q": "Ch7al howa sinn z-zwaj?",
+  "art": [
+   "19"
+  ],
+  "must": [
+   "ثمان عشرة سنة"
+  ],
+  "search": [
+   "أهلية الزواج"
+  ]
+ },
+ {
+  "id": "F02",
+  "skill": "maroc-famille",
+  "text": "mudawwanat-usra",
+  "q": "F ch7al khass l-ma7kama tfsel f d3wat ch-chi9a9?",
+  "art": [
+   "97"
+  ],
+  "must": [
+   "ستة أشهر"
+  ],
+  "search": [
+   "الشقاق",
+   "أجل"
+  ]
+ },
+ {
+  "id": "F03",
+  "skill": "maroc-famille",
+  "text": "mudawwanat-usra",
+  "q": "Chkoun 3ndo l-7adana l-awwal: l-om wla l-b?",
+  "art": [
+   "171"
+  ],
+  "must": [
+   "للأم"
+  ],
+  "search": [
+   "الحضانة",
+   "للأم",
+   "للأب"
+  ]
+ },
+ {
+  "id": "F04",
+  "skill": "maroc-famille",
+  "text": "mudawwanat-usra",
+  "q": "Imta katsali l-7adana, w imta y9der l-weld ykhtar m3a mn ygles?",
+  "art": [
+   "166"
+  ],
+  "must": [
+   "سن الرشد القانوني",
+   "الخامسة عشرة"
+  ],
+  "search": [
+   "الحضانة",
+   "سن"
+  ]
+ },
+ {
+  "id": "F05",
+  "skill": "maroc-famille",
+  "text": "mudawwanat-usra",
+  "q": "3iddat l-mra ghir l-7amil?",
+  "art": [
+   "136"
+  ],
+  "must": [
+   "ثلاثة أطهار"
+  ],
+  "search": [
+   "تعتد غير الحامل"
+  ]
+ },
+ {
+  "id": "F06",
+  "skill": "maroc-famille",
+  "text": "mudawwanat-usra",
+  "q": "Imta kaymna3 t-ta3addod?",
+  "art": [
+   "40"
+  ],
+  "must": [
+   "يمنع التعدد"
+  ],
+  "search": [
+   "يمنع التعدد"
+  ]
+ },
+ {
+  "id": "C01",
+  "skill": "maroc-civil",
+  "text": "doc",
+  "q": "Ch7al t-ta9adom l-3amm f l-iltizamat?",
+  "art": [
+   "387"
+  ],
+  "must": [
+   "خمس عشرة سنة"
+  ],
+  "search": [
+   "تتقادم",
+   "خمس عشرة سنة"
+  ]
+ },
+ {
+  "id": "C02",
+  "skill": "maroc-civil",
+  "text": "doc",
+  "q": "Le contrat tient-il lieu de loi entre les parties ?",
+  "art": [
+   "230"
+  ],
+  "must": [
+   "تقوم مقام القانون"
+  ],
+  "search": [
+   "تقوم مقام القانون"
+  ]
+ },
+ {
+  "id": "C03",
+  "skill": "maroc-civil",
+  "text": "doc",
+  "q": "Wach l-ma7kama t9der tn99es ch-chart l-jaza2i?",
+  "art": [
+   "264"
+  ],
+  "must": [
+   "تخفيض"
+  ],
+  "search": [
+   "الشرط الجزائي"
+  ]
+ },
+ {
+  "id": "C04",
+  "skill": "maroc-civil",
+  "text": "doc",
+  "q": "Mas2ouliya 3la l-khata2 (faute) — chmen fasl?",
+  "art": [
+   "78"
+  ],
+  "must": [
+   "بخطإه"
+  ],
+  "search": [
+   "مسؤول عن الضرر",
+   "بخطئه"
+  ]
+ },
+ {
+  "id": "P01",
+  "skill": "maroc-procedure-civile",
+  "text": "msm-58-25",
+  "q": "Ch7al mn youm 3ndi bach nsta2nef 7okm ibtida2i?",
+  "art": [
+   "204"
+  ],
+  "must": [
+   "ثلاثين"
+  ],
+  "search": [
+   "تستأنف الأحكام",
+   "أجل"
+  ]
+ },
+ {
+  "id": "P02",
+  "skill": "maroc-procedure-civile",
+  "text": "msm-58-25",
+  "q": "Délai du pourvoi en cassation ?",
+  "art": [
+   "380"
+  ],
+  "must": [
+   "ثلاثين"
+  ],
+  "search": [
+   "أجل الطعن أمام محكمة النقض"
+  ]
+ },
+ {
+  "id": "P03",
+  "skill": "maroc-procedure-civile",
+  "text": "msm-58-25",
+  "q": "Kifach kayt7sbo l-ajal (kamla)?",
+  "art": [
+   "602"
+  ],
+  "must": [
+   "كاملة"
+  ],
+  "search": [
+   "الآجال",
+   "كاملة"
+  ]
+ },
+ {
+  "id": "P04",
+  "skill": "maroc-procedure-civile",
+  "text": "msm-58-25",
+  "q": "7okm sdar 9bel 58.25: wach kat-tba9 3lih toro9 t-ta3n j-jdida?",
+  "art": [
+   "643"
+  ],
+  "must": [
+   "طرق الطعن"
+  ],
+  "search": [
+   "حيز التنفيذ",
+   "طرق الطعن"
+  ]
+ },
+ {
+  "id": "P05",
+  "skill": "maroc-procedure-civile",
+  "text": "msm-58-25",
+  "q": "La plateforme électronique était en panne le dernier jour du délai ?",
+  "art": [
+   "639"
+  ],
+  "must": [
+   "المنصة"
+  ],
+  "search": [
+   "تعذر الولوج",
+   "المنصة"
+  ]
+ },
+ {
+  "id": "J01",
+  "skill": "maroc-penal",
+  "text": "qanun-jinai",
+  "q": "3o9oubat l-9atl l-3amd?",
+  "art": [
+   "392"
+  ],
+  "must": [
+   "السجن المؤبد"
+  ],
+  "search": [
+   "قتل غيره",
+   "عمدا"
+  ]
+ },
+ {
+  "id": "J02",
+  "skill": "maroc-penal",
+  "text": "qanun-jinai",
+  "q": "3o9oubat s-sari9a l-3adiya?",
+  "art": [
+   "505"
+  ],
+  "must": [
+   "سنة إلى خمس سنوات"
+  ],
+  "search": [
+   "اختلس عمدا",
+   "مالا مملوكا للغير"
+  ]
+ },
+ {
+  "id": "J03",
+  "skill": "maroc-penal",
+  "text": "qanun-jinai",
+  "q": "Imta y9der l-9adi y7kem b 3o9ouba badila?",
+  "art": [
+   "35-1"
+  ],
+  "must": [
+   "العقوبات البديلة"
+  ],
+  "search": [
+   "العقوبات البديلة"
+  ]
+ },
+ {
+  "id": "J04",
+  "skill": "maroc-procedure-penale",
+  "text": "msj",
+  "q": "Ch7al mouddat l-7irasa n-nadariya f l-jonah?",
+  "art": [
+   "66"
+  ],
+  "must": [
+   "ثمان وأربعين ساعة"
+  ],
+  "search": [
+   "الحراسة النظرية",
+   "ساعة"
+  ]
+ },
+ {
+  "id": "K01",
+  "skill": "maroc-commerce",
+  "text": "mudawwanat-tijara",
+  "q": "Chèque sans provision : quelle peine ?",
+  "art": [
+   "316"
+  ],
+  "must": [
+   "مؤونة"
+  ],
+  "search": [
+   "مؤونة",
+   "الشيك"
+  ]
+ },
+ {
+  "id": "K02",
+  "skill": "maroc-commerce",
+  "text": "mudawwanat-tijara",
+  "q": "Chno howa l-asl t-tijari?",
+  "art": [
+   "79"
+  ],
+  "must": [
+   "مال منقول معنوي"
+  ],
+  "search": [
+   "الأصل التجاري",
+   "مال منقول معنوي"
+  ]
+ },
+ {
+  "id": "K03",
+  "skill": "maroc-commerce",
+  "text": "himayat-mustahlik-31-08",
+  "q": "Ch7al 3nd l-mostahlik bach yrj3 f chra mn l-internet?",
+  "art": [
+   "36"
+  ],
+  "must": [
+   "سبعة أيام"
+  ],
+  "search": [
+   "التراجع",
+   "أيام"
+  ]
+ },
+ {
+  "id": "I01",
+  "skill": "maroc-immobilier",
+  "text": "tahfid-aqari",
+  "q": "Wach r-rasm l-3a9ari n-niha2i y9bel t-ta3n?",
+  "art": [
+   "62"
+  ],
+  "must": [
+   "نهائي"
+  ],
+  "search": [
+   "الرسم العقاري",
+   "نهائي"
+  ]
+ },
+ {
+  "id": "I02",
+  "skill": "maroc-immobilier",
+  "text": "huquq-ayniya-39-08",
+  "q": "Quelle est la valeur des inscriptions au titre foncier ?",
+  "art": [
+   "2"
+  ],
+  "must": [
+   "الرسوم العقارية"
+  ],
+  "search": [
+   "الرسوم العقارية",
+   "حجة"
+  ]
+ },
+ {
+  "id": "A01",
+  "skill": "maroc-administratif",
+  "text": "taalil-03-01",
+  "q": "Wach l-idara mlzouma t3ellel l-9rarat s-salbiya?",
+  "art": [
+   "1"
+  ],
+  "must": [
+   "تعليل"
+  ],
+  "search": [
+   "تعليل قراراتها"
+  ]
+ },
+ {
+  "id": "N01",
+  "skill": "maroc-numerique",
+  "text": "muatayat-09-08",
+  "q": "Traitement de données personnelles : faut-il le consentement ?",
+  "art": [
+   "4"
+  ],
+  "must": [
+   "رضى"
+  ],
+  "search": [
+   "الرضى",
+   "المعالجة"
+  ]
+ },
+ {
+  "id": "D01",
+  "skill": "maroc-droit",
+  "text": "dustur-2011",
+  "q": "Qarinat l-bara2a f d-dostour?",
+  "art": [
+   "23"
+  ],
+  "must": [
+   "قرينة البراءة"
+  ],
+  "search": [
+   "قرينة البراءة"
+  ]
+ },
+ {
+  "id": "D02",
+  "skill": "maroc-droit",
+  "text": "dustur-2011",
+  "q": "L-7a99 f mo7akama 3adila?",
+  "art": [
+   "120"
+  ],
+  "must": [
+   "محاكمة عادلة"
+  ],
+  "search": [
+   "محاكمة عادلة"
+  ]
+ },
+ {
+  "id": "PI1",
+  "skill": "maroc-propriete-intellectuelle",
+  "text": "huquq-muallif-2-00",
+  "q": "Ch7al katb9a 7o9ou9 l-mo2allif mn b3d l-mout?",
+  "art": [
+   "25"
+  ],
+  "must": [
+   "سبعين"
+  ],
+  "search": [
+   "طيلة حياة المؤلف"
+  ]
+ },
+ {
+  "id": "L01",
+  "skill": "maroc-libertes-publiques",
+  "text": "maalumat-31-13",
+  "q": "F ch7al khass l-idara tjaweb 3la talab l-ma3louma?",
+  "art": [
+   "16"
+  ],
+  "must": [
+   "عشرين"
+  ],
+  "search": [
+   "طلب الحصول على المعلومات",
+   "أجل"
+  ]
+ },
+ {
+  "id": "B01",
+  "skill": "maroc-assurances-banques",
+  "text": "taminat-17-99",
+  "q": "Prescription des actions dérivant du contrat d'assurance ?",
+  "art": [
+   "36"
+  ],
+  "must": [
+   "سنتين"
+  ],
+  "search": [
+   "تتقادم",
+   "عقد التأمين"
+  ]
+ },
+ {
+  "id": "X01",
+  "skill": "maroc-fiscal-douane",
+  "text": "tahsil-15-97",
+  "q": "Ch7al t-ta9adom d d-doyoun l-3omomiya (ta7sil)?",
+  "art": [
+   "123"
+  ],
+  "must": [
+   "أربع سنوات"
+  ],
+  "search": [
+   "تتقادم",
+   "أربع سنوات"
+  ]
+ },
+ {
+  "id": "W01",
+  "skill": "maroc-travail",
+  "text": "hawadith-shughl-18-12",
+  "q": "F ch7al khass l-mochaghghil ysrre7 l charikat t-ta2min b 7adithat ch-choghl?",
+  "art": [
+   "15"
+  ],
+  "must": [
+   "الخمسة أيام"
+  ],
+  "search": [
+   "يصرح للمقاولة المؤمنة",
+   "حادثة"
+  ]
+ },
+ {
+  "id": "M01",
+  "skill": "maroc-professions-judiciaires",
+  "text": "muhamat-66-23",
+  "q": "Wach l-mo7ami mlzoum b s-sir l-mihani?",
+  "art": [
+   "46"
+  ],
+  "must": [
+   "بالسر المهني"
+  ],
+  "search": [
+   "السر المهني"
+  ]
+ }
+]

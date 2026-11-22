@@ -1,0 +1,32 @@
+{
+ "slug": "adala-6215",
+ "title": "ظهير شريف بمثابة قانون يتعلق بالتعاونيات الفلاحية المؤسسة بين الافراد المسلمة إليهم أراضي الدولة و- أو الأفراد الموزعة عليهم القطع الأرضية المحدثة في العقارات الجماعية القديمة",
+ "title_fr": "ظهير شريف بمثابة قانون يتعلق بالتعاونيات الفلاحية المؤسسة بين الافراد المسلمة إليهم أراضي الدولة و- أو الأفراد الموزعة عليهم القطع الأرضية المحدثة في العقارات الجماعية القديمة",
+ "source_title": "ظهير شريف بمثابة قانون يتعلق بالتعاونيات الفلاحية المؤسسة بين الافراد المسلمة إليهم أراضي الدولة و- أو الأفراد الموزعة عليهم القطع الأرضية المحدثة في العقارات الجماعية القديمة",
+ "source_id": 6215,
+ "source_name": "Adala",
+ "source_url": "https://adala.justice.gov.ma/api/uploads/2025/01/22/%D9%85%D8%B1%D8%B3%D9%88%D9%85%20%D8%B1%D9%82%D9%85%201.72.278%20%D8%A8%D9%85%D8%AB%D8%A7%D8%A8%D8%A9%20%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D9%8A%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86%D9%8A%D8%A7%D8%AA-1737536352007.pdf",
+ "source_path": "uploads/2025/01/22/مرسوم رقم 1.72.278 بمثابة قانون يتعلق بالتعاونيات-1737536352007.pdf",
+ "source_updated_at": "2026-04-06T10:59:58.653Z",
+ "consolidated_on": null,
+ "pdf_sha256": "202e722d7a39e06d0483a2deb1cf17ee614b6d5d11846beca23357f855c332ac",
+ "pdf_pages": 9,
+ "extracted_at": "2026-11-22T15:32:34+00:00",
+ "article_keyword": "الفصل",
+ "n_articles": 4,
+ "n_footnotes": 11,
+ "n_footnotes_unplaced": 0,
+ "footnote_numbers_missing": [],
+ "glyph_fixes": [],
+ "source_numbers_reordered": 0,
+ "source_corrections": [],
+ "source_spaces_restored": 0,
+ "article_notes": {},
+ "other_parts": [],
+ "anomalies": [
+  "numbering gap: 0 -> 3 (page 4); usually a repealed range, check the footnote",
+  "numbering gap: 3 -> 13 (page 6); usually a repealed range, check the footnote",
+  "numbering gap: 13 -> 17 المكرر (page 7); usually a repealed range, check the footnote"
+ ],
+ "language": "ar"
+}

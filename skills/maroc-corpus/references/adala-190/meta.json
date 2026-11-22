@@ -1,0 +1,38 @@
+{
+ "slug": "adala-190",
+ "title": "ظهير بإحداث جائزة محمد السادس في حفظ القرآن الكريم وترتيله وتجويده وتفسيره",
+ "title_fr": "ظهير بإحداث جائزة محمد السادس في حفظ القرآن الكريم وترتيله وتجويده وتفسيره",
+ "source_title": "ظهير بإحداث جائزة محمد السادس  في حفظ القرآن الكريم وترتيله وتجويده وتفسيره",
+ "source_id": 190,
+ "source_name": "Adala",
+ "source_url": "https://adala.justice.gov.ma/api/uploads/2024/09/30/%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3%20%D9%81%D9%8A%20%D8%AD%D9%81%D8%B8%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85%20%D9%88%D8%AA%D8%B1%D8%AA%D9%8A%D9%84%D9%87%20%D9%88%D8%AA%D8%AC%D9%88%D9%8A%D8%AF%D9%87%20%D9%88%D8%AA%D9%81%D8%B3%D9%8A%D8%B1%D9%87-1727689152919.pdf",
+ "source_path": "uploads/2024/09/30/جائزة محمد السادس في حفظ القرآن الكريم وترتيله وتجويده وتفسيره-1727689152919.pdf",
+ "source_updated_at": "2026-10-09T10:50:31.451Z",
+ "consolidated_on": null,
+ "pdf_sha256": "9533c8d87b301d92967d551e15f670041a720ee38139734dfbcfdaa344fbf474",
+ "pdf_pages": 9,
+ "extracted_at": "2026-11-22T15:36:13+00:00",
+ "article_keyword": "المادة",
+ "n_articles": 29,
+ "n_footnotes": 1,
+ "n_footnotes_unplaced": 0,
+ "footnote_numbers_missing": [],
+ "glyph_fixes": [
+  {
+   "font": "TimesNewRomanPSMT",
+   "glyph": "0BCC",
+   "was": "للا",
+   "now": "هللا"
+  }
+ ],
+ "source_numbers_reordered": 0,
+ "source_corrections": [],
+ "source_spaces_restored": 0,
+ "article_notes": {},
+ "other_parts": [],
+ "anomalies": [
+  "numbering gap: 26 -> 28 (page 8); usually a repealed range, check the footnote",
+  "numbering gap: 28 -> 30 (page 8); usually a repealed range, check the footnote"
+ ],
+ "language": "ar"
+}

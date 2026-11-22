@@ -1,0 +1,147 @@
+# Sommaire — [Version française — peut ne pas être à jour] Code des obligations et des contrats (DOC)
+
+- LIVRE PREMIER: DES OBLIGATIONS EN GÉNÉRAL
+  - TITRE PREMIER: DES CAUSES DES OBLIGATIONS (Article 1)
+    - CHAPITRE PREMIER: DES OBLIGATIONS QUI DÉRIVENT (Article 2 – 2-1)
+      - SECTION PREMIÉRE: DE LA CAPACITÉ (Article 3 – 13)
+      - SECTION DEUXIÉME: DE LA DÉCLARATION DE VOLONTÉ 1- De la déclaration unilatérale (Article 14 – 56)
+      - SECTION TROISIÉME: DE L'OBJET DES OBLIGATIONS CONTRACTUELLES (Article 57 – 61)
+      - SECTION QUATRIÉME: DE LA CAUSE DES OBLIGATIONS CONTRACTUELLES (Article 62 – 65)
+    - Chapitre premier bis: Du contrat conclu sous forme électronique ou transmis par voie électronique
+      - Section I: Dispositions générales (Article 65-1 – 65-2)
+      - Section II: De l'offre (Article 65-3 – 65-4)
+      - Section III: De la conclusion d'un contrat sous forme électronique (Article 65-5)
+      - Section IV: Dispositions diverses Articles 65-6 (Article 65-7)
+    - CHAPITRE DEUXIEME: DES OBLIGATIONS QUI RESULTENT DES QUASI-CONTRATS (Article 66 – 76)
+    - CHAPITRE TROISIÉME: DES OBLIGATIONS QUI RÉSULTENT DES DÉLITS ET QUASI-DÉLITS (Article 77 – 106)
+    - Chapitre IV: De la Responsabilité civile du fait des produits défectueux (Article 106-1 – 106-9)
+    - chapitre s’il prouve: (Article 106-10 – 106-14)
+  - TITRE DEUXIÉME: DES MODALITÉS DE L'OBLIGATION
+    - CHAPITRE PREMIER: DE LA CONDITION (Article 107 – 126)
+    - CHAPITRE DEUXIÉME: DU TERME (Article 127 – 140)
+    - CHAPITRE TROISIÉME: DE L'OBLIGATION ALTERNATIVE (Article 141 – 152)
+    - CHAPITRE QUATRIÉME: DES OBLIGATIONS SOLIDAIRES
+      - SECTION PREMIÉRE: DE LA SOLIDARITÉ ENTRE LES CRÉANCIERS (Article 153 – 163)
+      - SECTION DEUXIÉME: DE LA SOLIDARITÉ ENTRE LES DÉBITEURS (Article 164 – 180)
+    - CHAPITRE CINQUIÉME: DES OBLIGATIONS DIVISIBLES ET INDIVISIBLES
+      - SECTION PREMIÉRE: DES OBLIGATIONS INDIVISIBLES (Article 181 – 185)
+      - SECTION DEUXIÉME: DES OBLIGATIONS DIVISIBLES (Article 186 – 188)
+  - TITRE TROISIÉME: TRANSPORT DES OBLIGATIONS
+    - CHAPITRE PREMIER: DE TRANSPORT EN GÉNÉRAL (Article 189 – 208)
+    - CHAPITRE DEUXIÉME: DU TRANSFERT D’UN ENSEMBLE DE DROITS OU D’UN PATRIMOINE (Article 209 – 210)
+    - CHAPITRE TROISIÉME: DE LA SUBROGATION (Article 211 – 216)
+    - CHAPITRE QUATRIÉME: DE LA DÉLÉGATION (Article 217 – 227)
+  - TITRE QUATRIÉME: DES EFFETS DES OBLIGATIONS
+    - CHAPITRE PREMIER:DE L'EFFET DES OBLIGATIONS EN GÉNÉRAL (Article 228 – 235)
+    - CHAPITRE DEUXIÉME: DE L'EXÉCUTION DES OBLIGATIONS (Article 236 – 253)
+    - CHAPITRE TROISIÉME: DE L'EXÉCUTION DES OBLIGATIONS ET DE SES EFFETS
+      - SECTION PREMIÉRE: DE LA DEMEURE DU DÉBITEUR (Article 254 – 267)
+      - SECTION DEUXIÉME: DE LA FORCE MAJEURE ET DU CAS FORTUIT (Article 268 – 269)
+      - SECTION TROISIÉME: DE LA DEMEURE DU CRÉANCIER (Article 270 – 274)
+      - SECTION QUATRIÉME: DES OFFRES D'EXÉCUTION ET DE LA CONSIGNAT1ON (Article 275 – 287)
+    - CHAPITRE QUATRIÉME: DE QUELQUES MOYENS D'ASSURER L'EXÉCUTION DES OBLIGATIONS
+      - SECTION PREMIÉRE: DES ARRHES (Article 288 – 290)
+      - SECTION DEUXIÉME: DE DROIT DE RÉTENTION (Article 291 – 305)
+  - TITRE CINQUIÉME: DE LA NULLITÉ ET DE LA RESCISION DES OBLIGATIONS
+    - CHAPITRE PREMIER: DE LA NULLITÉ DES OBLIGATIONS (Article 306 – 310)
+    - CHAPITRE DEUXIÉME: DE LA RESCISION DES OBLIGATIONS (Article 311 – 318)
+  - TITRE SIXIÉME: DE L'EXECUTION DES OBLIGATIONS (Article 319)
+    - CHAPITRE PREMIER: DU PAYEMENT
+      - SECTION PREMIÉRE: DU PAYEMENT EN GÉNÉRAL (Article 320 – 324)
+    - CHAPITRE DEUXIÉME: DE L'IMPOSSIBILITÉ DE L'EXÉCUTION (Article 335 – 339)
+    - CHAPITRE TROISIÉME: DE LA REMISE DE L'OBLIGATION (Article 340 – 346)
+    - CHAPITRE QUATRIÉME: DE LA NOVATION (Article 347 – 356)
+    - CHAPITRE CINQUIÉME: DE LA COMPENSATION (Article 357 – 368)
+    - CHAPITRE SIXIÉME: DE LA CONFUSION (Article 369 – 370)
+    - CHAPITRE SEPTIÉME: DE LA RESCRIPTION (Article 371 – 392)
+    - CHAPITRE HUITIÉME: DE LA RÉSILIATION VOLONTAIRE (Article 393 – 398)
+  - TITRE SEPTIÉME: DE LA PREUVE DES OBLIGATIONS ET DE CELLE DE LA LIBÉRATION
+    - CHAPITRE PREMIER: DISPOSITIONS GÉNÉRALES (Article 399 – 404)
+      - SECTION PREMIÉRE: DE L’AVEU DE LA PARTIE (Article 405 – 415)
+      - SECTION DEUXIÉME: DE LA PREUVE LITTÉRALE (Article 416 – 442)
+      - SECTION TROISIÉME: DE LA PREUVE TESTIMONIALE (Article 443 – 448)
+      - SECTION QUATRIÉME: DES PRÉSOMPTIONS (Article 449 – 459)
+      - SECTION CINQUIÉME: DU SERMENT (Article 460)
+    - CHAPITRE DEUXIÉME: DE L'INTERPRÉTATION DES (Article )
+      - SECTION PREMIÉRE: DE L'INTERPRÉTATION DES CONVENTIONS (Article 461 – 473)
+      - SECTION DEUXIÉME: DE QUELQUES RÉGLES GÉNÉRALES DE DROITS (Article 474 – 477)
+- LIVRE DEUXIÉME: DES DIFFÉRENTS (Article )
+  - TITRE PREMIER: DE LA VENTE
+    - CHAPITRE PREMIER: DE LA VENTE EN GÉNÉRAL
+      - SECTION PREMIÉRE: DE LA NATURE ET DES ÉLÉMENTS CONSTITUTIFS DE LA VENTE (Article 478 – 487)
+      - SECTION DEUXIÉME: DE LA PERFECTION DE LA VENTE (Article 488 – 490)
+    - CHAPITRE DEUXIÉME: DES EFFETS DE LA VENTE
+      - SECTION PREMIÉRE: DES EFFETS DE LA VENTE ET GÉNÉRAL (Article 491 – 497)
+      - SECTION DEUXIÉME: DES OBLIGATIONS DU VENDEUR (Article 498 – 518)
+        - partie des serrures, moulins, escaliers ou armoires fixes, tuyaux servant à (Article 519 – 575)
+      - SECTION TROISIÉME: DES OBLIGATIONS DE L'ACHETEUR (Article 576 – 584)
+    - Chapitre troisième: De quelques espèces particulières de vente
+      - Section première: De la vente à réméré (Article 585 – 600)
+      - Section deuxième: De la vente sous condition suspensive en faveur de l'une des parties (Vente à option) (Article 601 – 612)
+      - SECTION TROISIEME: De la vente à livrer avec avance de prix (SELEM) (Article 613 – 618)
+      - Section IV: de la vente d'immeuble en l'état futur d'achèvement (Article 618-1 – 618-20)
+      - Section V: De la vente mobilière avec clause de réserve de propriété (Article 618-21 – 618-26)
+  - TITRE DEUXIEME: DE L'ECHANGE
+    - Chapitre unique: De l'échange (Article 619 – 625)
+  - TITRE TROISIEME: DU LOUAGE (Article 626)
+    - Chapitre premier: Du louage de choses
+      - Section première: Dispositions générales (Article 627 – 634)
+      - Section deuxième: Des effets du louage de choses 1-Des obligations du locateur (Article 635 – 637)
+  - titre qui lui est délivré: ceux d'enlèvement et de réception de la chose (Article 638 – 651)
+    - partie de la chose, le preneur n'a droit qu'à une réduction de prix; il peut (Article 652 – 686)
+    - Section troisième: De l'extinction de louage de choses (Article 687 – 699)
+    - Section quatrième: Des baux à ferme (Article 700 – 722)
+    - Chapitre deuxième: Du louange d'ouvrage et du louage de services
+      - Section première: Dispositions générales (Article 723 – 745 quater)
+        - partie du salaire, des indemnités et accessoires du salaire qui lui sont dus (Article )
+      - Section deuxième: Du louage de services ou de travail (Article 746 – 758 bis)
+      - Section troisième: Du louage d'ouvrage (Article 759 – 780)
+  - TITRE QUATRIEME: DU DEPOT ET DU SEQUESTRE
+    - Chapitre premier: Du dépôt volontaire
+      - Section première: Dispositions générales (Article 781 – 790)
+      - Section deuxième: Des obligations du dépositaire (Article 791 – 813)
+      - Section troisième: Des obligations du déposant (Article 814 – 817)
+    - Chapitre deuxième: Du séquestre (Article 818 – 828)
+  - TITRE CINQUIEME: DU PRET (Article 829)
+    - Chapitre premier: Du prêt à usage ou commodat (Article 830 – 855)
+    - Chapitre deuxième: Du prêt de consommation (Article 856 – 869)
+    - Chapitre troisième: Du prêt a intérêt (Article 870 – 878)
+  - TITRE SIXIEME: DU MANDAT
+    - Chapitre premier: Du mandat en général (Article 879 – 912)
+      - Section deuxième: Des obligations du mandant (Article 913 – 919)
+    - Chapitre troisième: Des effets du mandat à l'égard des tiers (Article 920 – 928)
+    - Chapitre quatrième: De l'extinction du mandat (Article 929 – 942)
+    - Chapitre cinquième: Des quasi-contrats analogues au mandat de la gestion d'affaires (Article 943 – 958)
+  - TITRE SEPTIEME: DE L'ASSOCIATION (Article 959)
+    - Chapitre premier: De la communauté ou quasi-société (Article 960 – 963)
+      - partie sur laquelle l'innovation a été faite tombe dans son lot, il (Article 964 – 981)
+    - Chapitre deuxième: De la société contractuelle
+      - Section première: Dispositions générales aux sociétés civiles et commerciales (Article 982 – 994)
+      - Section deuxième: Des effets de la société entre associes et à l'égard des tiers (Article 995 – 1050)
+      - Section troisième: De la dissolution de la société et de l'exclusion des associes (Article 1051 – 1063)
+    - Chapitre troisième: De la liquidation et du partage (Article 1064)
+      - Section première: De la liquidation (Article 1065 – 1082)
+      - Section deuxième: Du partage (Article 1083 – 1091)
+  - TITRE HUITIEME: DES CONTRATS ALEATOIRES
+    - Chapitre unique: Des contrats aléatoires (Article 1092 – 1097)
+  - TITRE NEUVIEME: DE LA TRANSACTION
+    - Chapitre unique De la transaction (Article 1098 – 1116)
+  - TITRE DIXIEME: DE CAUTIONNEMENT
+    - Chapitre premier: Du cautionnement en général (Article 1117 – 1132)
+    - Chapitre deuxième: Des effets du cautionnement (Article 1133 – 1149)
+    - Chapitre troisième: De l'extinction du cautionnement (Article 1150 – 1160)
+    - Chapitre quatrième: Du cautionnement de comparution (Article 1161 – 1169)
+  - TITRE ONZIEME: DU GAGE ET DU NANTISSEMENT
+    - Chapitre premier: Dispositions générales (Article 1170 – 1183)
+    - Chapitre deuxième: Du gage et nantissement mobiliers
+      - Section première: Dispositions générales (Article 1184 – 1198)
+      - Section deuxième: Des effets du gage et du nantissement (Article 1199 – 1203bis)
+      - Section troisième: Des obligations du créancier (Article 1204 – 1217)
+      - Section IV: De la réalisation du gage et du nantissement (Article 1218 – 1227-6)
+      - Section cinquième: De l'effet du gage entre les créanciers et envers les tiers (Article 1228 – 1232)
+      - Section sixième: De la nullité et de l'extinction du gage et du nantissement (Article 1233 – 1240)
+  - TITRE DOUZIEME: DES DIFFERENTES ESPECES DE CREANCIERS (Article 1241 – 1242)
+    - Chapitre premier: Des privilèges (Article 1243 – 1246)
+    - Chapitre deuxième: Des privilèges sur les meubles (Article 1247)
+      - Section première:Des créances privilégiées sur la généralité des meubles (Article 1248)
+      - Section deuxième: Les créances ayant les droits de gage ou autre privilège spécial sur certains meubles (Article 1249 – 1250)

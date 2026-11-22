@@ -1,0 +1,31 @@
+{
+ "slug": "adala-417",
+ "title": "القانون المتعلق بهيئة أطباء الأسنان الوطنية",
+ "title_fr": "القانون المتعلق بهيئة أطباء الأسنان الوطنية",
+ "source_title": "القانون المتعلق بهيئة أطباء الأسنان الوطنية",
+ "source_id": 417,
+ "source_name": "Adala",
+ "source_url": "https://adala.justice.gov.ma/api/uploads/2024/10/04/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%201.07.41%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2007.05%20%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D9%87%D9%8A%D8%A6%D8%A9%20%D8%A3%D8%B7%D8%A8%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86%20%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-1728051644544.pdf",
+ "source_path": "uploads/2024/10/04/ظهير شريف 1.07.41 بتنفيذ القانون رقم 07.05  المتعلق بهيئة أطباء الأسنان الوطنية-1728051644544.pdf",
+ "source_updated_at": "2025-12-01T15:13:50.499Z",
+ "consolidated_on": null,
+ "pdf_sha256": "584c050e51fe4635b64fc89923aa772d4bd6a426db13e5d759fd5f87c0f3dcdc",
+ "pdf_pages": 23,
+ "extracted_at": "2026-11-22T15:39:59+00:00",
+ "article_keyword": "المادة",
+ "n_articles": 86,
+ "n_footnotes": 1,
+ "n_footnotes_unplaced": 1,
+ "footnote_numbers_missing": [],
+ "glyph_fixes": [],
+ "source_numbers_reordered": 0,
+ "source_corrections": [],
+ "source_spaces_restored": 0,
+ "article_notes": {},
+ "other_parts": [],
+ "anomalies": [
+  "heading-like line kept as text: 'المادة 59' (page 18)",
+  "numbering gap: 57 -> 59 (page 18); usually a repealed range, check the footnote"
+ ],
+ "language": "ar"
+}

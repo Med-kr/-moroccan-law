@@ -1,0 +1,320 @@
+[
+ {
+  "id": "H01",
+  "skill": "maroc-travail",
+  "text": "mudawwanat-shughl",
+  "q": "Ch7al mouddat l-i5tar (préavis) 9bel l-fasl?",
+  "art": [
+   "43"
+  ],
+  "must": [
+   "أجل الإخطار"
+  ],
+  "search": [
+   "أجل الإخطار",
+   "إنهاء عقد الشغل"
+  ]
+ },
+ {
+  "id": "H02",
+  "skill": "maroc-travail",
+  "text": "mudawwanat-shughl",
+  "q": "Ch7al katakhod l-mra d l-3otla d l-wilada?",
+  "art": [
+   "152"
+  ],
+  "must": [
+   "أربعة عشر أسبوعا"
+  ],
+  "search": [
+   "إجازة الولادة",
+   "أسبوعا"
+  ]
+ },
+ {
+  "id": "H03",
+  "skill": "maroc-travail",
+  "text": "mudawwanat-shughl",
+  "q": "Âge minimum d'embauche ?",
+  "art": [
+   "143"
+  ],
+  "must": [
+   "خمس عشرة سنة"
+  ],
+  "search": [
+   "تشغيل الأحداث",
+   "سن"
+  ]
+ },
+ {
+  "id": "H04",
+  "skill": "maroc-famille",
+  "text": "mudawwanat-usra",
+  "q": "Imta katwjeb nafa9at z-zawja 3la r-rajel?",
+  "art": [
+   "194"
+  ],
+  "must": [
+   "نفقة الزوجة"
+  ],
+  "search": [
+   "نفقة الزوجة",
+   "البناء"
+  ]
+ },
+ {
+  "id": "H05",
+  "skill": "maroc-famille",
+  "text": "mudawwanat-usra",
+  "q": "Chno howa l-khol3?",
+  "art": [
+   "115"
+  ],
+  "must": [
+   "الخلع"
+  ],
+  "search": [
+   "الخلع"
+  ]
+ },
+ {
+  "id": "H06",
+  "skill": "maroc-famille",
+  "text": "mudawwanat-usra",
+  "q": "Ch7al l-7add d l-waṣiya?",
+  "art": [
+   "277"
+  ],
+  "must": [
+   "ثلث مال"
+  ],
+  "search": [
+   "الوصية",
+   "الثلث"
+  ]
+ },
+ {
+  "id": "H07",
+  "skill": "maroc-civil",
+  "text": "doc",
+  "q": "Le dol (التدليس) est-il une cause de rescision ?",
+  "art": [
+   "52"
+  ],
+  "must": [
+   "التدليس"
+  ],
+  "search": [
+   "التدليس",
+   "الإبطال"
+  ]
+ },
+ {
+  "id": "H08",
+  "skill": "maroc-civil",
+  "text": "doc",
+  "q": "Chkoun mas2oul 3la d-darar li kaydir l-7ayawan?",
+  "art": [
+   "86"
+  ],
+  "must": [
+   "الحيوان"
+  ],
+  "search": [
+   "الحيوان",
+   "الضرر"
+  ]
+ },
+ {
+  "id": "H09",
+  "skill": "maroc-procedure-civile",
+  "text": "msm-58-25",
+  "q": "Ch7al l-ajal d t-ta3arrod 3la 7okm ghiyabi ibtida2i?",
+  "art": [
+   "200"
+  ],
+  "must": [
+   "خمسة عشر"
+  ],
+  "search": [
+   "التعرض",
+   "الأحكام الغيابية"
+  ]
+ },
+ {
+  "id": "H10",
+  "skill": "maroc-penal",
+  "text": "qanun-jinai",
+  "q": "3o9oubat n-naṣb (escroquerie)?",
+  "art": [
+   "540"
+  ],
+  "must": [
+   "النصب"
+  ],
+  "search": [
+   "النصب",
+   "يعاقب"
+  ]
+ },
+ {
+  "id": "H11",
+  "skill": "maroc-penal",
+  "text": "qanun-jinai",
+  "q": "Abus de confiance : quelle peine ?",
+  "art": [
+   "547"
+  ],
+  "must": [
+   "خيانة الأمانة"
+  ],
+  "search": [
+   "خيانة الأمانة"
+  ]
+ },
+ {
+  "id": "H12",
+  "skill": "maroc-procedure-penale",
+  "text": "msj",
+  "q": "Wach l-i3ti9al l-i7tiyati tadbir istithna2i?",
+  "art": [
+   "159"
+  ],
+  "must": [
+   "تدبيران استثنائيان"
+  ],
+  "search": [
+   "الاعتقال الاحتياطي",
+   "تدبير استثنائي"
+  ]
+ },
+ {
+  "id": "H13",
+  "skill": "maroc-commerce",
+  "text": "mudawwanat-tijara",
+  "q": "Ch7al t-ta9adom d l-kombiyala (lettre de change) 3la l-9abil?",
+  "art": [
+   "228"
+  ],
+  "must": [
+   "ثلاث سنوات"
+  ],
+  "search": [
+   "الكمبيالة",
+   "تتقادم"
+  ]
+ },
+ {
+  "id": "H14",
+  "skill": "maroc-commerce",
+  "text": "sharikat-5-96",
+  "q": "Ch7al l-7add l-a9ṣa d ch-chorraka f SARL?",
+  "art": [
+   "47"
+  ],
+  "must": [
+   "خمسين شريكا"
+  ],
+  "search": [
+   "الشركة ذات المسؤولية المحدودة",
+   "الشركاء"
+  ]
+ },
+ {
+  "id": "H15",
+  "skill": "maroc-immobilier",
+  "text": "kira-sakani-67-12",
+  "q": "Bach y9der mol d-dar ykhrrej l-mokri (motif sérieux)?",
+  "art": [
+   "45"
+  ],
+  "must": [
+   "الإفراغ"
+  ],
+  "search": [
+   "الإفراغ",
+   "المكتري"
+  ]
+ },
+ {
+  "id": "H16",
+  "skill": "maroc-immobilier",
+  "text": "kira-tijari-49-16",
+  "q": "Ch7al d l-mouda bach l-mokri y9der yktaseb l-7a9 f l-kira t-tijari?",
+  "art": [
+   "4"
+  ],
+  "must": [
+   "سنتين"
+  ],
+  "search": [
+   "الحق في تجديد العقد",
+   "سنتين"
+  ]
+ },
+ {
+  "id": "H17",
+  "skill": "maroc-droit",
+  "text": "dustur-2011",
+  "q": "Wach l-9anoun howa asma ta3bir 3la irada l-oumma?",
+  "art": [
+   "6"
+  ],
+  "must": [
+   "أسمى تعبير عن إرادة الأمة"
+  ],
+  "search": [
+   "أسمى تعبير",
+   "إرادة الأمة"
+  ]
+ },
+ {
+  "id": "H18",
+  "skill": "maroc-numerique",
+  "text": "muatayat-09-08",
+  "q": "Wach khass taṣri7 mosba9 l l-CNDP 9bel l-mou3alaja?",
+  "art": [
+   "12"
+  ],
+  "must": [
+   "تصريح مسبق"
+  ],
+  "search": [
+   "التصريح المسبق",
+   "اللجنة الوطنية"
+  ]
+ },
+ {
+  "id": "H19",
+  "skill": "maroc-travail",
+  "text": "daman-ijtimai",
+  "q": "Wach t-tasjil f CNSS ilzami l l-mochaghghil?",
+  "art": [
+   "15"
+  ],
+  "must": [
+   "الانخراط"
+  ],
+  "search": [
+   "الانخراط",
+   "المشغلين"
+  ]
+ },
+ {
+  "id": "H20",
+  "skill": "maroc-assurances-banques",
+  "text": "taminat-17-99",
+  "q": "Wach l-mo2ammen lih khasso ysrre7 b l-7aditha f ajal mo7added?",
+  "art": [
+   "20"
+  ],
+  "must": [
+   "أيام"
+  ],
+  "search": [
+   "التصريح بالحادث",
+   "المؤمن له"
+  ]
+ }
+]

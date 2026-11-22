@@ -1,0 +1,31 @@
+{
+ "slug": "adala-7609",
+ "title": "ظهير شريف بتنفيذ القانون رقم 1.80 المدمج بموجبه في القوات المساعدة بعض العسكريين بالقوات المسلحة الملكية والمواطنين المنحدرين من الأقاليم الصحراوية",
+ "title_fr": "ظهير شريف بتنفيذ القانون رقم 1.80 المدمج بموجبه في القوات المساعدة بعض العسكريين بالقوات المسلحة الملكية والمواطنين المنحدرين من الأقاليم الصحراوية",
+ "source_title": "ظهير شريف بتنفيذ القانون رقم 1.80 المدمج بموجبه في القوات المساعدة بعض العسكريين بالقوات المسلحة الملكية والمواطنين المنحدرين من الأقاليم الصحراوية",
+ "source_id": 7609,
+ "source_name": "Adala",
+ "source_url": "https://adala.justice.gov.ma/api/uploads/2025/05/19/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.80.322%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%201.80-1747654475154.pdf",
+ "source_path": "uploads/2025/05/19/ظهير شريف رقم 1.80.322 بتنفيذ القانون رقم 1.80-1747654475154.pdf",
+ "source_updated_at": "2026-10-23T11:42:40.073Z",
+ "consolidated_on": null,
+ "pdf_sha256": "fc4f5588e7b9e7dc64d2a15596aacaa79c1a70aaa6b0bc8be34969ac1050db7b",
+ "pdf_pages": 4,
+ "extracted_at": "2026-11-22T15:34:24+00:00",
+ "article_keyword": "الفصل",
+ "n_articles": 8,
+ "n_footnotes": 1,
+ "n_footnotes_unplaced": 0,
+ "footnote_numbers_missing": [],
+ "glyph_fixes": [],
+ "source_numbers_reordered": 0,
+ "source_corrections": [],
+ "source_spaces_restored": 0,
+ "article_notes": {},
+ "other_parts": [],
+ "anomalies": [
+  "heading-like line kept as text: 'الفصل الأول' (page 2)",
+  "heading-like line kept as text: 'الفصل الثاني. - ينشر ظهيرنا الشريف هذا ب' (page 4)"
+ ],
+ "language": "ar"
+}

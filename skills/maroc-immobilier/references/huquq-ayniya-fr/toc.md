@@ -1,0 +1,56 @@
+# Sommaire — [Version française — peut ne pas être à jour] Code des droits réels
+
+- SECTION PRELIMINAIRE DISPOSITIONS GENERALES (Article 1 – 7)
+  - LIVRE PREMIER: DES DROITS REELS IMMOBILIERS (Article 8 – 13)
+- Section première. –Champ et protection du droit de propriété (Article 14 – 23)
+- Section II. – De la copropriété
+  - Sous-section première. – De l’indivision (Article 24 – 27)
+  - Sous-section 2. – Le mur mitoyen (Article 28 – 31)
+  - Sous-section 3. – Le chemin privé mitoyen (Article 32 – 36)
+- Section première. – Des servitudes
+  - Sous-section première. – Dispositions générales (Article 37 – 68)
+  - Sous-Section 3. – Extinction des servitudes (Article 69)
+- Section II. – Des charges foncières (Article 70 – 78)
+- Section première. – Dispositions générales (Article 79 – 81)
+- Section II. – Droits de l’usufruitier et ses obligations (Article 82 – 98)
+- Section III. – Extinction de l’usufruit (Article 99 – 104)
+  - Chapitre IV: Droit viager (Article 105 – 108)
+  - Chapitre V: Du droit d’usage (Article 109 – 115)
+  - Chapitre VI: Du droit de superficie (Article 116 – 120)
+  - Chapitre XI: De l’emphytéose (Article 121 – 129)
+  - Chapitre VIII: Les Habous (Article 130)
+  - Chapitre IX: Droit de zina (Article 131 – 137)
+  - Chapitre X: Droit de houa et d’exhaussement (Article 138 – 141)
+  - TITRE II: DROITS REELS ACCESSOIRES
+    - Chapitre premier: Des privilèges (Article 142 – 144)
+- Section première. – Dispositions générales (Article 145 – 154)
+- Section II. – Des effets du nantissement (Article 155 – 160)
+- Section III. – Extinction du nantissement (Article 161 – 164)
+- Section première. – Dispositions générales (Article 165 – 169)
+- Section II. – Constitution de l’hypothèque (Article 170 – 173)
+  - Sous-section 2. – Hypothèque conventionnelle (Article 174 – 186)
+- Section III. – Des effets de l’hypothèque
+  - Sous-section première – Des effets pour les contractants Premièrement. – Des effets pour le donneur de l’hypothèque (Article 187 – 196)
+  - Sous-section 2. – Des effets de l’hypothèque pour les non contractants Premièrement. – Droit de priorité (Article 197 – 211)
+  - Sous-section 3. – Extinction de l’hypothèque (Article 212 – 213)
+  - TITRE IV: DE LA SAISIE ET DE LA VENTE FORCEE DES IMMEUBLES (Article 214 – 221)
+  - LIVRE II: DES CAUSES D’ACQUISITION DE LA PROPRIETE ET DU PARTAGE
+    - TITRE PREMIER: DES CAUSES D’ACQUISITION DE LA PROPRIETE (Article )
+- Section première. – De la vivification des terres incultes et de l’enceinte inviolable (Article 222 – 226)
+- Section II. – De l’accession
+  - Sous-section première. – De l’accession du fait de la nature (Article 227 – 230)
+  - Sous-section 2. – De l’accession du fait de l’homme (Article 231 – 238)
+- Section III. – De la possession
+  - Sous-section première. – Dispositions générales (Article 239 – 249)
+  - Sous-section 2. – De la durée de la possession (Article 250 – 259)
+  - Sous-section 3. – Des effets de la possession (Article 260 – 262)
+  - Sous-section 4. – De la preuve et de la protection de la possession (Article 263)
+- Section IV. – De la succession et du testament (Article 264)
+- Section première. – De la mogharassa (Article 265 – 272)
+- Section II. – De la donation (Article 273 – 289)
+- Section III. – De la Sadaqa (Article 290 – 291)
+- Section IV. – De la préemption
+  - Sous-section première. – Des conditions de recours à la préemption (Article 292 – 306)
+- Section II. – Des effets de la préemption (Article 307 – 310)
+- Section III. – De la déchéance du droit de préemption (Article 311 – 312)
+  - TITRE II: DU PARTAGE (Article 313 – 334)

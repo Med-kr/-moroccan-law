@@ -1,0 +1,138 @@
+# Sommaire — [Version française — peut ne pas être à jour] Code du travail
+
+- Livre préliminaire
+  - Titre PREMIER: Champ d'application (Article 1 – 5)
+  - Titre II: Définitions (Article 6 – 8)
+  - Titre III: Dispositions générales (Article 9 – 12)
+- Livre premier: Des conventions relatives au travail
+  - Titre premier: Du contrat de travail
+    - Chapitre premier: De la période d'essai (Article 13 – 14)
+    - Chapitre II: De la formation du contrat de travail (Article 15 – 19)
+    - Chapitre III: Des obligations du salarié et de l'employeur (Article 20 – 25)
+    - Chapitre IV: Du cautionnement (Article 26 – 31)
+    - Chapitre V: De la suspension et de la cessation du contrat de travail
+      - Section I: De la suspension du contrat de travail (Article 32)
+      - Section II: Des modes de cessation du contrat de travail (Article 33 – 42)
+      - Section III: Du délai de préavis (Article 43 – 51)
+      - Section IV: De l'indemnité de licenciement (Article 52 – 60)
+      - Section V: Du licenciement par mesure disciplinaire (Article 61 – 65)
+      - Section VI: Du licenciement pour motifs technologiques structurels ou économiques et de la fermeture des entreprises (Article 66 – 71)
+      - Section VII: Du certificat de travail (Article 72)
+      - Section VIII: Du reçu pour solde de tout compte (Article 73 – 76)
+      - Section IX: Du logement du salarié en raison de son travail (Article 77)
+      - Section X: Dispositions pénales (Article 78)
+    - Chapitre VI: Du voyageur, représentant ou placier de commerce et d'industrie (Article 79 – 85)
+  - Titre II: Du contrat de sous-entreprise (Article 86 – 91)
+  - Titre III: De la négociation collective (Article 92 – 103)
+  - Titre IV: De la convention collective de travail
+    - Chapitre Premier: Définition et forme (Article 104 – 107)
+    - Chapitre Il: Conclusion - Parties à la convention – Adhésion (Article 108 – 110)
+    - Chapitre III: Champ d'application et entrée en vigueur de la convention collective de travail (Article 111 – 114)
+    - Chapitre IV: Durée d'application - Dénonciation (Article 115 – 121)
+    - Chapitre V: Exécution (Article 122 – 129)
+    - Chapitre VI: Dispositions diverses (Article 130 – 132)
+    - Chapitre VII: Extension et cessation de la convention collective de travail (Article 133 – 134)
+- Livre II: Des conditions de travail et de la rémunération du salarié
+  - Titre Premier: Dispositions générales
+    - Chapitre Premier: De l'ouverture des entreprises (Article 135 – 137)
+    - Chapitre Il: Du règlement intérieur (Article 138 – 142)
+  - Titre II: De la protection du mineur et de la femme
+    - Chapitre Premier: De l'âge d'admission au travail (Article 143 – 151)
+    - Chapitre Il: De la protection de la maternité (Article 152 – 165)
+    - Chapitre III: Dispositions particulières au travail et à la protection des handicapés (Article 166 – 171)
+    - Chapitre IV: Du travail de nuit des femmes et des mineurs (Article 172 – 178)
+    - Chapitre V: Des travaux interdits aux femmes et aux mineurs (Article 179 – 183)
+  - Titre III: De la durée du travail
+    - Chapitre Premier: De la durée normale du travail
+      - Section I: Fixation de la durée (Article 184 – 189)
+        - partie d'établissement résultant de causes accidentelles ou de force (Article 190 – 195)
+      - Section Il: Des heures supplémentaires (Article 196 – 202)
+      - Section III: Dispositions pénales (Article 203 – 204)
+    - Chapitre II: Du repos hebdomadaire (Article 205 – 230)
+    - Chapitre IV: Du congé annuel payé
+      - Section I: De la durée du congé annuel payé (Article 231 – 243)
+      - Section Il: Période et organisation du congé annuel payé (Article 244 – 246)
+      - Section III: Conditions de fermeture des établissements pendant la période des congés annuels payés (Article 247 – 248)
+      - Section IV: De l'indemnité du congé annuel payé et de l'indemnité compensatrice du congé annuel payé (Article 249 – 258)
+      - Section V: Du paiement et du privilège de garantie des indemnités du congé annuel payé (Article 259 – 261)
+      - Section VI: De l'interdiction d'occuper des salariés en congé annuel payé (Article 262 – 263)
+      - Section VII: Dispositions relatives au salarié travaillant à domicile, au voyageur, représentant et placier (Article 264)
+      - Section VIII: Dispositions concernant les salariés victimes d'un accident du travail ou d'une maladie professionnelle (Article 265 – 267)
+      - Section IX: Dispositions pénales (Article 268)
+    - Chapitre V: Des congés spéciaux à l'occasion de certains (Article )
+      - Section I: Congé à l'occasion de la naissance (Article 269 – 270)
+      - Section Il: Du congé de maladie (Article 271 – 273)
+      - Section III: Des absences diverses (Article 274 – 277)
+      - Section IV: Dispositions pénales (Article 278)
+    - Chapitre VI: Du contrôle (Article 279 – 280)
+  - Titre IV: De l'hygiène et de la sécurité des salariés
+    - Chapitre premier: Dispositions générales (Article 281 – 301)
+    - Chapitre II: Des dispositions relatives au transport des colis d'un poids supérieur à une tonne (Article 302 – 303)
+    - Chapitre III: Des services médicaux du travail (Article 304 – 331)
+    - Chapitre IV: Le conseil de médecine du travail et de prévention des risques professionnels (Article 332 – 335)
+    - Chapitre V: Des comités de sécurité et d'hygiène (Article 336 – 344)
+  - Titre V: Du salaire
+    - Chapitre premier: De la détermination et du paiement du salaire
+      - Section I: Dispositions générales (Article 345 – 355)
+      - Section Il: Du salaire minimum légal (Article 356 – 360)
+      - Section III: Dispositions pénales (Article 361)
+    - Chapitre II: Du paiement des salaires (Article 362 – 375)
+    - Chapitre III: De la répartition et du contrôle des pourboires (Article 376 – 381)
+    - Chapitre IV: Des garanties de paiement du salaire
+      - Section I: Des privilèges garantissant le paiement du salaire et de l'indemnité de licenciement (Article 382 – 384)
+      - Section Il: Des retenues sur salaire (Article 385 – 386)
+      - Section Ill: De la saisie-arrêt et de la cession des salaires (Article 387 – 391)
+    - Chapitre V: Des économats (Article 392 – 394)
+    - Chapitre VI: De la prescription des actions découlant des relations de travail (Article 395)
+- Livre III: Des syndicats professionnels, des délégués des salariés, du comité d'entreprise et des (Article )
+  - Titre premier: Des syndicats professionnels
+    - Chapitre premier: Dispositions générales (Article 396 – 402)
+    - Chapitre Il: De la personnalité morale des syndicats professionnels (Article 403 – 404)
+      - partie civile concernant les faits portant préjudice direct ou indirect aux (Article 405 – 413)
+    - Chapitre III: Constitution et administration des syndicats professionnels (Article 414 – 419)
+    - Chapitre IV: Des unions des syndicats professionnels (Article 420 – 424)
+    - Chapitre V: L'Organisation syndicale la plus représentative (Article 425)
+    - Chapitre VI: Dispositions pénales (Article 426 – 429)
+  - Titre II: Des délégués des salariés
+    - Chapitre premier: Mission des délégués des salariés (Article 430 – 433)
+    - Chapitre II: Election des délégués des salariés
+      - Section I: Mandat des délégués (Article 434 – 436)
+      - Section II: Electorat et éligibilité (Article 437 – 439)
+      - Section III: Procédure électorale
+        - Sous-section I: Listes électorales (Article 440 – 443)
+        - Sous-section II: Listes de candidature et commission électorale (Article 444 – 446)
+        - Sous-section III: Opérations électorales (Article 447 – 450)
+        - Sous-section IV: Elections partielles (Article 451 – 452)
+        - Sous-section V: Contentieux des élections (Article 453 – 454)
+    - Chapitre III: Exercice des fonctions des délégués des salariés (Article 455 – 461)
+    - Chapitre IV: Dispositions pénales (Article 462 – 463)
+  - Titre III: Le comité d'entreprise (Article 464 – 469)
+  - Titre IV: Les représentants des syndicats dans l'entreprise (Article 470 – 474)
+- Livre IV: De l'intermédiation en matière de recrutement et d'embauchage
+  - Chapitre premier: De l'intermédiation en matière de recrutement
+    - Section I: Dispositions générales (Article 475 – 491)
+    - Section II: Des agences artistiques (Article 492 – 494)
+  - Chapitre Il: Dispositions relatives aux entreprises d'emploi temporaire (Article 495 – 506)
+  - Chapitre III: De l'embauchage des salariés (Article 507 – 511)
+  - Chapitre IV: De l'embauchage des salariés marocains à l'étranger (Article 512 – 515)
+  - Chapitre V: De l'emploi des salariés étrangers (Article 516 – 519)
+  - Chapitre VI: Dispositions générales (Article 520 – 521)
+  - Chapitre VII: Le Conseil supérieur de la promotion de l'emploi et les conseils régionaux et provinciaux de la (Article 522 – 525)
+  - Chapitre VIII: De l'âge de la retraite (Article 526 – 529)
+- Livre V: Des organes de contrôle
+  - Chapitre premier: Des agents chargés de l'inspection du travail (Article 530 – 538)
+  - Chapitre Il: De la constatation des infractions (Article 539 – 545)
+  - Chapitre III: Dispositions pénales (Article 546 – 547)
+  - Chapitre IV: Dispositions pénales diverses (Article 548)
+- Livre VI: du Règlement des conflits collectifs du travail
+  - Chapitre premier: Dispositions générales (Article 549 – 550)
+  - Chapitre Il: De la conciliation
+    - Section 1: Tentative de conciliation au niveau de l'inspection du travail (Article 551 – 556)
+    - Section Il: La commission provinciale d'enquête et de conciliation (Article 557 – 563)
+    - Section III: La commission nationale d'enquête et de conciliation (Article 564 – 566)
+  - Chapitre III: De l'arbitrage
+    - Section I: De la procédure d'arbitrage (Article 567 – 574)
+    - Section II: Les recours formés contre les décisions d'arbitrage (Article 575 – 580)
+  - Chapitre IV: De l'exécution des accords de conciliation et des décisions d'arbitrage (Article 581)
+  - Chapitre V: Dispositions diverses (Article 582 – 585)
+- Livre VII: Dispositions finales (Article 586 – 589)

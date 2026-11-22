@@ -1,0 +1,36 @@
+{
+ "slug": "doc-fr",
+ "title": "[نسخة فرنسية — قد لا تكون محينة] قانون الالتزامات والعقود",
+ "title_fr": "[Version française — peut ne pas être à jour] Code des obligations et des contrats (DOC)",
+ "source_title": "Code des Obligations et des Contrats",
+ "source_id": 2030,
+ "source_name": "Adala",
+ "source_url": "https://adala.justice.gov.ma/api/uploads/2024/02/28/Code%20des%20Obligations%20et%20des%20Contrats_compressed-1709126934943.pdf",
+ "source_path": "uploads/2024/02/28/Code des Obligations et des Contrats_compressed-1709126934943.pdf",
+ "source_updated_at": "2025-07-24T10:33:00.092Z",
+ "consolidated_on": "18 mars 2021",
+ "pdf_sha256": "9cc77a8bc445e6d4eaa9604e5350f6851ace35244adc46fa067eb2bc032710f1",
+ "pdf_pages": 312,
+ "extracted_at": "2026-11-22T15:18:20+00:00",
+ "article_keyword": "Article",
+ "n_articles": 1316,
+ "n_footnotes": 300,
+ "n_footnotes_unplaced": 2,
+ "footnote_numbers_missing": [
+  243,
+  244
+ ],
+ "glyph_fixes": [],
+ "source_numbers_reordered": 0,
+ "source_corrections": [],
+ "source_spaces_restored": 0,
+ "article_notes": {},
+ "other_parts": [],
+ "anomalies": [
+  "numbering gap: 324 -> 335 (page 85); usually a repealed range, check the footnote",
+  "article 726 has no text (page 182); usually repealed, check the footnote",
+  "article 1180 has no text (page 286); usually repealed, check the footnote",
+  "article 1185 has no text (page 287); usually repealed, check the footnote"
+ ],
+ "language": "fr"
+}

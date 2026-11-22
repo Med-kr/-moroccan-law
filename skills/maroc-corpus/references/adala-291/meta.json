@@ -1,0 +1,30 @@
+{
+ "slug": "adala-291",
+ "title": "ظهير يتعلق بمراقبة القنص",
+ "title_fr": "ظهير يتعلق بمراقبة القنص",
+ "source_title": "ظهير يتعلق بمراقبة القنص",
+ "source_id": 291,
+ "source_name": "Adala",
+ "source_url": "https://adala.justice.gov.ma/api/uploads/2024/10/31/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D9%8A%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%A9%20%D8%A7%D9%84%D9%82%D9%86%D8%B5-1730370142183.pdf",
+ "source_path": "uploads/2024/10/31/ظهير شريف يتعلق بمراقبة القنص-1730370142183.pdf",
+ "source_updated_at": "2026-05-26T10:41:53.724Z",
+ "consolidated_on": "3 يوليو 2006",
+ "pdf_sha256": "09238e54f05c4e8cbee93005776e9eeec0a08cf4f0e4af793e00b880b87d4e7a",
+ "pdf_pages": 25,
+ "extracted_at": "2026-11-22T15:33:37+00:00",
+ "article_keyword": "الفصل",
+ "n_articles": 31,
+ "n_footnotes": 33,
+ "n_footnotes_unplaced": 0,
+ "footnote_numbers_missing": [],
+ "glyph_fixes": [],
+ "source_numbers_reordered": 0,
+ "source_corrections": [],
+ "source_spaces_restored": 0,
+ "article_notes": {},
+ "other_parts": [],
+ "anomalies": [
+  "heading-like line kept as text: 'الفصل 13[^21]' (page 18)"
+ ],
+ "language": "ar"
+}

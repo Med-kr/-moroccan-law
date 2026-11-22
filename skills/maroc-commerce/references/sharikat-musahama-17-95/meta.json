@@ -1,0 +1,32 @@
+{
+ "slug": "sharikat-musahama-17-95",
+ "title": "القانون رقم 17.95 المتعلق بشركات المساهمة",
+ "title_fr": "Loi 17-95 relative aux sociétés anonymes",
+ "source_title": "القانون المتعلق بشركات المساهمة",
+ "source_id": 48,
+ "source_name": "Adala",
+ "source_url": "https://adala.justice.gov.ma/api/uploads/2024/02/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D9%87%D9%85%D8%A9-1707139691684.pdf",
+ "source_path": "uploads/2024/02/05/شركات المساهمة-1707139691684.pdf",
+ "source_updated_at": "2025-12-18T08:37:23.464Z",
+ "consolidated_on": "27 فبراير 2023",
+ "pdf_sha256": "ffde22bb50db2299aae7a3f05dca94d93e7f57d2f99a824b686f17e7c659b1e3",
+ "pdf_pages": 145,
+ "extracted_at": "2026-11-22T15:19:42+00:00",
+ "article_keyword": "المادة",
+ "n_articles": 461,
+ "n_footnotes": 173,
+ "n_footnotes_unplaced": 2,
+ "footnote_numbers_missing": [],
+ "glyph_fixes": [],
+ "source_numbers_reordered": 0,
+ "source_corrections": [],
+ "source_spaces_restored": 1,
+ "article_notes": {},
+ "other_parts": [],
+ "anomalies": [
+  "article 376 has no text (page 127); usually repealed, check the footnote",
+  "article 380 has no text (page 128); usually repealed, check the footnote",
+  "numbering gap: 424 -> 441 (page 141); usually a repealed range, check the footnote"
+ ],
+ "language": "ar"
+}

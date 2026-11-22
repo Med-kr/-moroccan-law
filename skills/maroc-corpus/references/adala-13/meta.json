@@ -1,0 +1,35 @@
+{
+ "slug": "adala-13",
+ "title": "ظهير شريف رقم 1.01.126 صادر في 29 من ربيع الأول 1422 (22 يونيو 2001) بتنفيذ القانون رقم 45.00 المتعلق بالخبراء القضائيين",
+ "title_fr": "ظهير شريف رقم 1.01.126 صادر في 29 من ربيع الأول 1422 (22 يونيو 2001) بتنفيذ القانون رقم 45.00 المتعلق بالخبراء القضائيين",
+ "source_title": "ظهير شريف رقم 1.01.126 صادر في 29 من ربيع الأول 1422 (22 يونيو 2001) بتنفيذ القانون رقم 45.00 المتعلق بالخبراء القضائيين",
+ "source_id": 13,
+ "source_name": "Adala",
+ "source_url": "https://adala.justice.gov.ma/api/uploads/2025/11/17/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.01.126%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2045.00%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D8%A7%D9%84%D8%AE%D8%A8%D8%B1%D8%A7%D8%A1%20%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A6%D9%8A%D9%8A%D9%86-1763370905548.pdf",
+ "source_path": "uploads/2025/11/17/ظهير شريف رقم 1.01.126 بتنفيذ القانون رقم 45.00 المتعلق بالخبراء القضائيين-1763370905548.pdf",
+ "source_updated_at": "2026-09-14T13:44:30.202Z",
+ "consolidated_on": "7 سبتمبر 2023",
+ "pdf_sha256": "9f01af5db91dcbb6c9c69ca6c327331fde82f847c5eeffcc31b99ba32fbb9b8c",
+ "pdf_pages": 21,
+ "extracted_at": "2026-11-22T15:37:10+00:00",
+ "article_keyword": "المادة",
+ "n_articles": 47,
+ "n_footnotes": 41,
+ "n_footnotes_unplaced": 0,
+ "footnote_numbers_missing": [],
+ "glyph_fixes": [
+  {
+   "font": "TimesNewRomanPSMT",
+   "glyph": "02F1",
+   "was": " ",
+   "now": "ً"
+  }
+ ],
+ "source_numbers_reordered": 0,
+ "source_corrections": [],
+ "source_spaces_restored": 0,
+ "article_notes": {},
+ "other_parts": [],
+ "anomalies": [],
+ "language": "ar"
+}

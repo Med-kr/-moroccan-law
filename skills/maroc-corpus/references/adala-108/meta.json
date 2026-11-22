@@ -1,0 +1,30 @@
+{
+ "slug": "adala-108",
+ "title": "ظهير شريف في ضبط الأمور المتعلقة باستعمال النار وذلك بقصد اجتناب الحريق",
+ "title_fr": "ظهير شريف في ضبط الأمور المتعلقة باستعمال النار وذلك بقصد اجتناب الحريق",
+ "source_title": "ظهير شريف في ضبط الأمور المتعلقة باستعمال النار وذلك بقصد اجتناب الحريق",
+ "source_id": 108,
+ "source_name": "Adala",
+ "source_url": "https://adala.justice.gov.ma/api/uploads/2024/05/31/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D9%81%D9%8A%20%D8%B6%D8%A8%D8%B7%20%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%B1%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%D8%A9%20%D8%A8%D8%A7%D8%B3%D8%AA%D8%B9%D9%85%D8%A7%D9%84%20%D8%A7%D9%84%D9%86%D8%A7%D8%B1%20%D9%88%D8%B0%D9%84%D9%83%20%D8%A8%D9%82%D8%B5%D8%AF%20%D8%A7%D8%AC%D8%AA%D9%86%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D9%82-1717166082081.pdf",
+ "source_path": "uploads/2024/05/31/ظهير شريف في ضبط الأمور المتعلقة باستعمال النار وذلك بقصد اجتناب الحريق-1717166082081.pdf",
+ "source_updated_at": "2026-10-02T10:57:59.354Z",
+ "consolidated_on": "10 غشت 1956",
+ "pdf_sha256": "06c347d175b05abffdc41fd3989da5d41d20f3d6e87e0eab95640a7688480092",
+ "pdf_pages": 9,
+ "extracted_at": "2026-11-22T15:38:26+00:00",
+ "article_keyword": "الفصل",
+ "n_articles": 16,
+ "n_footnotes": 8,
+ "n_footnotes_unplaced": 0,
+ "footnote_numbers_missing": [],
+ "glyph_fixes": [],
+ "source_numbers_reordered": 0,
+ "source_corrections": [],
+ "source_spaces_restored": 0,
+ "article_notes": {},
+ "other_parts": [],
+ "anomalies": [
+  "article 14 has no text (page 9); usually repealed, check the footnote"
+ ],
+ "language": "ar"
+}

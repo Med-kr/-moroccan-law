@@ -1,0 +1,21 @@
+# Sommaire — [Version française — peut ne pas être à jour] Dahir sur l'immatriculation foncière
+
+- TITRE PREMIER: L'IMMATRICULATION
+  - Chapitre Premier: Objet et nature de l'immatriculation (Article 1 – 8)
+  - Chapitre II: La procédure d'immatriculation
+    - Section première: Le conservateur de la propriété foncière (Article 9)
+    - Section II: La réquisition d’immatriculation (Article 10 – 16)
+    - Section III: Les publications, le bornage et le plan (Article 17 – 23)
+    - Section IV: Les oppositions (Article 24 – 29)
+    - Section V:L’immatriculation par le conservateur de la propriété foncière et le jugement des oppositions (Article 30 – 51)
+    - Section VI: L’immatriculation obligatoire (Article 51-1 – 51-10)
+      - partie de la zone d’immatriculation obligatoire, leurs superficies (Article 51-11 – 51-19)
+    - Section VII: Le titre foncier (Article 52 – 61)
+  - Chapitre III: Les effets de l’immatriculation (Article 62 – 64)
+- TITRE DEUXIEME: PUBLICATION DES DROITS REELS IMMOBILIERS AFFECTANT LES IMMEUBLES (Article )
+  - Chapitre premier: Publicité des droits réels immobiliers (Article 65 – 68)
+  - Chapitre II: Les inscriptions (Article 69 – 90)
+  - Chapitre III: Les radiations (Article 91 – 100)
+  - Chapitre IV: La délivrance du duplicata du titre foncier et du certificat spécial d’inscription (Article 101 – 103)
+- TITRE TROISIEME: LES PENALITES (Article 104 – 105 bis)
+- TITRE QUATRIEME: DISPOSITIONS GENERALES (Article 106 – 110)

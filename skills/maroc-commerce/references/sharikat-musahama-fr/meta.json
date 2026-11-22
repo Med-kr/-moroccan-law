@@ -1,0 +1,50 @@
+{
+ "slug": "sharikat-musahama-fr",
+ "title": "[نسخة فرنسية — قد لا تكون محينة] قانون شركات المساهمة",
+ "title_fr": "[Version française — peut ne pas être à jour] Loi relative aux sociétés anonymes",
+ "source_title": "Sociétés anonymes",
+ "source_id": 2080,
+ "source_name": "Adala",
+ "source_url": "https://adala.justice.gov.ma/api/uploads/2024/12/12/Soci%C3%A9t%C3%A9s%20Anonymes-1734015032558.pdf",
+ "source_path": "uploads/2024/12/12/Sociétés Anonymes-1734015032558.pdf",
+ "source_updated_at": "2026-06-19T09:20:25.177Z",
+ "consolidated_on": null,
+ "pdf_sha256": "b75903f20f6a2f0dcaf0b7e46891c70b97359bd0cba26992dff634487ee1fe74",
+ "pdf_pages": 167,
+ "extracted_at": "2026-11-22T15:19:57+00:00",
+ "article_keyword": "Article",
+ "n_articles": 465,
+ "n_footnotes": 145,
+ "n_footnotes_unplaced": 3,
+ "footnote_numbers_missing": [],
+ "glyph_fixes": [],
+ "source_numbers_reordered": 0,
+ "source_corrections": [
+  {
+   "page": 137,
+   "line": "Article 353 bis[^118]",
+   "replace": "Article 353[^118]",
+   "why": "Labels of articles 353 and 353 bis are swapped in the official French PDF: footnote 118 (\"article 353 modifié\") is on the heading printed 353 bis, footnote 119 (\"article 353 bis ajouté\") on the heading printed 353; the Arabic version (المادة 353 / 353 المكررة) confirms the order."
+  },
+  {
+   "page": 137,
+   "line": "Article 353[^119]",
+   "replace": "Article 353 bis[^119]",
+   "why": "See the previous correction (labels 353 / 353 bis swapped in the source)."
+  }
+ ],
+ "source_spaces_restored": 0,
+ "article_notes": {},
+ "other_parts": [],
+ "anomalies": [
+  "article 30 has no text (page 13); usually repealed, check the footnote",
+  "article 46 has no text (page 21); usually repealed, check the footnote",
+  "article 153 has no text (page 69); usually repealed, check the footnote",
+  "article 154 has no text (page 69); usually repealed, check the footnote",
+  "article 156 has no text (page 70); usually repealed, check the footnote",
+  "article 376 has no text (page 145); usually repealed, check the footnote",
+  "article 380 has no text (page 146); usually repealed, check the footnote",
+  "numbering gap: 424 -> 441 (page 163); usually a repealed range, check the footnote"
+ ],
+ "language": "fr"
+}
