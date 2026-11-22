@@ -119,16 +119,16 @@ quatre façons (`scripts/crosscheck.py`, résultats dans `data/crosscheck.json`)
 - **Lettres fausses dans les polices de la source.** Un PDF indique quelle lettre correspond à
   chaque glyphe, et Word enregistre parfois la mauvaise ; tous les extracteurs lisent alors la
   même lettre fausse. Le build compare donc chaque police à la même police dans les 78 autres
-  fichiers (`scripts/glyph_table.py`) et corrige l'intrus : 16 glyphes dans 11 textes, par
+  fichiers (`scripts/glyph_table.py`) et corrige l'intrus : 20 glyphes dans 15 textes, par
   exemple « آ » lu « ا » dans le code de procédure civile, « ج » lu « و » dans le code de la presse.
-- **Numéros imprimés à l'envers dans la source.** Neuf numéros de dahir sont imprimés inversés
+- **Numéros imprimés à l'envers dans la source.** Des numéros de dahir et de décret sont imprimés inversés (36 fois)
   dans le PDF officiel lui-même (« 11.03.1 » pour 1.11.03). Ils sont remis à l'endroit.
 - Le nombre d'articles concorde entre versions arabe et française des codes qui ont les deux
   (obligations et contrats 1 316, famille 400, travail 589, droits réels 334, Constitution 180).
 
-- **Chaque note laissée par l'analyseur est revue** (`scripts/review_anomalies.py`) : sur 102 notes,
-  73 sont des articles abrogés expliqués par une note de bas de page, 22 des articles du code de
-  procédure pénale cités par la loi qui les insère, 7 ont été relues à la main, motif écrit.
+- **Chaque note laissée par l'analyseur est revue** (`scripts/review_anomalies.py`) : sur 105 notes,
+  75 sont des articles abrogés expliqués par une note de bas de page, 22 des articles du code de
+  procédure pénale cités par la loi qui les insère, 8 ont été relues à la main, motif écrit.
 - **Erreurs imprimées dans le fichier officiel lui-même** : corrigées seulement par un erratum
   documenté (`countries/ma/errata.json`), par exemple les intitulés des articles 353 et 353 bis
   inversés dans le PDF français de la loi sur les sociétés anonymes. Une divergence entre versions

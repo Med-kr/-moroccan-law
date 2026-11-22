@@ -125,16 +125,16 @@ The texts are extracted from PDFs by a program, so they are checked by programs,
 - **Wrong letters in the source fonts.** A PDF says which letter each glyph stands for, and Word
   sometimes records the wrong one; every extractor then reads the same wrong letter, so comparing
   extractors cannot see it. The build therefore compares each font with the same font in the other
-  78 files (`scripts/glyph_table.py`) and corrects the odd one out: 16 glyphs in 11 texts, for
+  78 files (`scripts/glyph_table.py`) and corrects the odd one out: 20 glyphs in 15 texts, for
   instance "آ" read as "ا" in the code of civil procedure, "ج" read as "و" in the press code,
   a kashida read as "د" and three letters read as spaces in the public procurement decree.
-- **Numbers printed back to front in the source.** Nine dahir numbers are printed reversed in the
+- **Numbers printed back to front in the source.** Dahir and decree numbers are printed reversed (36 times) in the
   official PDF itself ("11.03.1" for 1.11.03). They are put back in order; `meta.json` counts them.
 - Article counts match between the Arabic and French versions of the codes that have both
   (code of obligations 1,316, family code 400, labour code 589, real-rights code 334, Constitution 180).
 - **Every note the parser leaves is reviewed** (`scripts/review_anomalies.py`, `data/anomalies-reviewed.json`):
-  of 102 notes, 73 are articles repealed by a footnote of the text, 22 are articles of the criminal
-  procedure code quoted by the law that inserts them, and 7 were read by hand, with the reason
+  of 105 notes, 75 are articles repealed by a footnote of the text, 22 are articles of the criminal
+  procedure code quoted by the law that inserts them, and 8 were read by hand, with the reason
   written down. A new note fails CI until someone looks at it.
 - **Errors printed in the official file itself** are corrected only through a documented erratum
   (`countries/ma/errata.json`, reason in `meta.json`), for instance the labels of articles 353 and
