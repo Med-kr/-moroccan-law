@@ -9,6 +9,9 @@
                                          articles containing all the words (Arabic-insensitive
                                          to hamza/ta-marbuta/diacritics); --any = at least one
     law.py toc <text>                    table of contents with article ranges
+    law.py card <text> <n> [--json]      status of an article: in force / amended / replaced / added /
+                                         repealed, amending laws with their Bulletin officiel issue
+    law.py both <text> <n> [<n> ...]     the Arabic article and its French version side by side
     law.py transitional <text>           transitional and final provisions (entry into force,
                                          repeals, pending cases): application in time
     law.py info <text>                   source, version date, extraction notes
@@ -26,7 +29,7 @@ import sys
 import unicodedata
 
 ROOT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "references")
-HEAD = re.compile(r"^## (المادة|الفصل|Article) (.+)$")
+HEAD = re.compile(r"^## (المادة|الفصل|Article) (.+?)(?::\s*(.*))?$")   # number, then an optional title
 
 
 def die(msg: str, code: int = 1):
@@ -68,7 +71,9 @@ def load_articles(slug: str) -> list[dict]:
             line = raw.rstrip("\n")
             m = HEAD.match(line)
             if m:
-                cur = {"num": m.group(2).strip(), "heading": f"{m.group(1)} {m.group(2).strip()}", "path": path, "lines": []}
+                title = (m.group(3) or "").strip()
+                cur = {"num": m.group(2).strip(), "title": title, "path": path, "lines": [],
+                       "heading": f"{m.group(1)} {m.group(2).strip()}" + (f": {title}" if title else "")}
                 arts.append(cur)
                 continue
             if line.startswith("# ") or line.startswith("## "):
@@ -100,7 +105,7 @@ def norm_num(s: str) -> str:
 
 
 SUFFIXES = [  # longest first; Arabic and French names of the same suffix map to one key
-    (r"مكرر(?:ة)? مرتين|ter", "ter"), (r"مكرر(?:ة)? ثلاث مرات|quater", "quater"),
+    (r"مكرر(?:ة)? ثلاث مرات|quater", "quater"), (r"مكرر(?:ة)? مرتين|ter", "ter"),
     (r"(?:ال)?مكرر(?:ة)?|bis", "bis"),
 ]
 
@@ -109,8 +114,9 @@ def canon(num: str) -> str:
     """Comparison key for an article number: "353 bis", "353bis", "353 المكررة" and
     "353 مكرر" are the same article; so are 65-1, 65.1 and 65 - 1."""
     s = norm_num(num).lower()
+    s = re.sub(r"\bqua\s+ter\b", "quater", s)          # "618-3 qua ter" (word split in the PDF)
     for rx, key in SUFFIXES:
-        s = re.sub(rf"\s*(?:{rx})\b", " " + key, s)
+        s = re.sub(rf"(?<![^\W\d_])\s*(?:{rx})\b", " " + key, s)   # whole word: "ter" is not the end of "quater"
     s = re.sub(r"^(?:1er|premier|unique|الأول|الأولى|الفريد|الفريدة|الوحيد|الوحيدة)$", "1", s)
     return re.sub(r"\s+", " ", s.replace(".", "-")).strip()
 
@@ -356,6 +362,26 @@ def cmd_transitional(slug: str) -> None:
           "مساطر سابقة على النص.")
 
 
+def cmd_both(slug: str, nums: list[str]) -> None:
+    """The same articles in the Arabic text and its French version, with both version dates:
+    the Arabic text prevails, and the French one is often older."""
+    ar = slug[:-3] if slug.endswith("-fr") else slug
+    fr = ar + "-fr"
+    if fr not in texts():
+        die(f"no French version of {ar} in this skill", 3)
+    for s_ in (ar, fr):
+        m = meta(s_)
+        print(f"=== {'AR' if s_ == ar else 'FR'} — {m['title']} — version: {m.get('consolidated_on') or '—'}")
+        by = {canon(a["num"]): a for a in load_articles(s_)}
+        for n in nums:
+            a = by.get(canon(n))
+            if a:
+                show(s_, a)
+            else:
+                print(f"## {n}: NOT FOUND in this version\n")
+    print("— النص العربي هو المعتمد. La version arabe fait foi ; vérifier les dates des deux versions.")
+
+
 def cmd_find(words: list[str], limit: int = 15) -> None:
     """Texts of this skill whose title contains the words (Arabic-insensitive): the way into a
     skill that holds hundreds of texts."""
@@ -409,6 +435,17 @@ def main(argv: list[str]) -> None:
     elif cmd == "toc" and rest:
         with open(os.path.join(ROOT, resolve(rest[0]), "toc.md"), encoding="utf-8") as fh:
             print(fh.read())
+    elif cmd == "card" and len(rest) >= 2:
+        import cards                                    # same folder
+        c = cards.card(resolve(rest[0]), rest[1])
+        if "--json" in rest:
+            print(json.dumps(c, ensure_ascii=False, indent=1))
+        else:
+            cards.show(c)
+        if not c["found"] and not c.get("status_notes"):
+            sys.exit(3)
+    elif cmd == "both" and len(rest) >= 2:
+        cmd_both(resolve(rest[0]), rest[1:])
     elif cmd == "find" and rest:
         cmd_find(rest)
     elif cmd == "transitional" and rest:

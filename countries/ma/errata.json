@@ -19,5 +19,11 @@
     "line": "الفصل 68",
     "replace": "المادة 68",
     "why": "The consolidated PDF heads article 68 « الفصل 68 » while the law numbers its articles « المادة » (67 before, 69 after, and article 68 is cited as « المادة 68 من هذا القانون » in the text): read as a chapter title otherwise."
+  },
+  {
+    "slug": "doc",
+    "line": "المادة 13-106",
+    "replace": "الفصل 106-13",
+    "why": "The consolidated Arabic code of obligations heads every article « الفصل »; article 106-13 alone is printed « المادة 13-106 » (sequence 106-12, 106-14 around it; the French version has Article 106-13)."
   }
 ]

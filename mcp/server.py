@@ -57,6 +57,8 @@ def _find(rel: str) -> str:
 
 
 law = _load("law", _find("law.py"))
+sys.modules["law"] = law                        # cards.py imports it by name
+cards = _load("cards", _find("cards.py"))
 catalog = _load("catalog", _find("catalog.py"))
 catalog.ROOT = os.path.join(SKILLS, "maroc-droit", "references")
 
@@ -142,6 +144,14 @@ def t_get_article(a: dict) -> str:
     return _run(law.cmd_article, slug, [str(n) for n in nums])
 
 
+def t_article_card(a: dict) -> str:
+    slug, ref = _slug(str(a["text"]))
+    law.ROOT = ref
+    cards.law.ROOT = ref
+    c = cards.card(slug, str(a["number"]))
+    return json.dumps(c, ensure_ascii=False, indent=1)
+
+
 def t_search_articles(a: dict) -> str:
     words = str(a["query"]).split()
     if not words:
@@ -207,6 +217,10 @@ TOOLS = [
      "and official source URL. Numbers accept ranges '43..47', sub-articles '65-2' or '4.1', and '85 مكرر'.",
      S({"text": TEXT, "numbers": {"type": "array", "items": {"type": "string"}, "minItems": 1}}, ["text", "numbers"]),
      t_get_article),
+    ("article_card", "Status card of one article: in force as printed / amended / replaced / added / repealed, the "
+     "amending laws with their Bulletin officiel issue and date, articles it refers to, divergence with the other "
+     "language version, documented source errors. Read it before relying on an article.",
+     S({"text": TEXT, "number": {"type": "string"}}, ["text", "number"]), t_article_card),
     ("search_articles", "Find articles that contain the given Arabic words (hamza, ta-marbuta and diacritics are "
      "ignored). Searches one text, or every text when 'text' is omitted. Returns article numbers with a snippet; "
      "call get_article for the full text.",

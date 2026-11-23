@@ -12,7 +12,7 @@ description: >-
 # Autres lois marocaines (extraction automatique) — باقي القوانين المغربية (استخراج آلي)
 
 **718 textes, 21,987 articles**, texte intégral arabe tel que publié sur
-[Adala](https://adala.justice.gov.ma) (ministère de la Justice). Construit le 2026-11-22.
+[Adala](https://adala.justice.gov.ma) (ministère de la Justice). Construit le 2026-11-23.
 
 **Niveau de contrôle : extraction automatique.** Ces textes passent les mêmes extracteurs et des
 contrôles automatiques (aucun article, texte vide, lettres lues comme des chiffres, chiffres

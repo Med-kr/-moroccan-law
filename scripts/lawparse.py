@@ -56,7 +56,7 @@ def heading_re(kw: str) -> re.Pattern:
 
 
 FR_NUM = r"\d+(?:\s?[-.–]\s?\d+)*(?:\s*(?:bis|ter|quater|quinquies|sexies|septies|octies))?"
-FR_HEAD = re.compile(rf"^(?:Article|ARTICLE|Art\.){REF}\s*(?:({FR_NUM})|(premier|Premier|PREMIER|1er|unique|Unique|UNIQUE)){REF}\s*"
+FR_HEAD = re.compile(rf"^(?:Articles?|ARTICLES?|Art\.){REF}\s*(?:({FR_NUM})|(premier|Premier|PREMIER|1er|unique|Unique|UNIQUE)){REF}\s*"
                      rf"(?::\s*(.{{0,90}})|\.?\s*[-–]\s*(\S.*))?$")
 FR_STRUCT = ["Livre", "Partie", "Titre", "Chapitre", "Section", "Sous-section", "Paragraphe", "Article"]
 FR_MONTHS = "janvier|février|fevrier|mars|avril|mai|juin|juillet|août|aout|septembre|octobre|novembre|décembre|decembre"
@@ -76,7 +76,7 @@ def detect_lang(lines: list[dict]) -> str:
     return "fr" if latin > arabic else "ar"
 
 
-FR_HEAD_RUNON = re.compile(rf"^(?:Article|ARTICLE)\s+(?P<num>{FR_NUM})(?P<refs>(?:\[\^\d+\])+)\s+(?P<rest>[A-ZÀ-Ý«].*)$")
+FR_HEAD_RUNON = re.compile(rf"^(?:Articles?|ARTICLES?)\s+(?P<num>{FR_NUM})(?P<refs>(?:\[\^\d+\])+)\s+(?P<rest>[A-ZÀ-Ý«].*)$")
 
 
 def match_heading_fr(t: str):

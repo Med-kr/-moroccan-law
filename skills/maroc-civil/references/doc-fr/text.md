@@ -601,7 +601,9 @@ traduction en langue arabe».
 
 Pour que le contrat soit valablement conclu, le destinataire de l'offre doit avoir eu la possibilité de vérifier le détail de son ordre et son prix total et de corriger d'éventuelles erreurs, et ce avant de confirmer ledit ordre pour exprimer son acceptation. L'auteur de l'offre doit accuser réception, sans délai injustifié et par voie électronique, de l'acceptation de l'offre qui lui a été adressée. Le destinataire est irrévocablement lié à l'offre dès sa réception. L'acceptation de l'offre, sa confirmation et l'accusé de réception sont réputés reçus lorsque les parties auxquelles ils sont adressés peuvent y avoir accès.
 
-> § LIVRE PREMIER: DES OBLIGATIONS EN GÉNÉRAL › TITRE PREMIER: DES CAUSES DES OBLIGATIONS › Chapitre premier bis: Du contrat conclu sous forme électronique ou transmis par voie électronique › Section IV: Dispositions diverses Articles 65-6
+> § LIVRE PREMIER: DES OBLIGATIONS EN GÉNÉRAL › TITRE PREMIER: DES CAUSES DES OBLIGATIONS › Chapitre premier bis: Du contrat conclu sous forme électronique ou transmis par voie électronique › Section IV: Dispositions diverses
+
+## Article 65-6
 
 L'exigence d'un formulaire détachable est satisfaite lorsque, par un procédé électronique spécifique, il est permis d'accéder au formulaire, de le remplir et de le renvoyer par la même voie.
 

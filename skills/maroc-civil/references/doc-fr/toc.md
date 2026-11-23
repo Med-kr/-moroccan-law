@@ -11,7 +11,7 @@
       - Section I: Dispositions générales (Article 65-1 – 65-2)
       - Section II: De l'offre (Article 65-3 – 65-4)
       - Section III: De la conclusion d'un contrat sous forme électronique (Article 65-5)
-      - Section IV: Dispositions diverses Articles 65-6 (Article 65-7)
+      - Section IV: Dispositions diverses (Article 65-6 – 65-7)
     - CHAPITRE DEUXIEME: DES OBLIGATIONS QUI RESULTENT DES QUASI-CONTRATS (Article 66 – 76)
     - CHAPITRE TROISIÉME: DES OBLIGATIONS QUI RÉSULTENT DES DÉLITS ET QUASI-DÉLITS (Article 77 – 106)
     - Chapitre IV: De la Responsabilité civile du fait des produits défectueux (Article 106-1 – 106-9)

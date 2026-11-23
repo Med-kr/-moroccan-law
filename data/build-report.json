@@ -1,5 +1,16 @@
 [
  {
+  "skill": "maroc-corpus",
+  "slug": "adala-8368",
+  "n_articles": 3,
+  "article_keyword": "الفصل",
+  "consolidated_on": null,
+  "n_footnotes": 2,
+  "other_parts": [],
+  "anomalies": [],
+  "pdf_pages": 6
+ },
+ {
   "skill": "maroc-droit",
   "slug": "dustur-2011",
   "n_articles": 180,
@@ -24,7 +35,7 @@
  {
   "skill": "maroc-civil",
   "slug": "doc",
-  "n_articles": 1316,
+  "n_articles": 1317,
   "article_keyword": "الفصل",
   "consolidated_on": "16 يوليو 2026",
   "n_footnotes": 408,
@@ -49,7 +60,7 @@
  {
   "skill": "maroc-civil",
   "slug": "doc-fr",
-  "n_articles": 1316,
+  "n_articles": 1317,
   "article_keyword": "Article",
   "consolidated_on": "18 mars 2021",
   "n_footnotes": 300,
@@ -1178,16 +1189,5 @@
   "other_parts": [],
   "anomalies": [],
   "pdf_pages": 12
- },
- {
-  "skill": "maroc-corpus",
-  "slug": "adala-8368",
-  "n_articles": 3,
-  "article_keyword": "الفصل",
-  "consolidated_on": null,
-  "n_footnotes": 2,
-  "other_parts": [],
-  "anomalies": [],
-  "pdf_pages": 6
  }
 ]

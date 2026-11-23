@@ -1,0 +1,128 @@
+[
+ {
+  "arabic": "doc",
+  "french": "doc-fr",
+  "arabic_version": "16 يوليو 2026",
+  "french_version": "18 mars 2021",
+  "only_in_arabic": [],
+  "only_in_french": []
+ },
+ {
+  "arabic": "tahkim-95-17",
+  "french": "tahkim-95-17-fr",
+  "arabic_version": null,
+  "french_version": null,
+  "only_in_arabic": [],
+  "only_in_french": []
+ },
+ {
+  "arabic": "mudawwanat-tijara",
+  "french": "mudawwanat-tijara-fr",
+  "arabic_version": "29 يناير 2026",
+  "french_version": "19 décembre 2019",
+  "only_in_arabic": [
+   "78-6",
+   "78-7",
+   "78-8",
+   "78-9",
+   "78-10",
+   "231-1",
+   "231-2",
+   "231-3",
+   "231-4",
+   "390 bis"
+  ],
+  "only_in_french": []
+ },
+ {
+  "arabic": "dustur-2011",
+  "french": "dustur-2011-fr",
+  "arabic_version": null,
+  "french_version": null,
+  "only_in_arabic": [],
+  "only_in_french": []
+ },
+ {
+  "arabic": "jinsiya",
+  "french": "jinsiya-fr",
+  "arabic_version": "27 فبراير 2023",
+  "french_version": "16 mai 2024",
+  "only_in_arabic": [],
+  "only_in_french": []
+ },
+ {
+  "arabic": "mudawwanat-usra",
+  "french": "mudawwanat-usra-fr",
+  "arabic_version": "29 يوليو 2021",
+  "french_version": "4 février 2016",
+  "only_in_arabic": [],
+  "only_in_french": []
+ },
+ {
+  "arabic": "tahfid-aqari",
+  "french": "tahfid-aqari-fr",
+  "arabic_version": "23 يناير 2014",
+  "french_version": null,
+  "only_in_arabic": [
+   "2",
+   "3",
+   "4",
+   "5",
+   "56",
+   "57",
+   "79",
+   "80",
+   "81",
+   "98",
+   "99"
+  ],
+  "only_in_french": []
+ },
+ {
+  "arabic": "muatayat-09-08",
+  "french": "muatayat-09-08-fr",
+  "arabic_version": null,
+  "french_version": null,
+  "only_in_arabic": [],
+  "only_in_french": []
+ },
+ {
+  "arabic": "qanun-jinai",
+  "french": "qanun-jinai-fr",
+  "arabic_version": "22 غشت 2024",
+  "french_version": "20 avril 2023",
+  "only_in_arabic": [
+   "35-1",
+   "35-2",
+   "35-3",
+   "35-4",
+   "35-5",
+   "35-6",
+   "35-7",
+   "35-8",
+   "35-9",
+   "35-10",
+   "35-11",
+   "35-12",
+   "35-13",
+   "35-14",
+   "35-15",
+   "242 bis",
+   "256-2"
+  ],
+  "only_in_french": [
+   "494",
+   "495",
+   "496",
+   "607 ter"
+  ]
+ },
+ {
+  "arabic": "mudawwanat-shughl",
+  "french": "mudawwanat-shughl-fr",
+  "arabic_version": "16 يوليو 2026",
+  "french_version": "26 octobre 2011",
+  "only_in_arabic": [],
+  "only_in_french": []
+ }
+]

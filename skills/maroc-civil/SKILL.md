@@ -11,13 +11,13 @@ description: >-
 # Droit civil marocain — القانون المدني المغربي
 
 Ce skill contient le **texte intégral en arabe** des lois ci-dessous, tel que publié sur
-[Adala](https://adala.justice.gov.ma) (ministère de la Justice). Construit le 2026-11-22.
+[Adala](https://adala.justice.gov.ma) (ministère de la Justice). Construit le 2026-11-23.
 
 | text | النص | Texte | حجم | صيغة محينة بتاريخ | source |
 |---|---|---|---|---|---|
-| `doc` | قانون الالتزامات والعقود | Dahir formant code des obligations et des contrats (DOC) | 1316 الفصل | 16 يوليو 2026 | 2026-08-12 |
+| `doc` | قانون الالتزامات والعقود | Dahir formant code des obligations et des contrats (DOC) | 1317 الفصل | 16 يوليو 2026 | 2026-08-12 |
 | `tahkim-95-17` | القانون رقم 95.17 المتعلق بالتحكيم والوساطة الاتفاقية | Loi 95-17 relative à l'arbitrage et à la médiation conventionnelle | 105 المادة | — | 2025-12-31 |
-| `doc-fr` | [نسخة فرنسية — قد لا تكون محينة] قانون الالتزامات والعقود | [Version française — peut ne pas être à jour] Code des obligations et des contrats (DOC) | 1316 Article | 18 mars 2021 | 2025-07-24 |
+| `doc-fr` | [نسخة فرنسية — قد لا تكون محينة] قانون الالتزامات والعقود | [Version française — peut ne pas être à jour] Code des obligations et des contrats (DOC) | 1317 Article | 18 mars 2021 | 2025-07-24 |
 | `tahkim-95-17-fr` | [نسخة فرنسية — قد لا تكون محينة] القانون رقم 95.17 المتعلق بالتحكيم والوساطة الاتفاقية | [Version française — peut ne pas être à jour] Loi 95-17 relative à l'arbitrage et à la médiation conventionnelle | 105 Article | — | 2026-08-07 |
 
 **Versions françaises.** Les textes dont l'identifiant se termine par `-fr` sont les versions
@@ -40,6 +40,8 @@ python3 "${CLAUDE_SKILL_DIR}/scripts/law.py" article <text> 43..51        # plag
 python3 "${CLAUDE_SKILL_DIR}/scripts/law.py" search الإخطار الفصل --text <text>
 python3 "${CLAUDE_SKILL_DIR}/scripts/law.py" search préavis licenciement --text <text>-fr
 python3 "${CLAUDE_SKILL_DIR}/scripts/law.py" toc <text>
+python3 "${CLAUDE_SKILL_DIR}/scripts/law.py" card <text> 204       # statut : en vigueur, modifié, abrogé, ajouté + BO
+python3 "${CLAUDE_SKILL_DIR}/scripts/law.py" both <text> 230       # arabe et français côte à côte
 python3 "${CLAUDE_SKILL_DIR}/scripts/law.py" transitional <text>   # entrée en vigueur, abrogations, affaires en cours
 python3 "${CLAUDE_SKILL_DIR}/scripts/law.py" info <text>
 ```
@@ -63,7 +65,9 @@ affiché au chargement. Les fichiers sont aussi lisibles directement :
 
 1. **Qualifier** la question et repérer le ou les textes (`toc` puis `search`).
 2. **Lire** les articles pertinents, ainsi que ceux auxquels ils renvoient et les notes `[^n]`
-   (elles donnent les lois modificatives et les références au Bulletin officiel).
+   (elles donnent les lois modificatives et les références au Bulletin officiel). Pour l'article
+   décisif, lire sa **fiche** (`card`) et donner son statut (en vigueur tel que publié, modifié par la
+   loi … — BO n° …, ajouté, abrogé).
 3. **Répondre dans la langue de l'utilisateur** (arabe, français ou darija ; une question en
    darija écrite en lettres latines, « ch7al mn youm 3ndi… », reçoit une réponse en darija dans
    la même écriture, pas en français) en donnant pour

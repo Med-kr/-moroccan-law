@@ -418,6 +418,7 @@ def main() -> int:
             continue
         os.makedirs(os.path.join(skill_dir, "scripts"), exist_ok=True)
         shutil.copyfile(os.path.join(REPO, "tools", "law.py"), os.path.join(skill_dir, "scripts", "law.py"))
+        shutil.copyfile(os.path.join(REPO, "tools", "cards.py"), os.path.join(skill_dir, "scripts", "cards.py"))
         tmpl = router_template if skill.get("router") else template
         if skill.get("template"):
             tmpl = open(os.path.join(REPO, "countries", COUNTRY.get("_code", "ma"), "templates", skill["template"]),
