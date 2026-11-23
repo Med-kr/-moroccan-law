@@ -148,7 +148,10 @@ recherche qu'un utilisateur attentif taperait trouve cet article dans les 5 prem
 nouvelles ont été écrites ensuite sans jamais servir au réglage (`holdout.json`) : réponse dans
 l'article **20/20** (après correction depuis les textes de cinq autres réponses de mémoire, ex. le
 délai d'opposition est de 15 jours, art. 200 de la loi 58.25), bon article dans les 5 premiers
-**17/20**, en premier **13/20**. C'est le chiffre honnête pour une recherche ; Claude en fait plusieurs. La rédaction du jeu a relevé deux réponses écrites de
+**17/20**, en premier **13/20**. C'est le chiffre honnête pour une recherche ; Claude en fait plusieurs. Un troisième jeu de 40 questions
+(`holdout2.json`), écrit avant une deuxième série de réglages et mesuré une seule fois après : top 5
+**31/40** avant comme après, premier résultat 22 → 23/40. La recherche par mots-clés plafonne ; la
+recherche sémantique est l'étape suivante. La rédaction du jeu a relevé deux réponses écrites de
 mémoire que les textes démentent (la garde dure jusqu'à la majorité, 15 ans est l'âge du choix,
 art. 166 du code de la famille ; la déclaration d'un accident du travail se fait dans les cinq
 jours, art. 15 de la loi 18.12). La recherche a été refaite sur ces questions (classement par

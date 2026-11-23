@@ -9,8 +9,10 @@ Two checks, no model and no cost:
             results (what Claude does with the skill before answering).
 
     python3 evals/legal/run.py [--top 5] [--set holdout]
-The main set (questions.json) was used while improving the search; holdout.json was written
-afterwards and is never used to tune anything: its score is the honest one.
+questions.json and holdout.json were used while improving the search. holdout2.json (40
+questions, written before the second round of changes and measured once after it) is the honest
+score: top 5 31 -> 31 / 40, first result 22 -> 23 / 40, i.e. no real gain from the
+second round: lexical search is at its ceiling on these texts; semantic search is the next step.
 Results in evals/legal/results.json. The questions can also be put to a lawyer as a review
 sheet (docs/LAWYER_REVIEW.md).
 """

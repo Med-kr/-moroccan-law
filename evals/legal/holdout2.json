@@ -1,0 +1,647 @@
+[
+ {
+  "id": "K01",
+  "skill": "maroc-travail",
+  "text": "mudawwanat-shughl",
+  "q": "Ch7al 3ndi mn wa9t bach nrfa3 d3wa 3la l-fasl?",
+  "art": [
+   "65"
+  ],
+  "must": [
+   "تسعين يوما"
+  ],
+  "search": [
+   "دعوى الفصل",
+   "أجل"
+  ]
+ },
+ {
+  "id": "K02",
+  "skill": "maroc-travail",
+  "text": "mudawwanat-shughl",
+  "q": "Chno homa l-3o9oubat t-ta2dibiya li y9der l-mochaghghil ydir?",
+  "art": [
+   "37"
+  ],
+  "must": [
+   "الإنذار",
+   "التوبيخ"
+  ],
+  "search": [
+   "العقوبات التأديبية",
+   "الأجير"
+  ]
+ },
+ {
+  "id": "K03",
+  "skill": "maroc-travail",
+  "text": "mudawwanat-shughl",
+  "q": "Ch7al d l-ayyam d 3otlat l-ab f l-wilada?",
+  "art": [
+   "269"
+  ],
+  "must": [
+   "الولادة"
+  ],
+  "search": [
+   "رخصة",
+   "ولادة",
+   "الأب"
+  ]
+ },
+ {
+  "id": "K04",
+  "skill": "maroc-travail",
+  "text": "mudawwanat-shughl",
+  "q": "Imta l-istiqala (démission) katkoun ṣa7i7a?",
+  "art": [
+   "34"
+  ],
+  "must": [
+   "الاستقالة"
+  ],
+  "search": [
+   "الاستقالة",
+   "كتابة"
+  ]
+ },
+ {
+  "id": "K05",
+  "skill": "maroc-famille",
+  "text": "mudawwanat-usra",
+  "q": "Chno howa ṣ-ṣadaq?",
+  "art": [
+   "26"
+  ],
+  "must": [
+   "الصداق"
+  ],
+  "search": [
+   "الصداق",
+   "يقدمه الزوج"
+  ]
+ },
+ {
+  "id": "K06",
+  "skill": "maroc-famille",
+  "text": "mudawwanat-usra",
+  "q": "Nafa9at l-awlad 7tta l ch7al?",
+  "art": [
+   "198"
+  ],
+  "must": [
+   "الخامسة والعشرين"
+  ],
+  "search": [
+   "نفقة الأولاد",
+   "سن الرشد"
+  ]
+ },
+ {
+  "id": "K07",
+  "skill": "maroc-famille",
+  "text": "mudawwanat-usra",
+  "q": "Wach l-om t9der tkoun nayba 3la wladha?",
+  "art": [
+   "231"
+  ],
+  "must": [
+   "الأم الراشدة"
+  ],
+  "search": [
+   "النيابة الشرعية",
+   "الأم"
+  ]
+ },
+ {
+  "id": "K08",
+  "skill": "maroc-famille",
+  "text": "mudawwanat-usra",
+  "q": "Imta t-tala9 kaykoun ba2in?",
+  "art": [
+   "123"
+  ],
+  "must": [
+   "رجعي"
+  ],
+  "search": [
+   "الطلاق",
+   "رجعي",
+   "بائن"
+  ]
+ },
+ {
+  "id": "C11",
+  "skill": "maroc-civil",
+  "text": "doc",
+  "q": "Ch7al t-ta9adom d d3wa d t-ta3wid 3la l-jarima aw chibh l-jarima?",
+  "art": [
+   "106"
+  ],
+  "must": [
+   "خمس سنوات"
+  ],
+  "search": [
+   "دعوى التعويض",
+   "تتقادم"
+  ]
+ },
+ {
+  "id": "C12",
+  "skill": "maroc-civil",
+  "text": "doc",
+  "q": "Chno howa l-ikrah f l-3a9d?",
+  "art": [
+   "46"
+  ],
+  "must": [
+   "الإكراه"
+  ],
+  "search": [
+   "الإكراه",
+   "إجبار"
+  ]
+ },
+ {
+  "id": "C13",
+  "skill": "maroc-civil",
+  "text": "doc",
+  "q": "Imta l-iltizam kaykoun batil b 7okm l-9anoun?",
+  "art": [
+   "306"
+  ],
+  "must": [
+   "باطلا"
+  ],
+  "search": [
+   "الالتزام الباطل",
+   "بقوة القانون"
+  ]
+ },
+ {
+  "id": "C14",
+  "skill": "maroc-civil",
+  "text": "doc",
+  "q": "Chno howa l-bay3 (définition de la vente)?",
+  "art": [
+   "478"
+  ],
+  "must": [
+   "البيع"
+  ],
+  "search": [
+   "البيع",
+   "عقد"
+  ]
+ },
+ {
+  "id": "P11",
+  "skill": "maroc-procedure-civile",
+  "text": "msm-58-25",
+  "q": "F 9adaya l-osra, ch7al ajal l-isti2naf?",
+  "art": [
+   "204"
+  ],
+  "must": [
+   "ثلاثين"
+  ],
+  "search": [
+   "استئناف",
+   "الأسرة",
+   "أجل"
+  ]
+ },
+ {
+  "id": "P12",
+  "skill": "maroc-procedure-civile",
+  "text": "msm-58-25",
+  "q": "Ajal t-ta3n b i3adat n-nadar?",
+  "art": [
+   "430"
+  ],
+  "must": [
+   "ثلاثين (30) يوما"
+  ],
+  "search": [
+   "إعادة النظر",
+   "أجل"
+  ]
+ },
+ {
+  "id": "P13",
+  "skill": "maroc-procedure-civile",
+  "text": "msm-58-25",
+  "q": "Chkoun l-ma7kama l-mokhtaṣṣa mo7aliyan f l-asl?",
+  "art": [
+   "66"
+  ],
+  "must": [
+   "موطن"
+  ],
+  "search": [
+   "الاختصاص المحلي",
+   "موطن المدعى عليه"
+  ]
+ },
+ {
+  "id": "P14",
+  "skill": "maroc-procedure-civile",
+  "text": "msm-58-25",
+  "q": "Imta y9der rayis l-ma7kama yfṣel f l-ist3jal?",
+  "art": [
+   "226"
+  ],
+  "must": [
+   "للمستع"
+  ],
+  "search": [
+   "قاضي المستعجلات",
+   "الاستعجال"
+  ]
+ },
+ {
+  "id": "J11",
+  "skill": "maroc-penal",
+  "text": "qanun-jinai",
+  "q": "3o9oubat r-rachwa (corruption) l l-mowaddaf?",
+  "art": [
+   "248"
+  ],
+  "must": [
+   "الرشوة"
+  ],
+  "search": [
+   "الرشوة",
+   "موظف عمومي"
+  ]
+ },
+ {
+  "id": "J12",
+  "skill": "maroc-penal",
+  "text": "qanun-jinai",
+  "q": "Imta kayn d-difa3 ach-char3i?",
+  "art": [
+   "124"
+  ],
+  "must": [
+   "للدفاع الشرعي"
+  ],
+  "search": [
+   "الدفاع الشرعي"
+  ]
+ },
+ {
+  "id": "J13",
+  "skill": "maroc-penal",
+  "text": "qanun-jinai",
+  "q": "3o9oubat l-ightiṣab?",
+  "art": [
+   "486"
+  ],
+  "must": [
+   "الاغتصاب"
+  ],
+  "search": [
+   "الاغتصاب"
+  ]
+ },
+ {
+  "id": "J14",
+  "skill": "maroc-penal",
+  "text": "qanun-jinai",
+  "q": "Chno howa l-i3tida2 3la l-usul (violence contre ascendants)?",
+  "art": [
+   "404"
+  ],
+  "must": [
+   "الأصول"
+  ],
+  "search": [
+   "العنف",
+   "الأصول"
+  ]
+ },
+ {
+  "id": "J15",
+  "skill": "maroc-procedure-penale",
+  "text": "msj",
+  "q": "Ch7al mouddat ta9adom d d3wa l-3omomiya f l-jonah?",
+  "art": [
+   "5"
+  ],
+  "must": [
+   "سنوات"
+  ],
+  "search": [
+   "تتقادم الدعوى العمومية",
+   "الجنح"
+  ]
+ },
+ {
+  "id": "J16",
+  "skill": "maroc-procedure-penale",
+  "text": "msj",
+  "q": "Wach l-mo7ami y9der yttaṣṣel b l-mochtabah fih f l-7irasa n-nadariya?",
+  "art": [
+   "66-2",
+   "66-4"
+  ],
+  "must": [
+   "محاميه"
+  ],
+  "search": [
+   "الاتصال بمحام",
+   "الحراسة النظرية"
+  ]
+ },
+ {
+  "id": "T11",
+  "skill": "maroc-commerce",
+  "text": "mudawwanat-tijara",
+  "q": "Ch7al ajal t9dim ch-chik l l-wafa2?",
+  "art": [
+   "268"
+  ],
+  "must": [
+   "عشرين يوما"
+  ],
+  "search": [
+   "تقديم الشيك",
+   "الوفاء",
+   "أجل"
+  ]
+ },
+ {
+  "id": "T12",
+  "skill": "maroc-commerce",
+  "text": "mudawwanat-tijara",
+  "q": "Ch7al t-ta9adom d d3awa l-7amil d ch-chik 3la l-mudahhirin w s-sa7ib?",
+  "art": [
+   "295"
+  ],
+  "must": [
+   "بمضي سنة"
+  ],
+  "search": [
+   "دعاوى الحامل",
+   "تتقادم",
+   "الشيك"
+  ]
+ },
+ {
+  "id": "T13",
+  "skill": "maroc-commerce",
+  "text": "sharikat-musahama-17-95",
+  "q": "Ch7al r-ra2smal l-adna d SA?",
+  "art": [
+   "6"
+  ],
+  "must": [
+   "ثلاثمائة ألف"
+  ],
+  "search": [
+   "رأسمال",
+   "شركة المساهمة",
+   "يقل"
+  ]
+ },
+ {
+  "id": "T14",
+  "skill": "maroc-commerce",
+  "text": "mudawwanat-tijara",
+  "q": "Chkoun howa t-tajir?",
+  "art": [
+   "6"
+  ],
+  "must": [
+   "صفة تاجر"
+  ],
+  "search": [
+   "صفة تاجر",
+   "الممارسة الاعتيادية"
+  ]
+ },
+ {
+  "id": "I11",
+  "skill": "maroc-immobilier",
+  "text": "tahfid-aqari",
+  "q": "Ch7al ajal t-ta3arrod 3la mosṭalab t-ta7fid?",
+  "art": [
+   "24"
+  ],
+  "must": [
+   "شهرين"
+  ],
+  "search": [
+   "التعرض",
+   "مطلب التحفيظ",
+   "أجل"
+  ]
+ },
+ {
+  "id": "I12",
+  "skill": "maroc-immobilier",
+  "text": "huquq-ayniya-39-08",
+  "q": "Chno homa l-7o9ou9 l-3ayniya l-aṣliya?",
+  "art": [
+   "9"
+  ],
+  "must": [
+   "الحقوق العينية الأصلية"
+  ],
+  "search": [
+   "الحقوق العينية الأصلية"
+  ]
+ },
+ {
+  "id": "I13",
+  "skill": "maroc-immobilier",
+  "text": "huquq-ayniya-39-08",
+  "q": "Ch7al ajal ch-chof3a (préemption)?",
+  "art": [
+   "304"
+  ],
+  "must": [
+   "الشفعة"
+  ],
+  "search": [
+   "الشفعة",
+   "أجل"
+  ]
+ },
+ {
+  "id": "I14",
+  "skill": "maroc-immobilier",
+  "text": "kira-sakani-67-12",
+  "q": "Wach l-kira d s-sokna khaṣṣo ykoun mktoub?",
+  "art": [
+   "3"
+  ],
+  "must": [
+   "بمحرر كتابي"
+  ],
+  "search": [
+   "عقد الكراء",
+   "كتابة"
+  ]
+ },
+ {
+  "id": "A11",
+  "skill": "maroc-administratif",
+  "text": "taalil-03-01",
+  "q": "Chno homa l-qararat li khaṣṣ l-idara t3ellelhom?",
+  "art": [
+   "2"
+  ],
+  "must": [
+   "القرارات"
+  ],
+  "search": [
+   "القرارات",
+   "التعليل"
+  ]
+ },
+ {
+  "id": "N11",
+  "skill": "maroc-numerique",
+  "text": "muatayat-09-08",
+  "q": "Wach 3ndi l-7a99 n3ref chno 3ndhom mn ma3loumat 3liya (droit d'accès)?",
+  "art": [
+   "7"
+  ],
+  "must": [
+   "الولوج"
+  ],
+  "search": [
+   "حق الولوج",
+   "الشخص المعني"
+  ]
+ },
+ {
+  "id": "D11",
+  "skill": "maroc-droit",
+  "text": "dustur-2011",
+  "q": "Ch7al mouddat wilayat majlis n-nouwwab?",
+  "art": [
+   "62"
+  ],
+  "must": [
+   "خمس سنوات"
+  ],
+  "search": [
+   "مجلس النواب",
+   "خمس سنوات"
+  ]
+ },
+ {
+  "id": "D12",
+  "skill": "maroc-droit",
+  "text": "dustur-2011",
+  "q": "Wach l-7a99 f l-ma3louma madmoun f d-dostour?",
+  "art": [
+   "27"
+  ],
+  "must": [
+   "الحصول على المعلومات"
+  ],
+  "search": [
+   "الحق في الحصول على المعلومات"
+  ]
+ },
+ {
+  "id": "B11",
+  "skill": "maroc-assurances-banques",
+  "text": "taminat-17-99",
+  "q": "Chno kaywa9e3 ila l-mo2amman lih ma khelleṣch l-9ist?",
+  "art": [
+   "21"
+  ],
+  "must": [
+   "القسط"
+  ],
+  "search": [
+   "عدم أداء القسط",
+   "الضمان"
+  ]
+ },
+ {
+  "id": "X11",
+  "skill": "maroc-fiscal-douane",
+  "text": "tahsil-15-97",
+  "q": "Ch7al mouddat l-ikrah l-badani f d-doyoun l-3omomiya?",
+  "art": [
+   "77"
+  ],
+  "must": [
+   "الإكراه البدني"
+  ],
+  "search": [
+   "الإكراه البدني",
+   "مدة"
+  ]
+ },
+ {
+  "id": "L11",
+  "skill": "maroc-libertes-publiques",
+  "text": "jamiyat-1958",
+  "q": "Kifach katsrre7 b ta2sis jam3iya?",
+  "art": [
+   "5"
+  ],
+  "must": [
+   "تصريح"
+  ],
+  "search": [
+   "تأسيس الجمعية",
+   "تصريح"
+  ]
+ },
+ {
+  "id": "PR1",
+  "skill": "maroc-professions-judiciaires",
+  "text": "muhamat-66-23",
+  "q": "Chno homa chorout t-tasjil f jadwal l-mo7amin?",
+  "art": [
+   "5"
+  ],
+  "must": [
+   "مغربيا"
+  ],
+  "search": [
+   "شروط",
+   "التسجيل",
+   "الجدول"
+  ]
+ },
+ {
+  "id": "W11",
+  "skill": "maroc-travail",
+  "text": "hawadith-shughl-18-12",
+  "q": "Chno howa 7aditht ch-choghl?",
+  "art": [
+   "3"
+  ],
+  "must": [
+   "حادثة شغل"
+  ],
+  "search": [
+   "تعتبر حادثة شغل"
+  ]
+ },
+ {
+  "id": "PI2",
+  "skill": "maroc-propriete-intellectuelle",
+  "text": "milkiya-sinaiya-17-97",
+  "q": "Ch7al mouddat 7imayat bara2at l-ikhtira3?",
+  "art": [
+   "17"
+  ],
+  "must": [
+   "عشرين سنة"
+  ],
+  "search": [
+   "براءة الاختراع",
+   "مدة"
+  ]
+ }
+]

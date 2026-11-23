@@ -208,6 +208,18 @@ class Search(unittest.TestCase):
             first = [l for l in out.splitlines() if l.startswith("- ")][:3]
             self.assertTrue(any(f" {art}:" in l or f" {art} (" in l for l in first), (words, first))
 
+    def test_light_suffixes(self):
+        self.assertEqual(law.light(law.stem("استقالته")), law.light(law.stem("الاستقالة")))
+        self.assertEqual(law.light(law.stem("المخالفات")), law.light(law.stem("مخالفة")))
+        self.assertEqual(law.light("الدوله"), "الدوله")          # a final ه is never cut
+
+    def test_holdout2_sealed_set(self):
+        p = subprocess.run([sys.executable, os.path.join(REPO, "evals", "legal", "run.py"), "--set", "holdout2"],
+                           capture_output=True, text=True)
+        self.assertEqual(p.returncode, 0, p.stdout[-600:])      # every expected answer is in its article
+        res = json.load(open(os.path.join(REPO, "evals", "legal", "results-holdout2.json"), encoding="utf-8"))["summary"]
+        self.assertGreaterEqual(res["retrieved_top"], 31)
+
     def test_stem(self):
         self.assertEqual(law.stem("للأطر"), law.stem("الأطر"))
         self.assertEqual(law.stem("بخطإه"), law.stem("بخطئه"))

@@ -258,10 +258,28 @@ def expand(words: list[str]) -> list[list[list[str]]]:
 
 
 @functools.lru_cache(maxsize=None)
+def light(k: str) -> str:
+    """Light Arabic suffix folding, applied to text and query alike: attached pronouns after a
+    ta marbuta ("استقالته" -> "استقاله"), plural endings ("مخالفات" -> "مخالفه", "معنيون" -> "معني").
+    The bare final ه is never cut: after normalisation it is also the ta marbuta."""
+    if not k or not ("\u0621" <= k[0] <= "\u064A"):
+        return k
+    for suf, rep, keep in (("تهما", "ه", 3), ("تهم", "ه", 3), ("تها", "ه", 3), ("ته", "ه", 3),
+                           ("هما", "", 4), ("هم", "", 4), ("ها", "", 4), ("كم", "", 4), ("هن", "", 4),
+                           ("ات", "ه", 3), ("ون", "", 3), ("ين", "", 4)):
+        if k.endswith(suf) and len(k) - len(suf) >= keep:
+            return k[: -len(suf)] + rep
+    return k
+
+
+@functools.lru_cache(maxsize=None)
 def variants(k: str) -> frozenset[str]:
     """A word of the text also answers for itself without an attached preposition
     ("بتعليل" -> "تعليل"); only on the text side, so a query word is never cut."""
-    return frozenset((k, k[1:])) if k[:1] in ("ب", "ل", "ك") and len(k) >= 4 else frozenset((k,))
+    out = {k, light(k)}
+    if k[:1] in ("ب", "ل", "ك") and len(k) >= 4:
+        out |= {k[1:], light(k[1:])}
+    return frozenset(out)
 
 
 def _has(seq: list[set[str]], alt: list[str]) -> bool:
@@ -284,8 +302,12 @@ def cmd_search(words: list[str], only: str | None, limit: int, any_: bool) -> No
             seq = [variants(k) for k in ks]
             bag = set(ks).union(*(v for v in seq if len(v) > 1))
             title = set().union(*(variants(k) for k in keys(a["path"] + " " + a["heading"])))
-            docs.append((slug, a, seq, bag, title))
+            # the innermost section title and the article's own title: what the article is about
+            own = a["path"].split(" › ")[-1] + " " + a.get("title", "")
+            section = set().union(*(variants(k) for k in keys(own))) if own.strip() else set()
+            docs.append((slug, a, seq, bag, title, section))
     n = len(docs) or 1
+    groups = [[[light(x) for x in alt] for alt in g] for g in groups]     # query folded like the text
     df = {}
     for g in groups:
         for alt in g:
@@ -295,7 +317,7 @@ def cmd_search(words: list[str], only: str | None, limit: int, any_: bool) -> No
     idf = lambda x: math.log(1 + n / (1 + df.get(x, 0)))
     weight = [max(sum(idf(x) for x in alt) for alt in g) for g in groups]
     full, partial = [], []
-    for slug, a, seq, bag, title in docs:
+    for slug, a, seq, bag, title, section in docs:
         score, hit = 0.0, 0
         for g, w in zip(groups, weight):
             if any((alt[0] in bag if len(alt) == 1 else _has(seq, alt)) for alt in g):
@@ -307,6 +329,9 @@ def cmd_search(words: list[str], only: str | None, limit: int, any_: bool) -> No
                 hit += 1
         if not hit:
             continue
+        in_section = sum(1 for g in groups if any(all(x in section for x in alt) for alt in g))
+        if in_section:
+            score *= 1 + 0.15 * in_section / len(groups)  # the section is about the question's subject
         joined = [x for g in groups for x in g[0]]
         if len(groups) > 1 and _has(seq, joined):
             score *= 2.0                                    # the words appear together, in order

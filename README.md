@@ -177,7 +177,9 @@ afterwards and never used to tune anything (`evals/legal/holdout.json`): expecte
 article **20/20** (after five more answers written from memory were corrected from the texts, for
 instance the time limit for opposition to a default judgment is 15 days, art. 200 of law 58.25),
 right article in the first 5 results **17/20**, first result **13/20**. That is the honest figure
-for one search; Claude usually runs several.
+for one search; Claude usually runs several. A third set of 40 questions (`holdout2.json`), written
+before a second round of search changes and measured once after it: top 5 **31/40** before and after,
+first result 22 → 23/40. Keyword search is at its ceiling on these texts; semantic search is next.
 
 This measures the texts and the search, not the legal reasoning. [docs/LAWYER_REVIEW.md](docs/LAWYER_REVIEW.md)
 is the same set as a sheet for a practising lawyer to grade Claude's answers; filled sheets are welcome.
