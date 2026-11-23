@@ -5,3 +5,9 @@ __pycache__/
 crawl.log
 .venv/
 docs/brochure/presentation.html
+data-webapp/
+bench/results/
+bench/results-pilot.json
+bench/answers.jsonl
+bench/summary.json
+bench/results-sonnet.json

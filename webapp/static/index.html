@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>moroccan-law — القانون المغربي</title>
+<link rel="stylesheet" href="/static/style.css">
+<script src="/static/app.js" defer></script>
+</head>
+<body>
+
+<section id="auth" class="screen hidden">
+  <div class="auth-box">
+    <h1>moroccan-law</h1>
+    <p class="ar">القانون المغربي من النصوص الرسمية</p>
+    <p id="auth-hint" class="muted"></p>
+    <form id="auth-form">
+      <label>Nom d'utilisateur <input id="auth-name" autocomplete="username" required minlength="2"></label>
+      <label>Mot de passe <input id="auth-pass" type="password" autocomplete="current-password" required minlength="10"></label>
+      <button type="submit" id="auth-submit">Se connecter</button>
+      <p id="auth-error" class="error"></p>
+    </form>
+  </div>
+</section>
+
+<section id="main" class="screen hidden">
+  <aside id="sidebar">
+    <div class="brand">moroccan-law <span class="ar">القانون المغربي</span></div>
+    <button id="new-chat" class="primary">+ Nouvelle question</button>
+    <h3>Historique</h3>
+    <ul id="history"></ul>
+    <div class="sidebar-foot">
+      <span id="whoami"></span>
+      <button id="logout" class="link">Déconnexion</button>
+    </div>
+  </aside>
+
+  <main>
+    <nav id="tabs">
+      <button data-tab="chat" class="active">Assistant</button>
+      <button data-tab="search">Recherche</button>
+      <button data-tab="deadline">Délais</button>
+      <button data-tab="docs">Documents</button>
+      <button data-tab="decisions">Jurisprudence</button>
+      <button data-tab="settings" class="admin-only">Réglages</button>
+    </nav>
+
+    <div id="tab-chat" class="tab">
+      <div id="provider-warning" class="warning hidden">Aucune clé IA : un administrateur doit la saisir dans Réglages. La recherche, les fiches et les délais fonctionnent sans IA.</div>
+      <div id="messages"></div>
+      <form id="ask">
+        <div id="attached"></div>
+        <textarea id="question" dir="auto" rows="3" placeholder="Posez votre question en arabe, en français ou en darija… — اكتب سؤالك"></textarea>
+        <div class="ask-row">
+          <select id="attach-select"><option value="">Joindre un document…</option></select>
+          <span class="muted small">Ne saisissez pas de données identifiant un client (secret professionnel).</span>
+          <button type="submit" class="primary" id="send">Envoyer</button>
+        </div>
+      </form>
+    </div>
+
+    <div id="tab-search" class="tab hidden">
+      <form id="search-form" class="row">
+        <input id="search-q" dir="auto" placeholder="Mots arabes de la loi — مثال: أجل الاستئناف" required>
+        <input id="search-text" placeholder="Texte (optionnel), ex. msm-58-25">
+        <button class="primary">Chercher</button>
+      </form>
+      <form id="find-form" class="row">
+        <input id="find-q" dir="auto" placeholder="Trouver une loi par son titre ou son numéro — 51.17, التعليم">
+        <button>Trouver la loi</button>
+      </form>
+      <form id="article-form" class="row">
+        <input id="art-text" placeholder="Texte, ex. mudawwanat-shughl" required>
+        <input id="art-n" placeholder="Article, ex. 53, 65-1, 353 bis" required>
+        <button>Lire l'article + fiche</button>
+      </form>
+      <pre id="search-out" dir="auto" class="out"></pre>
+    </div>
+
+    <div id="tab-deadline" class="tab hidden">
+      <p class="muted">Loi 58.25 : article 602 (délais francs, prorogation), jours fériés du décret 2.77.169, article 639 (procédure électronique), articles 212 et 380 (nouveau départ).</p>
+      <form id="deadline-form" class="grid">
+        <label>Date de notification <input id="dl-start" type="date" required></label>
+        <label>Jours <input id="dl-days" type="number" min="0" value="30"></label>
+        <label>Mois <input id="dl-months" type="number" min="0" value="0"></label>
+        <label><input id="dl-elec" type="checkbox"> Procédure électronique</label>
+        <label>Fêtes confirmées (AAAA-MM-JJ, séparées par des virgules) <input id="dl-hol"></label>
+        <label>Nouveau départ <select id="dl-restart-kind"><option value="">—</option><option value="212">Art. 212</option><option value="380">Art. 380</option></select>
+          <input id="dl-restart-date" type="date"></label>
+        <button class="primary">Calculer</button>
+      </form>
+      <pre id="deadline-out" dir="auto" class="out"></pre>
+    </div>
+
+    <div id="tab-docs" class="tab hidden">
+      <form id="upload-form" class="row">
+        <input id="upload-file" type="file" accept=".pdf,.docx,.txt" required>
+        <button class="primary">Importer</button>
+      </form>
+      <p class="muted small">PDF avec couche texte, Word ou texte. Les fichiers sont chiffrés sur ce poste et supprimés selon la durée de conservation fixée par l'administrateur.</p>
+      <ul id="doc-list" class="cards"></ul>
+    </div>
+
+    <div id="tab-decisions" class="tab hidden">
+      <p class="muted">Bibliothèque du cabinet : collez les décisions consultées (portail officiel <a href="https://juriscassation.cspj.ma" target="_blank" rel="noopener noreferrer">juriscassation.cspj.ma</a>). L'assistant ne cite que celles-ci.</p>
+      <form id="decision-form">
+        <input id="dec-ref" dir="auto" placeholder="Référence : Cour de cassation, arrêt n°…, date, chambre" required>
+        <textarea id="dec-text" dir="auto" rows="6" placeholder="Texte de la décision" required></textarea>
+        <button class="primary">Ajouter</button>
+      </form>
+      <ul id="dec-list" class="cards"></ul>
+    </div>
+
+    <div id="tab-settings" class="tab hidden">
+      <h2>Fournisseur d'IA (clé du cabinet)</h2>
+      <form id="settings-form" class="grid">
+        <label>Fournisseur <select id="set-provider"><option value="anthropic">Anthropic (Claude)</option><option value="openai">Compatible OpenAI (modèle local : LM Studio, Ollama)</option></select></label>
+        <label>Modèle <input id="set-model" placeholder="claude-opus-5-5"></label>
+        <label>Effort <select id="set-effort"><option>low</option><option selected>medium</option><option>high</option><option>xhigh</option><option>max</option></select></label>
+        <label>Clé API <input id="set-key" type="password" autocomplete="off" placeholder="laisser vide pour garder la clé enregistrée"></label>
+        <label>URL (modèle local) <input id="set-base" placeholder="http://localhost:1234/v1"></label>
+        <label>Conservation (jours, 0 = illimitée) <input id="set-ret" type="number" min="0" max="3650"></label>
+        <button class="primary">Enregistrer</button>
+        <span id="settings-msg" class="muted"></span>
+      </form>
+      <h2>Utilisateurs</h2>
+      <form id="user-form" class="row">
+        <input id="u-name" placeholder="Nom" required minlength="2">
+        <input id="u-pass" type="password" placeholder="Mot de passe (10 caractères min.)" required minlength="10">
+        <select id="u-role"><option value="member">Membre</option><option value="admin">Administrateur</option></select>
+        <button>Ajouter</button>
+      </form>
+      <ul id="user-list" class="cards"></ul>
+      <h2>Journal d'audit</h2>
+      <pre id="audit" class="out small"></pre>
+    </div>
+  </main>
+</section>
+
+<dialog id="article-dialog">
+  <article>
+    <header><strong id="ad-title"></strong><button id="ad-close" class="link">Fermer</button></header>
+    <div id="ad-card" class="card-box"></div>
+    <pre id="ad-text" dir="auto" class="out"></pre>
+  </article>
+</dialog>
+</body>
+</html>

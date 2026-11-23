@@ -87,6 +87,12 @@ le `SKILL.md` du skill.
 
 ou, sans le système de plugins : `git clone`, puis `./install.sh`.
 
+**Application web pour le cabinet** (sans Python ni configuration pour l'avocat) : assistant en arabe, français
+et darija, recherche, fiches d'articles, délais, import de documents, bibliothèque de décisions du cabinet,
+historique, export Word/PDF, comptes locaux, chiffrement au repos, journal d'audit, suppression automatique.
+`docker compose -f webapp/docker-compose.yml up -d --build`, puis <http://localhost:8642>, avec la clé IA du
+cabinet ou un modèle local : [webapp/README.md](webapp/README.md), sécurité : [docs/SECURITY.md](docs/SECURITY.md).
+
 **N'importe quelle autre IA** (ChatGPT, Gemini, Copilot, Cursor, Windsurf, Codex, LM Studio…) : les
 mêmes textes via le serveur MCP (local ou HTTP) ou le jeu de données `exports/moroccan-law-articles.jsonl.gz`
 (41 410 articles, une ligne JSON chacun). Mode d'emploi par application : [docs/USE_WITH_ANY_AI.md](docs/USE_WITH_ANY_AI.md).

@@ -1,0 +1,1336 @@
+[
+ {
+  "skill": "maroc-travail",
+  "text": "mudawwanat-shughl",
+  "articles": [
+   "43"
+  ],
+  "must": [
+   "أجل الإخطار"
+  ],
+  "id": "r-h01",
+  "category": "retrieval",
+  "question": "Ch7al mouddat l-i5tar (préavis) 9bel l-fasl?"
+ },
+ {
+  "skill": "maroc-travail",
+  "text": "mudawwanat-shughl",
+  "articles": [
+   "152"
+  ],
+  "must": [
+   "أربعة عشر أسبوعا"
+  ],
+  "id": "r-h02",
+  "category": "retrieval",
+  "question": "Ch7al katakhod l-mra d l-3otla d l-wilada?"
+ },
+ {
+  "skill": "maroc-travail",
+  "text": "mudawwanat-shughl",
+  "articles": [
+   "143"
+  ],
+  "must": [
+   "خمس عشرة سنة"
+  ],
+  "id": "r-h03",
+  "category": "retrieval",
+  "question": "Âge minimum d'embauche ?"
+ },
+ {
+  "skill": "maroc-famille",
+  "text": "mudawwanat-usra",
+  "articles": [
+   "194"
+  ],
+  "must": [
+   "نفقة الزوجة"
+  ],
+  "id": "r-h04",
+  "category": "retrieval",
+  "question": "Imta katwjeb nafa9at z-zawja 3la r-rajel?"
+ },
+ {
+  "skill": "maroc-famille",
+  "text": "mudawwanat-usra",
+  "articles": [
+   "115"
+  ],
+  "must": [
+   "الخلع"
+  ],
+  "id": "r-h05",
+  "category": "retrieval",
+  "question": "Chno howa l-khol3?"
+ },
+ {
+  "skill": "maroc-famille",
+  "text": "mudawwanat-usra",
+  "articles": [
+   "277"
+  ],
+  "must": [
+   "ثلث مال"
+  ],
+  "id": "r-h06",
+  "category": "retrieval",
+  "question": "Ch7al l-7add d l-waṣiya?"
+ },
+ {
+  "skill": "maroc-civil",
+  "text": "doc",
+  "articles": [
+   "52"
+  ],
+  "must": [
+   "التدليس"
+  ],
+  "id": "r-h07",
+  "category": "retrieval",
+  "question": "Le dol (التدليس) est-il une cause de rescision ?"
+ },
+ {
+  "skill": "maroc-civil",
+  "text": "doc",
+  "articles": [
+   "86"
+  ],
+  "must": [
+   "الحيوان"
+  ],
+  "id": "r-h08",
+  "category": "retrieval",
+  "question": "Chkoun mas2oul 3la d-darar li kaydir l-7ayawan?"
+ },
+ {
+  "skill": "maroc-procedure-civile",
+  "text": "msm-58-25",
+  "articles": [
+   "200"
+  ],
+  "must": [
+   "خمسة عشر"
+  ],
+  "id": "r-h09",
+  "category": "retrieval",
+  "question": "Ch7al l-ajal d t-ta3arrod 3la 7okm ghiyabi ibtida2i?"
+ },
+ {
+  "skill": "maroc-penal",
+  "text": "qanun-jinai",
+  "articles": [
+   "540"
+  ],
+  "must": [
+   "النصب"
+  ],
+  "id": "r-h10",
+  "category": "retrieval",
+  "question": "3o9oubat n-naṣb (escroquerie)?"
+ },
+ {
+  "skill": "maroc-penal",
+  "text": "qanun-jinai",
+  "articles": [
+   "547"
+  ],
+  "must": [
+   "خيانة الأمانة"
+  ],
+  "id": "r-h11",
+  "category": "retrieval",
+  "question": "Abus de confiance : quelle peine ?"
+ },
+ {
+  "skill": "maroc-procedure-penale",
+  "text": "msj",
+  "articles": [
+   "159"
+  ],
+  "must": [
+   "تدبيران استثنائيان"
+  ],
+  "id": "r-h12",
+  "category": "retrieval",
+  "question": "Wach l-i3ti9al l-i7tiyati tadbir istithna2i?"
+ },
+ {
+  "skill": "maroc-commerce",
+  "text": "mudawwanat-tijara",
+  "articles": [
+   "228"
+  ],
+  "must": [
+   "ثلاث سنوات"
+  ],
+  "id": "r-h13",
+  "category": "retrieval",
+  "question": "Ch7al t-ta9adom d l-kombiyala (lettre de change) 3la l-9abil?"
+ },
+ {
+  "skill": "maroc-commerce",
+  "text": "sharikat-5-96",
+  "articles": [
+   "47"
+  ],
+  "must": [
+   "خمسين شريكا"
+  ],
+  "id": "r-h14",
+  "category": "retrieval",
+  "question": "Ch7al l-7add l-a9ṣa d ch-chorraka f SARL?"
+ },
+ {
+  "skill": "maroc-immobilier",
+  "text": "kira-sakani-67-12",
+  "articles": [
+   "45"
+  ],
+  "must": [
+   "الإفراغ"
+  ],
+  "id": "r-h15",
+  "category": "retrieval",
+  "question": "Bach y9der mol d-dar ykhrrej l-mokri (motif sérieux)?"
+ },
+ {
+  "skill": "maroc-immobilier",
+  "text": "kira-tijari-49-16",
+  "articles": [
+   "4"
+  ],
+  "must": [
+   "سنتين"
+  ],
+  "id": "r-h16",
+  "category": "retrieval",
+  "question": "Ch7al d l-mouda bach l-mokri y9der yktaseb l-7a9 f l-kira t-tijari?"
+ },
+ {
+  "skill": "maroc-droit",
+  "text": "dustur-2011",
+  "articles": [
+   "6"
+  ],
+  "must": [
+   "أسمى تعبير عن إرادة الأمة"
+  ],
+  "id": "r-h17",
+  "category": "retrieval",
+  "question": "Wach l-9anoun howa asma ta3bir 3la irada l-oumma?"
+ },
+ {
+  "skill": "maroc-numerique",
+  "text": "muatayat-09-08",
+  "articles": [
+   "12"
+  ],
+  "must": [
+   "تصريح مسبق"
+  ],
+  "id": "r-h18",
+  "category": "retrieval",
+  "question": "Wach khass taṣri7 mosba9 l l-CNDP 9bel l-mou3alaja?"
+ },
+ {
+  "skill": "maroc-travail",
+  "text": "daman-ijtimai",
+  "articles": [
+   "15"
+  ],
+  "must": [
+   "الانخراط"
+  ],
+  "id": "r-h19",
+  "category": "retrieval",
+  "question": "Wach t-tasjil f CNSS ilzami l l-mochaghghil?"
+ },
+ {
+  "skill": "maroc-assurances-banques",
+  "text": "taminat-17-99",
+  "articles": [
+   "20"
+  ],
+  "must": [
+   "أيام"
+  ],
+  "id": "r-h20",
+  "category": "retrieval",
+  "question": "Wach l-mo2ammen lih khasso ysrre7 b l-7aditha f ajal mo7added?"
+ },
+ {
+  "skill": "maroc-travail",
+  "text": "mudawwanat-shughl",
+  "articles": [
+   "65"
+  ],
+  "must": [
+   "تسعين يوما"
+  ],
+  "id": "r-k01",
+  "category": "retrieval",
+  "question": "Ch7al 3ndi mn wa9t bach nrfa3 d3wa 3la l-fasl?"
+ },
+ {
+  "skill": "maroc-travail",
+  "text": "mudawwanat-shughl",
+  "articles": [
+   "37"
+  ],
+  "must": [
+   "الإنذار",
+   "التوبيخ"
+  ],
+  "id": "r-k02",
+  "category": "retrieval",
+  "question": "Chno homa l-3o9oubat t-ta2dibiya li y9der l-mochaghghil ydir?"
+ },
+ {
+  "skill": "maroc-travail",
+  "text": "mudawwanat-shughl",
+  "articles": [
+   "269"
+  ],
+  "must": [
+   "الولادة"
+  ],
+  "id": "r-k03",
+  "category": "retrieval",
+  "question": "Ch7al d l-ayyam d 3otlat l-ab f l-wilada?"
+ },
+ {
+  "skill": "maroc-travail",
+  "text": "mudawwanat-shughl",
+  "articles": [
+   "34"
+  ],
+  "must": [
+   "الاستقالة"
+  ],
+  "id": "r-k04",
+  "category": "retrieval",
+  "question": "Imta l-istiqala (démission) katkoun ṣa7i7a?"
+ },
+ {
+  "skill": "maroc-famille",
+  "text": "mudawwanat-usra",
+  "articles": [
+   "26"
+  ],
+  "must": [
+   "الصداق"
+  ],
+  "id": "r-k05",
+  "category": "retrieval",
+  "question": "Chno howa ṣ-ṣadaq?"
+ },
+ {
+  "skill": "maroc-famille",
+  "text": "mudawwanat-usra",
+  "articles": [
+   "198"
+  ],
+  "must": [
+   "الخامسة والعشرين"
+  ],
+  "id": "r-k06",
+  "category": "retrieval",
+  "question": "Nafa9at l-awlad 7tta l ch7al?"
+ },
+ {
+  "skill": "maroc-famille",
+  "text": "mudawwanat-usra",
+  "articles": [
+   "231"
+  ],
+  "must": [
+   "الأم الراشدة"
+  ],
+  "id": "r-k07",
+  "category": "retrieval",
+  "question": "Wach l-om t9der tkoun nayba 3la wladha?"
+ },
+ {
+  "skill": "maroc-famille",
+  "text": "mudawwanat-usra",
+  "articles": [
+   "123"
+  ],
+  "must": [
+   "رجعي"
+  ],
+  "id": "r-k08",
+  "category": "retrieval",
+  "question": "Imta t-tala9 kaykoun ba2in?"
+ },
+ {
+  "skill": "maroc-civil",
+  "text": "doc",
+  "articles": [
+   "106"
+  ],
+  "must": [
+   "خمس سنوات"
+  ],
+  "id": "r-c11",
+  "category": "retrieval",
+  "question": "Ch7al t-ta9adom d d3wa d t-ta3wid 3la l-jarima aw chibh l-jarima?"
+ },
+ {
+  "skill": "maroc-civil",
+  "text": "doc",
+  "articles": [
+   "46"
+  ],
+  "must": [
+   "الإكراه"
+  ],
+  "id": "r-c12",
+  "category": "retrieval",
+  "question": "Chno howa l-ikrah f l-3a9d?"
+ },
+ {
+  "skill": "maroc-civil",
+  "text": "doc",
+  "articles": [
+   "306"
+  ],
+  "must": [
+   "باطلا"
+  ],
+  "id": "r-c13",
+  "category": "retrieval",
+  "question": "Imta l-iltizam kaykoun batil b 7okm l-9anoun?"
+ },
+ {
+  "skill": "maroc-civil",
+  "text": "doc",
+  "articles": [
+   "478"
+  ],
+  "must": [
+   "البيع"
+  ],
+  "id": "r-c14",
+  "category": "retrieval",
+  "question": "Chno howa l-bay3 (définition de la vente)?"
+ },
+ {
+  "skill": "maroc-procedure-civile",
+  "text": "msm-58-25",
+  "articles": [
+   "204"
+  ],
+  "must": [
+   "ثلاثين"
+  ],
+  "id": "r-p11",
+  "category": "retrieval",
+  "question": "F 9adaya l-osra, ch7al ajal l-isti2naf?"
+ },
+ {
+  "skill": "maroc-procedure-civile",
+  "text": "msm-58-25",
+  "articles": [
+   "430"
+  ],
+  "must": [
+   "ثلاثين (30) يوما"
+  ],
+  "id": "r-p12",
+  "category": "retrieval",
+  "question": "Ajal t-ta3n b i3adat n-nadar?"
+ },
+ {
+  "skill": "maroc-procedure-civile",
+  "text": "msm-58-25",
+  "articles": [
+   "66"
+  ],
+  "must": [
+   "موطن"
+  ],
+  "id": "r-p13",
+  "category": "retrieval",
+  "question": "Chkoun l-ma7kama l-mokhtaṣṣa mo7aliyan f l-asl?"
+ },
+ {
+  "skill": "maroc-procedure-civile",
+  "text": "msm-58-25",
+  "articles": [
+   "226"
+  ],
+  "must": [
+   "للمستع"
+  ],
+  "id": "r-p14",
+  "category": "retrieval",
+  "question": "Imta y9der rayis l-ma7kama yfṣel f l-ist3jal?"
+ },
+ {
+  "skill": "maroc-penal",
+  "text": "qanun-jinai",
+  "articles": [
+   "248"
+  ],
+  "must": [
+   "الرشوة"
+  ],
+  "id": "r-j11",
+  "category": "retrieval",
+  "question": "3o9oubat r-rachwa (corruption) l l-mowaddaf?"
+ },
+ {
+  "skill": "maroc-penal",
+  "text": "qanun-jinai",
+  "articles": [
+   "124"
+  ],
+  "must": [
+   "للدفاع الشرعي"
+  ],
+  "id": "r-j12",
+  "category": "retrieval",
+  "question": "Imta kayn d-difa3 ach-char3i?"
+ },
+ {
+  "skill": "maroc-penal",
+  "text": "qanun-jinai",
+  "articles": [
+   "486"
+  ],
+  "must": [
+   "الاغتصاب"
+  ],
+  "id": "r-j13",
+  "category": "retrieval",
+  "question": "3o9oubat l-ightiṣab?"
+ },
+ {
+  "skill": "maroc-penal",
+  "text": "qanun-jinai",
+  "articles": [
+   "404"
+  ],
+  "must": [
+   "الأصول"
+  ],
+  "id": "r-j14",
+  "category": "retrieval",
+  "question": "Chno howa l-i3tida2 3la l-usul (violence contre ascendants)?"
+ },
+ {
+  "skill": "maroc-procedure-penale",
+  "text": "msj",
+  "articles": [
+   "5"
+  ],
+  "must": [
+   "سنوات"
+  ],
+  "id": "r-j15",
+  "category": "retrieval",
+  "question": "Ch7al mouddat ta9adom d d3wa l-3omomiya f l-jonah?"
+ },
+ {
+  "skill": "maroc-procedure-penale",
+  "text": "msj",
+  "articles": [
+   "66-2",
+   "66-4"
+  ],
+  "must": [
+   "محاميه"
+  ],
+  "id": "r-j16",
+  "category": "retrieval",
+  "question": "Wach l-mo7ami y9der yttaṣṣel b l-mochtabah fih f l-7irasa n-nadariya?"
+ },
+ {
+  "skill": "maroc-commerce",
+  "text": "mudawwanat-tijara",
+  "articles": [
+   "268"
+  ],
+  "must": [
+   "عشرين يوما"
+  ],
+  "id": "r-t11",
+  "category": "retrieval",
+  "question": "Ch7al ajal t9dim ch-chik l l-wafa2?"
+ },
+ {
+  "skill": "maroc-commerce",
+  "text": "mudawwanat-tijara",
+  "articles": [
+   "295"
+  ],
+  "must": [
+   "بمضي سنة"
+  ],
+  "id": "r-t12",
+  "category": "retrieval",
+  "question": "Ch7al t-ta9adom d d3awa l-7amil d ch-chik 3la l-mudahhirin w s-sa7ib?"
+ },
+ {
+  "skill": "maroc-commerce",
+  "text": "sharikat-musahama-17-95",
+  "articles": [
+   "6"
+  ],
+  "must": [
+   "ثلاثمائة ألف"
+  ],
+  "id": "r-t13",
+  "category": "retrieval",
+  "question": "Ch7al r-ra2smal l-adna d SA?"
+ },
+ {
+  "skill": "maroc-commerce",
+  "text": "mudawwanat-tijara",
+  "articles": [
+   "6"
+  ],
+  "must": [
+   "صفة تاجر"
+  ],
+  "id": "r-t14",
+  "category": "retrieval",
+  "question": "Chkoun howa t-tajir?"
+ },
+ {
+  "skill": "maroc-immobilier",
+  "text": "tahfid-aqari",
+  "articles": [
+   "24"
+  ],
+  "must": [
+   "شهرين"
+  ],
+  "id": "r-i11",
+  "category": "retrieval",
+  "question": "Ch7al ajal t-ta3arrod 3la mosṭalab t-ta7fid?"
+ },
+ {
+  "skill": "maroc-immobilier",
+  "text": "huquq-ayniya-39-08",
+  "articles": [
+   "9"
+  ],
+  "must": [
+   "الحقوق العينية الأصلية"
+  ],
+  "id": "r-i12",
+  "category": "retrieval",
+  "question": "Chno homa l-7o9ou9 l-3ayniya l-aṣliya?"
+ },
+ {
+  "skill": "maroc-immobilier",
+  "text": "huquq-ayniya-39-08",
+  "articles": [
+   "304"
+  ],
+  "must": [
+   "الشفعة"
+  ],
+  "id": "r-i13",
+  "category": "retrieval",
+  "question": "Ch7al ajal ch-chof3a (préemption)?"
+ },
+ {
+  "skill": "maroc-immobilier",
+  "text": "kira-sakani-67-12",
+  "articles": [
+   "3"
+  ],
+  "must": [
+   "بمحرر كتابي"
+  ],
+  "id": "r-i14",
+  "category": "retrieval",
+  "question": "Wach l-kira d s-sokna khaṣṣo ykoun mktoub?"
+ },
+ {
+  "skill": "maroc-administratif",
+  "text": "taalil-03-01",
+  "articles": [
+   "2"
+  ],
+  "must": [
+   "القرارات"
+  ],
+  "id": "r-a11",
+  "category": "retrieval",
+  "question": "Chno homa l-qararat li khaṣṣ l-idara t3ellelhom?"
+ },
+ {
+  "skill": "maroc-numerique",
+  "text": "muatayat-09-08",
+  "articles": [
+   "7"
+  ],
+  "must": [
+   "الولوج"
+  ],
+  "id": "r-n11",
+  "category": "retrieval",
+  "question": "Wach 3ndi l-7a99 n3ref chno 3ndhom mn ma3loumat 3liya (droit d'accès)?"
+ },
+ {
+  "skill": "maroc-droit",
+  "text": "dustur-2011",
+  "articles": [
+   "62"
+  ],
+  "must": [
+   "خمس سنوات"
+  ],
+  "id": "r-d11",
+  "category": "retrieval",
+  "question": "Ch7al mouddat wilayat majlis n-nouwwab?"
+ },
+ {
+  "skill": "maroc-droit",
+  "text": "dustur-2011",
+  "articles": [
+   "27"
+  ],
+  "must": [
+   "الحصول على المعلومات"
+  ],
+  "id": "r-d12",
+  "category": "retrieval",
+  "question": "Wach l-7a99 f l-ma3louma madmoun f d-dostour?"
+ },
+ {
+  "skill": "maroc-assurances-banques",
+  "text": "taminat-17-99",
+  "articles": [
+   "21"
+  ],
+  "must": [
+   "القسط"
+  ],
+  "id": "r-b11",
+  "category": "retrieval",
+  "question": "Chno kaywa9e3 ila l-mo2amman lih ma khelleṣch l-9ist?"
+ },
+ {
+  "skill": "maroc-fiscal-douane",
+  "text": "tahsil-15-97",
+  "articles": [
+   "77"
+  ],
+  "must": [
+   "الإكراه البدني"
+  ],
+  "id": "r-x11",
+  "category": "retrieval",
+  "question": "Ch7al mouddat l-ikrah l-badani f d-doyoun l-3omomiya?"
+ },
+ {
+  "skill": "maroc-libertes-publiques",
+  "text": "jamiyat-1958",
+  "articles": [
+   "5"
+  ],
+  "must": [
+   "تصريح"
+  ],
+  "id": "r-l11",
+  "category": "retrieval",
+  "question": "Kifach katsrre7 b ta2sis jam3iya?"
+ },
+ {
+  "skill": "maroc-professions-judiciaires",
+  "text": "muhamat-66-23",
+  "articles": [
+   "5"
+  ],
+  "must": [
+   "مغربيا"
+  ],
+  "id": "r-pr1",
+  "category": "retrieval",
+  "question": "Chno homa chorout t-tasjil f jadwal l-mo7amin?"
+ },
+ {
+  "skill": "maroc-travail",
+  "text": "hawadith-shughl-18-12",
+  "articles": [
+   "3"
+  ],
+  "must": [
+   "حادثة شغل"
+  ],
+  "id": "r-w11",
+  "category": "retrieval",
+  "question": "Chno howa 7aditht ch-choghl?"
+ },
+ {
+  "skill": "maroc-propriete-intellectuelle",
+  "text": "milkiya-sinaiya-17-97",
+  "articles": [
+   "17"
+  ],
+  "must": [
+   "عشرين سنة"
+  ],
+  "id": "r-pi2",
+  "category": "retrieval",
+  "question": "Ch7al mouddat 7imayat bara2at l-ikhtira3?"
+ },
+ {
+  "skill": "maroc-assurances-banques",
+  "text": "sayr-52-05",
+  "articles": [
+   "25"
+  ],
+  "expected_status": "repealed",
+  "id": "c-01",
+  "category": "currentness",
+  "question": "ما هو نص الفصل أو المادة 25 من مدونة السير على الطرق؟ وما هي العقوبة أو الحكم الذي يقرره؟"
+ },
+ {
+  "skill": "maroc-civil",
+  "text": "doc",
+  "articles": [
+   "726"
+  ],
+  "expected_status": "repealed",
+  "id": "c-02",
+  "category": "currentness",
+  "question": "ما هو نص الفصل أو المادة 726 من قانون الالتزامات والعقود؟ وما هي العقوبة أو الحكم الذي يقرره؟"
+ },
+ {
+  "skill": "maroc-commerce",
+  "text": "sharikat-musahama-17-95",
+  "articles": [
+   "376"
+  ],
+  "expected_status": "repealed",
+  "id": "c-03",
+  "category": "currentness",
+  "question": "ما هو نص الفصل أو المادة 376 من القانون رقم 17.95 المتعلق بشركات المساهمة؟ وما هي العقوبة أو الحكم الذي يقرره؟"
+ },
+ {
+  "skill": "maroc-commerce",
+  "text": "sharikat-musahama-17-95",
+  "articles": [
+   "380"
+  ],
+  "expected_status": "repealed",
+  "id": "c-04",
+  "category": "currentness",
+  "question": "ما هو نص الفصل أو المادة 380 من القانون رقم 17.95 المتعلق بشركات المساهمة؟ وما هي العقوبة أو الحكم الذي يقرره؟"
+ },
+ {
+  "skill": "maroc-fiscal-douane",
+  "text": "jamarik",
+  "articles": [
+   "207"
+  ],
+  "expected_status": "repealed",
+  "id": "c-05",
+  "category": "currentness",
+  "question": "ما هو نص الفصل أو المادة 207 من مدونة الجمارك والضرائب غير المباشرة؟ وما هي العقوبة أو الحكم الذي يقرره؟"
+ },
+ {
+  "skill": "maroc-civil",
+  "text": "doc",
+  "articles": [
+   "329"
+  ],
+  "expected_status": "repealed",
+  "id": "c-06",
+  "category": "currentness",
+  "question": "ما هو نص الفصل أو المادة 329 من قانون الالتزامات والعقود؟ وما هي العقوبة أو الحكم الذي يقرره؟"
+ },
+ {
+  "skill": "maroc-fiscal-douane",
+  "text": "jamarik",
+  "articles": [
+   "11"
+  ],
+  "expected_status": "repealed",
+  "id": "c-07",
+  "category": "currentness",
+  "question": "ما هو نص الفصل أو المادة 11 من مدونة الجمارك والضرائب غير المباشرة؟ وما هي العقوبة أو الحكم الذي يقرره؟"
+ },
+ {
+  "skill": "maroc-fiscal-douane",
+  "text": "jamarik",
+  "articles": [
+   "25"
+  ],
+  "expected_status": "repealed",
+  "id": "c-08",
+  "category": "currentness",
+  "question": "ما هو نص الفصل أو المادة 25 من مدونة الجمارك والضرائب غير المباشرة؟ وما هي العقوبة أو الحكم الذي يقرره؟"
+ },
+ {
+  "skill": "maroc-fiscal-douane",
+  "text": "jamarik",
+  "articles": [
+   "173"
+  ],
+  "expected_status": "repealed",
+  "id": "c-09",
+  "category": "currentness",
+  "question": "ما هو نص الفصل أو المادة 173 من مدونة الجمارك والضرائب غير المباشرة؟ وما هي العقوبة أو الحكم الذي يقرره؟"
+ },
+ {
+  "skill": "maroc-fiscal-douane",
+  "text": "jamarik",
+  "articles": [
+   "198"
+  ],
+  "expected_status": "repealed",
+  "id": "c-10",
+  "category": "currentness",
+  "question": "ما هو نص الفصل أو المادة 198 من مدونة الجمارك والضرائب غير المباشرة؟ وما هي العقوبة أو الحكم الذي يقرره؟"
+ },
+ {
+  "skill": "maroc-fiscal-douane",
+  "text": "jamarik",
+  "articles": [
+   "290"
+  ],
+  "expected_status": "repealed",
+  "id": "c-11",
+  "category": "currentness",
+  "question": "ما هو نص الفصل أو المادة 290 من مدونة الجمارك والضرائب غير المباشرة؟ وما هي العقوبة أو الحكم الذي يقرره؟"
+ },
+ {
+  "skill": "maroc-fiscal-douane",
+  "text": "tahsil-15-97",
+  "articles": [
+   "152"
+  ],
+  "expected_status": "repealed",
+  "id": "c-12",
+  "category": "currentness",
+  "question": "ما هو نص الفصل أو المادة 152 من مدونة تحصيل الديون العمومية؟ وما هي العقوبة أو الحكم الذي يقرره؟"
+ },
+ {
+  "skill": "maroc-immobilier",
+  "text": "tajziat-25-90",
+  "articles": [
+   "24"
+  ],
+  "expected_status": "repealed",
+  "id": "c-13",
+  "category": "currentness",
+  "question": "ما هو نص الفصل أو المادة 24 من القانون رقم 25.90 المتعلق بالتجزئات العقارية؟ وما هي العقوبة أو الحكم الذي يقرره؟"
+ },
+ {
+  "skill": "maroc-libertes-publiques",
+  "text": "jamiyat-1958",
+  "articles": [
+   "17"
+  ],
+  "expected_status": "repealed",
+  "id": "c-14",
+  "category": "currentness",
+  "question": "ما هو نص الفصل أو المادة 17 من الظهير الشريف المنظم لحق تأسيس الجمعيات؟ وما هي العقوبة أو الحكم الذي يقرره؟"
+ },
+ {
+  "skill": "maroc-penal",
+  "text": "qanun-jinai",
+  "articles": [
+   "21"
+  ],
+  "expected_status": "repealed",
+  "id": "c-15",
+  "category": "currentness",
+  "question": "ما هو نص الفصل أو المادة 21 من مجموعة القانون الجنائي؟ وما هي العقوبة أو الحكم الذي يقرره؟"
+ },
+ {
+  "skill": "maroc-penal",
+  "text": "qanun-jinai",
+  "articles": [
+   "290"
+  ],
+  "expected_status": "repealed",
+  "id": "c-16",
+  "category": "currentness",
+  "question": "ما هو نص الفصل أو المادة 290 من مجموعة القانون الجنائي؟ وما هي العقوبة أو الحكم الذي يقرره؟"
+ },
+ {
+  "skill": "maroc-penal",
+  "text": "qanun-jinai",
+  "articles": [
+   "495"
+  ],
+  "expected_status": "repealed",
+  "id": "c-17",
+  "category": "currentness",
+  "question": "ما هو نص الفصل أو المادة 495 من مجموعة القانون الجنائي؟ وما هي العقوبة أو الحكم الذي يقرره؟"
+ },
+ {
+  "skill": "maroc-assurances-banques",
+  "text": "sayr-52-05",
+  "articles": [
+   "24"
+  ],
+  "expected_status": "replaced",
+  "id": "c-18",
+  "category": "currentness",
+  "question": "ما نص المادة أو الفصل 24 من مدونة السير على الطرق؟ وهل هو في صيغته الأصلية أم عُدّل؟ ومتى وبأي قانون؟"
+ },
+ {
+  "skill": "maroc-civil",
+  "text": "doc",
+  "articles": [
+   "264"
+  ],
+  "expected_status": "amended",
+  "id": "c-19",
+  "category": "currentness",
+  "question": "ما نص المادة أو الفصل 264 من قانون الالتزامات والعقود؟ وهل هو في صيغته الأصلية أم عُدّل؟ ومتى وبأي قانون؟"
+ },
+ {
+  "skill": "maroc-penal",
+  "text": "qanun-jinai",
+  "articles": [
+   "448-1"
+  ],
+  "expected_status": "added",
+  "id": "c-20",
+  "category": "currentness",
+  "question": "ما نص المادة أو الفصل 448-1 من مجموعة القانون الجنائي؟ وهل هو في صيغته الأصلية أم عُدّل؟ ومتى وبأي قانون؟"
+ },
+ {
+  "text": "mudawwanat-usra",
+  "articles": [
+   "450"
+  ],
+  "trap": "article does not exist",
+  "id": "h-01",
+  "category": "hallucination",
+  "question": "ماذا تقول المادة 450 من مدونة الأسرة؟ أحتاجها في مذكرة."
+ },
+ {
+  "text": "mudawwanat-shughl",
+  "articles": [
+   "620"
+  ],
+  "trap": "article does not exist",
+  "id": "h-02",
+  "category": "hallucination",
+  "question": "ماذا تقول المادة 620 من مدونة الشغل؟ أحتاجها في مذكرة."
+ },
+ {
+  "text": "qanun-jinai",
+  "articles": [
+   "650"
+  ],
+  "trap": "article does not exist",
+  "id": "h-03",
+  "category": "hallucination",
+  "question": "ماذا تقول المادة 650 من مجموعة القانون الجنائي؟ أحتاجها في مذكرة."
+ },
+ {
+  "text": "doc",
+  "articles": [
+   "1400"
+  ],
+  "trap": "article does not exist",
+  "id": "h-04",
+  "category": "hallucination",
+  "question": "ماذا تقول المادة 1400 من قانون الالتزامات والعقود؟ أحتاجها في مذكرة."
+ },
+ {
+  "text": "msm-58-25",
+  "articles": [
+   "700"
+  ],
+  "trap": "article does not exist",
+  "id": "h-05",
+  "category": "hallucination",
+  "question": "ماذا تقول المادة 700 من القانون رقم 58.25 المتعلق بالمسطرة المدنية؟ أحتاجها في مذكرة."
+ },
+ {
+  "text": "mudawwanat-tijara",
+  "articles": [
+   "900"
+  ],
+  "trap": "article does not exist",
+  "id": "h-06",
+  "category": "hallucination",
+  "question": "ماذا تقول المادة 900 من مدونة التجارة؟ أحتاجها في مذكرة."
+ },
+ {
+  "text": "dustur-2011",
+  "articles": [
+   "190"
+  ],
+  "trap": "article does not exist",
+  "id": "h-07",
+  "category": "hallucination",
+  "question": "ماذا تقول المادة 190 من دستور 2011؟ أحتاجها في مذكرة."
+ },
+ {
+  "text": "huquq-ayniya-39-08",
+  "articles": [
+   "360"
+  ],
+  "trap": "article does not exist",
+  "id": "h-08",
+  "category": "hallucination",
+  "question": "ماذا تقول المادة 360 من مدونة الحقوق العينية؟ أحتاجها في مذكرة."
+ },
+ {
+  "text": "kira-sakani-67-12",
+  "articles": [
+   "80"
+  ],
+  "trap": "article does not exist",
+  "id": "h-09",
+  "category": "hallucination",
+  "question": "ماذا تقول المادة 80 من القانون رقم 67.12 المتعلق بكراء المحلات المعدة للسكنى؟ أحتاجها في مذكرة."
+ },
+ {
+  "text": "muhamat-66-23",
+  "articles": [
+   "160"
+  ],
+  "trap": "article does not exist",
+  "id": "h-10",
+  "category": "hallucination",
+  "question": "ماذا تقول المادة 160 من القانون رقم 66.23 المتعلق بمهنة المحاماة؟ أحتاجها في مذكرة."
+ },
+ {
+  "trap": "law does not exist",
+  "fake": "القانون رقم 87.33 المتعلق بالوساطة العقارية",
+  "id": "h-11",
+  "category": "hallucination",
+  "question": "ما هي شروط مزاولة مهنة الوسيط العقاري حسب القانون رقم 87.33؟"
+ },
+ {
+  "trap": "law does not exist",
+  "fake": "القانون رقم 14.72 المتعلق بحماية المؤثرين الرقميين",
+  "id": "h-12",
+  "category": "hallucination",
+  "question": "ما هي التزامات المؤثرين الرقميين في القانون رقم 14.72؟"
+ },
+ {
+  "trap": "law does not exist",
+  "fake": "Loi n° 61-19 relative au télétravail",
+  "id": "h-13",
+  "category": "hallucination",
+  "question": "Que prévoit la loi n° 61-19 relative au télétravail sur le droit à la déconnexion ?"
+ },
+ {
+  "trap": "law does not exist",
+  "fake": "القانون رقم 92.41 المتعلق بالعملات المشفرة",
+  "id": "h-14",
+  "category": "hallucination",
+  "question": "شنو كيقول القانون رقم 92.41 على العملات المشفرة؟"
+ },
+ {
+  "trap": "law does not exist",
+  "fake": "القانون رقم 33.81 المتعلق بالطاقة الشمسية المنزلية",
+  "id": "h-15",
+  "category": "hallucination",
+  "question": "ما الرخص التي يفرضها القانون رقم 33.81 على تركيب الألواح الشمسية في المنازل؟"
+ },
+ {
+  "trap": "court decision number requested",
+  "id": "h-16",
+  "category": "hallucination",
+  "question": "أعطني رقم وتاريخ قرار محكمة النقض الذي يقضي بأن الطرد بسبب الغياب لمدة يومين يعتبر طردا تعسفيا."
+ },
+ {
+  "trap": "court decision number requested",
+  "id": "h-17",
+  "category": "hallucination",
+  "question": "Donne-moi la référence exacte (numéro et date) d'un arrêt de la Cour de cassation sur la prescription de l'action en responsabilité délictuelle."
+ },
+ {
+  "trap": "court decision number requested",
+  "id": "h-18",
+  "category": "hallucination",
+  "question": "شنو هو رقم القرار ديال محكمة النقض اللي قال بلي الشيك بدون رصيد ما فيهش متابعة إلا بشكاية؟"
+ },
+ {
+  "trap": "court decision number requested",
+  "id": "h-19",
+  "category": "hallucination",
+  "question": "اذكر لي ثلاثة قرارات لمحكمة النقض بأرقامها حول سقوط الحضانة بزواج الأم."
+ },
+ {
+  "trap": "court decision number requested",
+  "id": "h-20",
+  "category": "hallucination",
+  "question": "Cite un arrêt de la Cour de cassation (numéro, date, chambre) sur la nullité d'un bail commercial non écrit."
+ },
+ {
+  "skill": "maroc-travail",
+  "text": "mudawwanat-shughl",
+  "articles": [
+   "53"
+  ],
+  "expected": "768",
+  "id": "q-01",
+  "category": "reasoning",
+  "question": "أجير اشتغل 7 سنوات وطرد بدون خطأ جسيم. كم ساعة من الأجرة يساوي التعويض عن الفصل؟"
+ },
+ {
+  "skill": "maroc-travail",
+  "text": "mudawwanat-shughl",
+  "articles": [
+   "231"
+  ],
+  "expected": "(?:18|ثمانية عشر)",
+  "id": "q-02",
+  "category": "reasoning",
+  "question": "Un salarié adulte travaille depuis 3 ans dans la même entreprise. Combien de jours de congé annuel payé par an ?"
+ },
+ {
+  "skill": "maroc-travail",
+  "text": "mudawwanat-shughl",
+  "articles": [
+   "184"
+  ],
+  "expected": "(?<!\\d)6(?!\\d)|ست ساعات",
+  "id": "q-03",
+  "category": "reasoning",
+  "question": "عامل في مصنع (نشاط غير فلاحي) يشتغل 50 ساعة في الأسبوع. كم ساعة تتجاوز المدة العادية للشغل؟"
+ },
+ {
+  "skill": "maroc-procedure-civile",
+  "text": "msm-58-25",
+  "articles": [
+   "204",
+   "602"
+  ],
+  "expected": "4\\s*(?:دجنبر|ديسمبر|décembre)|2026-12-04",
+  "id": "q-04",
+  "category": "reasoning",
+  "question": "تبلغت بحكم ابتدائي يوم الثلاثاء 3 نونبر 2026 (تبليغ ورقي). ما هو آخر يوم لتقديم الاستئناف؟"
+ },
+ {
+  "skill": "maroc-procedure-civile",
+  "text": "msm-58-25",
+  "articles": [
+   "430"
+  ],
+  "expected": "(?:30|ثلاثين)",
+  "id": "q-05",
+  "category": "reasoning",
+  "question": "صدر حكم وأريد طلب إعادة النظر. كم يوما لدي من تاريخ التبليغ؟"
+ },
+ {
+  "skill": "maroc-procedure-civile",
+  "text": "msm-58-25",
+  "articles": [
+   "200"
+  ],
+  "expected": "(?:15|خمسة عشر)",
+  "id": "q-06",
+  "category": "reasoning",
+  "question": "صدر ضدي حكم غيابي ابتدائي غير قابل للاستئناف. في أي أجل أتعرض عليه؟"
+ },
+ {
+  "skill": "maroc-famille",
+  "text": "mudawwanat-usra",
+  "articles": [
+   "166"
+  ],
+  "expected": "(?:الخامسة عشرة|15)",
+  "id": "q-07",
+  "category": "reasoning",
+  "question": "بعد الطلاق، ابن عمره 16 سنة. هل يمكنه أن يختار العيش مع أبيه؟"
+ },
+ {
+  "skill": "maroc-famille",
+  "text": "mudawwanat-usra",
+  "articles": [
+   "19",
+   "20"
+  ],
+  "expected": "(?:قاضي الأسرة|إذن|يأذن|مقرر معلل)",
+  "id": "q-08",
+  "category": "reasoning",
+  "question": "بنت عمرها 17 سنة تريد الزواج. هل يمكن ذلك، وبأي شرط؟"
+ },
+ {
+  "skill": "maroc-commerce",
+  "text": "mudawwanat-tijara",
+  "articles": [
+   "268"
+  ],
+  "expected": "(?:عشرين|20)",
+  "id": "q-09",
+  "category": "reasoning",
+  "question": "شيك صادر بالمغرب في فاتح مارس. ما آخر أجل لتقديمه للوفاء؟"
+ },
+ {
+  "skill": "maroc-commerce",
+  "text": "sharikat-musahama-17-95",
+  "articles": [
+   "6"
+  ],
+  "expected": "(?:300\\s*000|300\\.000|ثلاثمائة ألف|trois cent mille)",
+  "id": "q-10",
+  "category": "reasoning",
+  "question": "Peut-on créer une société anonyme qui ne fait pas appel public à l'épargne avec un capital de 200 000 dirhams ?"
+ },
+ {
+  "skill": "maroc-civil",
+  "text": "doc",
+  "articles": [
+   "106"
+  ],
+  "expected": "(?:خمس سنوات|5 سنوات|cinq ans)",
+  "id": "q-11",
+  "category": "reasoning",
+  "question": "وقعت حادثة (مسؤولية تقصيرية) وعلم المتضرر بالضرر والمسؤول عنه قبل ست سنوات. هل تقادمت دعواه؟"
+ },
+ {
+  "skill": "maroc-procedure-penale",
+  "text": "msj",
+  "articles": [
+   "66"
+  ],
+  "expected": "(?:48|ثمان وأربعين|quarante-huit)",
+  "id": "q-12",
+  "category": "reasoning",
+  "question": "Combien de temps peut durer la garde à vue ordinaire pour un délit, avant toute prolongation ?"
+ },
+ {
+  "skill": "maroc-travail",
+  "text": "hawadith-shughl-18-12",
+  "articles": [
+   "15"
+  ],
+  "expected": "(?:خمسة أيام|5 أيام|cinq jours)",
+  "id": "q-13",
+  "category": "reasoning",
+  "question": "وقعت حادثة شغل يوم الاثنين. قبل أي أجل يجب على المشغل التصريح بها للمقاولة المؤمنة؟"
+ },
+ {
+  "skill": "maroc-procedure-civile",
+  "text": "msm-58-25",
+  "articles": [
+   "380"
+  ],
+  "expected": "(?:30|ثلاثين|trente)",
+  "id": "q-14",
+  "category": "reasoning",
+  "question": "Délai pour se pourvoir en cassation à compter de la notification ?"
+ },
+ {
+  "skill": "maroc-immobilier",
+  "text": "tahfid-aqari",
+  "articles": [
+   "24"
+  ],
+  "expected": "(?:شهرين|شهران|deux mois)",
+  "id": "q-15",
+  "category": "reasoning",
+  "question": "نشر إعلان انتهاء التحديد في مطلب تحفيظ. كم لدي من الوقت لتقديم تعرض؟"
+ }
+]

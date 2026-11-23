@@ -90,6 +90,11 @@
 
 أو بدون نظام الإضافات: `git clone` ثم `./install.sh`.
 
+**تطبيق ويب لمكتب المحاماة** (دون Python ولا إعدادات بالنسبة للمحامي): مساعد بالعربية والفرنسية والدارجة،
+بحث، بطاقات المواد، الآجال، رفع الوثائق، مكتبة قرارات خاصة بالمكتب، السجل، تصدير Word/PDF، حسابات محلية،
+تشفير البيانات، سجل التدقيق، حذف تلقائي. `docker compose -f webapp/docker-compose.yml up -d --build` ثم
+<http://localhost:8642>، بمفتاح المكتب أو بنموذج محلي: [webapp/README.md](webapp/README.md)، والأمن: [docs/SECURITY.md](docs/SECURITY.md).
+
 **أي ذكاء اصطناعي آخر** (ChatGPT وGemini وCopilot وCursor وWindsurf وCodex وLM Studio…): نفس النصوص
 عبر خادم MCP (محليا أو عبر HTTP) أو مجموعة البيانات `exports/moroccan-law-articles.jsonl.gz`
 (41,410 مادة، كل مادة في سطر JSON). طريقة التثبيت في كل تطبيق: [docs/USE_WITH_ANY_AI.md](docs/USE_WITH_ANY_AI.md).

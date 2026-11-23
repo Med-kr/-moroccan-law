@@ -92,6 +92,12 @@ what the Ministry publishes.
 or copy the skills without the plugin system: `git clone`, then `./install.sh` (all skills into
 `~/.claude/skills`; `./install.sh --list`, `./install.sh maroc-travail`, `--project`).
 
+**Web app for a law firm** (no Python, no configuration for the lawyer): chat in Arabic, French and Darija,
+search, article cards, deadlines, document upload, the firm's own case-law library, history, Word/PDF export,
+local accounts, encryption at rest, audit log, automatic deletion. `docker compose -f webapp/docker-compose.yml up -d --build`,
+then <http://localhost:8642>, with the firm's own AI key or a local model: [webapp/README.md](webapp/README.md),
+security: [docs/SECURITY.md](docs/SECURITY.md).
+
 **Any other AI** (ChatGPT, Gemini, Copilot, Cursor, Windsurf, Codex, LM Studio…): the same texts
 through the MCP server (local or over HTTP) or the dataset `exports/moroccan-law-articles.jsonl.gz`
 (41,410 articles, one JSON line each). Step-by-step for each app, and the rules to give the AI:

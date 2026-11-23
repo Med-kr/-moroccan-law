@@ -17,6 +17,10 @@ jobs:
         run: pip install pymupdf
       - name: Tests (parser, built skills, lookup tools, legal review set)
         run: python -W ignore -m unittest discover -s tests -v
+      - name: Web app tests (simulated AI provider, no key)
+        run: |
+          pip install -r webapp/requirements.txt
+          python -W ignore -m unittest webapp.tests.test_webapp -v
       - name: Every parser note reviewed, every amending law cited
         run: |
           python scripts/review_anomalies.py

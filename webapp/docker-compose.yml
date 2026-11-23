@@ -1,0 +1,15 @@
+services:
+  moroccan-law:
+    build:
+      context: ..
+      dockerfile: webapp/Dockerfile
+    ports:
+      - "127.0.0.1:${MOROCCAN_LAW_PORT:-8642}:8000"     # this machine only; to open it to the office network, put HTTPS in front
+    volumes:
+      - moroccan-law-data:/data   # database, encrypted contents, key file
+    environment:
+      # MOROCCAN_LAW_SECRET: set a Fernet key here (python -m webapp.store) to keep the key outside the volume
+      MOROCCAN_LAW_HTTPS: "0"
+    restart: unless-stopped
+volumes:
+  moroccan-law-data:
